@@ -1,0 +1,4771 @@
+{
+    "data_list": [
+        {
+            "Name": "Ethereum",
+            "Protocols": "1375",
+            "TVL": "$61.728b"
+        },
+        {
+            "Name": "Solana",
+            "Protocols": "225",
+            "TVL": "$8.271b"
+        },
+        {
+            "Name": "Bitcoin",
+            "Protocols": "59",
+            "TVL": "$6.411b"
+        },
+        {
+            "Name": "BSC",
+            "Protocols": "896",
+            "TVL": "$5.963b"
+        },
+        {
+            "Name": "Tron",
+            "Protocols": "35",
+            "TVL": "$4.821b"
+        },
+        {
+            "Name": "Base",
+            "Protocols": "535",
+            "TVL": "$3.724b"
+        },
+        {
+            "Name": "Arbitrum",
+            "Protocols": "807",
+            "TVL": "$2.408b"
+        },
+        {
+            "Name": "Sui",
+            "Protocols": "65",
+            "TVL": "$1.78b"
+        },
+        {
+            "Name": "Hyperliquid L1",
+            "Protocols": "37",
+            "TVL": "$1.694b"
+        },
+        {
+            "Name": "Avalanche",
+            "Protocols": "446",
+            "TVL": "$1.459b"
+        },
+        {
+            "Name": "Aptos",
+            "Protocols": "61",
+            "TVL": "$1.054b"
+        },
+        {
+            "Name": "Polygon",
+            "Protocols": "615",
+            "TVL": "$1.01b"
+        },
+        {
+            "Name": "Berachain",
+            "Protocols": "75",
+            "TVL": "$924.77m"
+        },
+        {
+            "Name": "Unichain",
+            "Protocols": "36",
+            "TVL": "$792.47m"
+        },
+        {
+            "Name": "Sonic",
+            "Protocols": "132",
+            "TVL": "$714.23m"
+        },
+        {
+            "Name": "Sei",
+            "Protocols": "49",
+            "TVL": "$499.5m"
+        },
+        {
+            "Name": "Cronos",
+            "Protocols": "120",
+            "TVL": "$436.53m"
+        },
+        {
+            "Name": "BSquared",
+            "Protocols": "24",
+            "TVL": "$426.74m"
+        },
+        {
+            "Name": "Bitlayer",
+            "Protocols": "28",
+            "TVL": "$396m"
+        },
+        {
+            "Name": "CORE",
+            "Protocols": "58",
+            "TVL": "$382.27m"
+        },
+        {
+            "Name": "OP Mainnet",
+            "Protocols": "295",
+            "TVL": "$374.72m"
+        },
+        {
+            "Name": "Hemi",
+            "Protocols": "33",
+            "TVL": "$316.48m"
+        },
+        {
+            "Name": "Taiko",
+            "Protocols": "41",
+            "TVL": "$294.05m"
+        },
+        {
+            "Name": "Cardano",
+            "Protocols": "48",
+            "TVL": "$277.78m"
+        },
+        {
+            "Name": "Rootstock",
+            "Protocols": "29",
+            "TVL": "$270.08m"
+        },
+        {
+            "Name": "Gnosis",
+            "Protocols": "79",
+            "TVL": "$267.74m"
+        },
+        {
+            "Name": "Vaulta",
+            "Protocols": "23",
+            "TVL": "$253.29m"
+        },
+        {
+            "Name": "PulseChain",
+            "Protocols": "49",
+            "TVL": "$242.45m"
+        },
+        {
+            "Name": "dYdX",
+            "Protocols": "2",
+            "TVL": "$236.86m"
+        },
+        {
+            "Name": "Mantle",
+            "Protocols": "117",
+            "TVL": "$214.61m"
+        },
+        {
+            "Name": "BOB",
+            "Protocols": "29",
+            "TVL": "$157.95m"
+        },
+        {
+            "Name": "Flare",
+            "Protocols": "20",
+            "TVL": "$151.19m"
+        },
+        {
+            "Name": "TON",
+            "Protocols": "59",
+            "TVL": "$147.33m"
+        },
+        {
+            "Name": "Near",
+            "Protocols": "31",
+            "TVL": "$144.94m"
+        },
+        {
+            "Name": "Kava",
+            "Protocols": "143",
+            "TVL": "$144.67m"
+        },
+        {
+            "Name": "Linea",
+            "Protocols": "132",
+            "TVL": "$137.73m"
+        },
+        {
+            "Name": "Soneium",
+            "Protocols": "24",
+            "TVL": "$117.02m"
+        },
+        {
+            "Name": "Hydration",
+            "Protocols": "2",
+            "TVL": "$110.21m"
+        },
+        {
+            "Name": "Blast",
+            "Protocols": "154",
+            "TVL": "$109.53m"
+        },
+        {
+            "Name": "Morph",
+            "Protocols": "13",
+            "TVL": "$107.14m"
+        },
+        {
+            "Name": "Goat",
+            "Protocols": "10",
+            "TVL": "$105.79m"
+        },
+        {
+            "Name": "Mixin",
+            "Protocols": "10",
+            "TVL": "$101.14m"
+        },
+        {
+            "Name": "Stacks",
+            "Protocols": "14",
+            "TVL": "$99.78m"
+        },
+        {
+            "Name": "Starknet",
+            "Protocols": "37",
+            "TVL": "$97.07m"
+        },
+        {
+            "Name": "Stellar",
+            "Protocols": "16",
+            "TVL": "$88.21m"
+        },
+        {
+            "Name": "Movement",
+            "Protocols": "13",
+            "TVL": "$87.19m"
+        },
+        {
+            "Name": "AILayer",
+            "Protocols": "6",
+            "TVL": "$86.26m"
+        },
+        {
+            "Name": "Hedera",
+            "Protocols": "16",
+            "TVL": "$77.02m"
+        },
+        {
+            "Name": "Flow",
+            "Protocols": "14",
+            "TVL": "$76.53m"
+        },
+        {
+            "Name": "Thorchain",
+            "Protocols": "3",
+            "TVL": "$74.29m"
+        },
+        {
+            "Name": "Fraxtal",
+            "Protocols": "27",
+            "TVL": "$69.5m"
+        },
+        {
+            "Name": "Celo",
+            "Protocols": "62",
+            "TVL": "$69.33m"
+        },
+        {
+            "Name": "Merlin",
+            "Protocols": "24",
+            "TVL": "$63.71m"
+        },
+        {
+            "Name": "BounceBit",
+            "Protocols": "14",
+            "TVL": "$63.53m"
+        },
+        {
+            "Name": "Ronin",
+            "Protocols": "7",
+            "TVL": "$62.39m"
+        },
+        {
+            "Name": "Osmosis",
+            "Protocols": "18",
+            "TVL": "$61.25m"
+        },
+        {
+            "Name": "XRPL",
+            "Protocols": "9",
+            "TVL": "$57.95m"
+        },
+        {
+            "Name": "Plume Mainnet",
+            "Protocols": "21",
+            "TVL": "$56.03m"
+        },
+        {
+            "Name": "ZKsync Era",
+            "Protocols": "133",
+            "TVL": "$52.64m"
+        },
+        {
+            "Name": "Verus",
+            "Protocols": "1",
+            "TVL": "$51.89m"
+        },
+        {
+            "Name": "MultiversX",
+            "Protocols": "23",
+            "TVL": "$49.3m"
+        },
+        {
+            "Name": "Scroll",
+            "Protocols": "119",
+            "TVL": "$42.87m"
+        },
+        {
+            "Name": "World Chain",
+            "Protocols": "15",
+            "TVL": "$42.73m"
+        },
+        {
+            "Name": "Etherlink",
+            "Protocols": "11",
+            "TVL": "$42.43m"
+        },
+        {
+            "Name": "Neutron",
+            "Protocols": "19",
+            "TVL": "$41.09m"
+        },
+        {
+            "Name": "Algorand",
+            "Protocols": "37",
+            "TVL": "$39.02m"
+        },
+        {
+            "Name": "Kaia",
+            "Protocols": "63",
+            "TVL": "$35m"
+        },
+        {
+            "Name": "Eclipse",
+            "Protocols": "11",
+            "TVL": "$32.75m"
+        },
+        {
+            "Name": "Tezos",
+            "Protocols": "20",
+            "TVL": "$31.35m"
+        },
+        {
+            "Name": "Filecoin",
+            "Protocols": "25",
+            "TVL": "$29.67m"
+        },
+        {
+            "Name": "ICP",
+            "Protocols": "12",
+            "TVL": "$28.78m"
+        },
+        {
+            "Name": "Injective",
+            "Protocols": "27",
+            "TVL": "$28.5m"
+        },
+        {
+            "Name": "Abstract",
+            "Protocols": "14",
+            "TVL": "$27.51m"
+        },
+        {
+            "Name": "Swellchain",
+            "Protocols": "11",
+            "TVL": "$26.87m"
+        },
+        {
+            "Name": "Bifrost Network",
+            "Protocols": "5",
+            "TVL": "$26.37m"
+        },
+        {
+            "Name": "Metis",
+            "Protocols": "62",
+            "TVL": "$26.13m"
+        },
+        {
+            "Name": "Waves",
+            "Protocols": "11",
+            "TVL": "$25.69m"
+        },
+        {
+            "Name": "Corn",
+            "Protocols": "9",
+            "TVL": "$22.99m"
+        },
+        {
+            "Name": "Initia",
+            "Protocols": "1",
+            "TVL": "$19.31m"
+        },
+        {
+            "Name": "Rollux",
+            "Protocols": "5",
+            "TVL": "$17.28m"
+        },
+        {
+            "Name": "Manta",
+            "Protocols": "69",
+            "TVL": "$17.25m"
+        },
+        {
+            "Name": "Fantom",
+            "Protocols": "335",
+            "TVL": "$16.89m"
+        },
+        {
+            "Name": "Reya Network",
+            "Protocols": "3",
+            "TVL": "$16.2m"
+        },
+        {
+            "Name": "NEO",
+            "Protocols": "6",
+            "TVL": "$15.49m"
+        },
+        {
+            "Name": "Lisk",
+            "Protocols": "7",
+            "TVL": "$15m"
+        },
+        {
+            "Name": "Babylon Genesis",
+            "Protocols": "3",
+            "TVL": "$14.83m"
+        },
+        {
+            "Name": "IoTeX",
+            "Protocols": "35",
+            "TVL": "$14.73m"
+        },
+        {
+            "Name": "ZetaChain",
+            "Protocols": "32",
+            "TVL": "$14.5m"
+        },
+        {
+            "Name": "Icon",
+            "Protocols": "6",
+            "TVL": "$14.25m"
+        },
+        {
+            "Name": "Astar",
+            "Protocols": "45",
+            "TVL": "$13.17m"
+        },
+        {
+            "Name": "Cronos zkEVM",
+            "Protocols": "12",
+            "TVL": "$12.03m"
+        },
+        {
+            "Name": "Immutable zkEVM",
+            "Protocols": "5",
+            "TVL": "$12.01m"
+        },
+        {
+            "Name": "Saga",
+            "Protocols": "1",
+            "TVL": "$11.58m"
+        },
+        {
+            "Name": "Sophon",
+            "Protocols": "2",
+            "TVL": "$11.45m"
+        },
+        {
+            "Name": "Chainflip",
+            "Protocols": "1",
+            "TVL": "$10.87m"
+        },
+        {
+            "Name": "ApeChain",
+            "Protocols": "17",
+            "TVL": "$10.46m"
+        },
+        {
+            "Name": "Aurora",
+            "Protocols": "61",
+            "TVL": "$10.44m"
+        },
+        {
+            "Name": "Proton",
+            "Protocols": "3",
+            "TVL": "$10.25m"
+        },
+        {
+            "Name": "MAP Protocol",
+            "Protocols": "9",
+            "TVL": "$10.05m"
+        },
+        {
+            "Name": "Conflux",
+            "Protocols": "17",
+            "TVL": "$9.82m"
+        },
+        {
+            "Name": "XDC",
+            "Protocols": "18",
+            "TVL": "$9.72m"
+        },
+        {
+            "Name": "Story",
+            "Protocols": "9",
+            "TVL": "$9.45m"
+        },
+        {
+            "Name": "IOTA EVM",
+            "Protocols": "9",
+            "TVL": "$9.05m"
+        },
+        {
+            "Name": "Zircuit",
+            "Protocols": "18",
+            "TVL": "$8.95m"
+        },
+        {
+            "Name": "Bifrost",
+            "Protocols": "3",
+            "TVL": "$8.87m"
+        },
+        {
+            "Name": "aelf",
+            "Protocols": "1",
+            "TVL": "$8.72m"
+        },
+        {
+            "Name": "Secret",
+            "Protocols": "10",
+            "TVL": "$8.64m"
+        },
+        {
+            "Name": "Kujira",
+            "Protocols": "15",
+            "TVL": "$8.6m"
+        },
+        {
+            "Name": "WEMIX3.0",
+            "Protocols": "12",
+            "TVL": "$8.24m"
+        },
+        {
+            "Name": "FSC",
+            "Protocols": "1",
+            "TVL": "$8.02m"
+        },
+        {
+            "Name": "Fuel Ignition",
+            "Protocols": "7",
+            "TVL": "$7.87m"
+        },
+        {
+            "Name": "Bitcoincash",
+            "Protocols": "3",
+            "TVL": "$7.77m"
+        },
+        {
+            "Name": "Mayachain",
+            "Protocols": "1",
+            "TVL": "$7.67m"
+        },
+        {
+            "Name": "opBNB",
+            "Protocols": "41",
+            "TVL": "$7.58m"
+        },
+        {
+            "Name": "K2",
+            "Protocols": "2",
+            "TVL": "$7.26m"
+        },
+        {
+            "Name": "Onus",
+            "Protocols": "5",
+            "TVL": "$7.09m"
+        },
+        {
+            "Name": "Oasis Sapphire",
+            "Protocols": "9",
+            "TVL": "$7.02m"
+        },
+        {
+            "Name": "Polynomial",
+            "Protocols": "2",
+            "TVL": "$6.92m"
+        },
+        {
+            "Name": "Moonbeam",
+            "Protocols": "65",
+            "TVL": "$6.91m"
+        },
+        {
+            "Name": "Telos",
+            "Protocols": "42",
+            "TVL": "$6.86m"
+        },
+        {
+            "Name": "Ink",
+            "Protocols": "12",
+            "TVL": "$6.8m"
+        },
+        {
+            "Name": "Venom",
+            "Protocols": "3",
+            "TVL": "$6.66m"
+        },
+        {
+            "Name": "Ontology",
+            "Protocols": "3",
+            "TVL": "$6.34m"
+        },
+        {
+            "Name": "Chiliz",
+            "Protocols": "10",
+            "TVL": "$6.2m"
+        },
+        {
+            "Name": "X Layer",
+            "Protocols": "26",
+            "TVL": "$5.74m"
+        },
+        {
+            "Name": "Bahamut",
+            "Protocols": "6",
+            "TVL": "$5.64m"
+        },
+        {
+            "Name": "Radix",
+            "Protocols": "20",
+            "TVL": "$5.61m"
+        },
+        {
+            "Name": "Elys",
+            "Protocols": "2",
+            "TVL": "$5.45m"
+        },
+        {
+            "Name": "Terra2",
+            "Protocols": "16",
+            "TVL": "$5.39m"
+        },
+        {
+            "Name": "Vite",
+            "Protocols": "4",
+            "TVL": "$4.95m"
+        },
+        {
+            "Name": "DFS Network",
+            "Protocols": "1",
+            "TVL": "$4.65m"
+        },
+        {
+            "Name": "Dexalot",
+            "Protocols": "1",
+            "TVL": "$4.61m"
+        },
+        {
+            "Name": "Mode",
+            "Protocols": "78",
+            "TVL": "$4.4m"
+        },
+        {
+            "Name": "Canto",
+            "Protocols": "26",
+            "TVL": "$4.38m"
+        },
+        {
+            "Name": "Echelon Chain",
+            "Protocols": "1",
+            "TVL": "$4.15m"
+        },
+        {
+            "Name": "Dymension",
+            "Protocols": "3",
+            "TVL": "$3.76m"
+        },
+        {
+            "Name": "Vision",
+            "Protocols": "2",
+            "TVL": "$3.61m"
+        },
+        {
+            "Name": "Wanchain",
+            "Protocols": "9",
+            "TVL": "$3.61m"
+        },
+        {
+            "Name": "Ergo",
+            "Protocols": "11",
+            "TVL": "$3.5m"
+        },
+        {
+            "Name": "Doge",
+            "Protocols": "5",
+            "TVL": "$3.26m"
+        },
+        {
+            "Name": "Gravity by Galxe",
+            "Protocols": "4",
+            "TVL": "$2.8m"
+        },
+        {
+            "Name": "Polygon zkEVM",
+            "Protocols": "71",
+            "TVL": "$2.78m"
+        },
+        {
+            "Name": "DefiChain",
+            "Protocols": "3",
+            "TVL": "$2.65m"
+        },
+        {
+            "Name": "Fluence",
+            "Protocols": "1",
+            "TVL": "$2.51m"
+        },
+        {
+            "Name": "Litecoin",
+            "Protocols": "4",
+            "TVL": "$2.38m"
+        },
+        {
+            "Name": "Hydra",
+            "Protocols": "3",
+            "TVL": "$2.35m"
+        },
+        {
+            "Name": "Dogechain",
+            "Protocols": "45",
+            "TVL": "$2.29m"
+        },
+        {
+            "Name": "Oasys",
+            "Protocols": "5",
+            "TVL": "$2.25m"
+        },
+        {
+            "Name": "Beam",
+            "Protocols": "2",
+            "TVL": "$2.18m"
+        },
+        {
+            "Name": "OKTChain",
+            "Protocols": "37",
+            "TVL": "$2.16m"
+        },
+        {
+            "Name": "HashKey Chain",
+            "Protocols": "2",
+            "TVL": "$2.13m"
+        },
+        {
+            "Name": "Moonriver",
+            "Protocols": "57",
+            "TVL": "$2.06m"
+        },
+        {
+            "Name": "Shibarium",
+            "Protocols": "18",
+            "TVL": "$2.05m"
+        },
+        {
+            "Name": "DFK",
+            "Protocols": "2",
+            "TVL": "$2.04m"
+        },
+        {
+            "Name": "Viction",
+            "Protocols": "8",
+            "TVL": "$1.92m"
+        },
+        {
+            "Name": "Carbon",
+            "Protocols": "4",
+            "TVL": "$1.85m"
+        },
+        {
+            "Name": "EOS EVM",
+            "Protocols": "8",
+            "TVL": "$1.74m"
+        },
+        {
+            "Name": "Vana",
+            "Protocols": "1",
+            "TVL": "$1.74m"
+        },
+        {
+            "Name": "Boba",
+            "Protocols": "29",
+            "TVL": "$1.61m"
+        },
+        {
+            "Name": "Nuls",
+            "Protocols": "4",
+            "TVL": "$1.53m"
+        },
+        {
+            "Name": "Oraichain",
+            "Protocols": "4",
+            "TVL": "$1.52m"
+        },
+        {
+            "Name": "Interlay",
+            "Protocols": "5",
+            "TVL": "$1.51m"
+        },
+        {
+            "Name": "AB",
+            "Protocols": "1",
+            "TVL": "$1.48m"
+        },
+        {
+            "Name": "Songbird",
+            "Protocols": "7",
+            "TVL": "$1.48m"
+        },
+        {
+            "Name": "UX",
+            "Protocols": "3",
+            "TVL": "$1.44m"
+        },
+        {
+            "Name": "QL1",
+            "Protocols": "1",
+            "TVL": "$1.4m"
+        },
+        {
+            "Name": "Alephium",
+            "Protocols": "5",
+            "TVL": "$1.4m"
+        },
+        {
+            "Name": "Harmony",
+            "Protocols": "61",
+            "TVL": "$1.37m"
+        },
+        {
+            "Name": "EDU Chain",
+            "Protocols": "8",
+            "TVL": "$1.37m"
+        },
+        {
+            "Name": "VeChain",
+            "Protocols": "3",
+            "TVL": "$1.35m"
+        },
+        {
+            "Name": "Zilliqa",
+            "Protocols": "8",
+            "TVL": "$1.29m"
+        },
+        {
+            "Name": "KCC",
+            "Protocols": "28",
+            "TVL": "$1.27m"
+        },
+        {
+            "Name": "GodwokenV1",
+            "Protocols": "7",
+            "TVL": "$1.25m"
+        },
+        {
+            "Name": "LightLink",
+            "Protocols": "5",
+            "TVL": "$1.22m"
+        },
+        {
+            "Name": "KUB",
+            "Protocols": "7",
+            "TVL": "$1.16m"
+        },
+        {
+            "Name": "Equilibrium",
+            "Protocols": "1",
+            "TVL": "$1.13m"
+        },
+        {
+            "Name": "Namada",
+            "Protocols": "1",
+            "TVL": "$1.09m"
+        },
+        {
+            "Name": "Rangers",
+            "Protocols": "2",
+            "TVL": "$1.09m"
+        },
+        {
+            "Name": "Supra",
+            "Protocols": "5",
+            "TVL": "$1.08m"
+        },
+        {
+            "Name": "Superseed",
+            "Protocols": "5",
+            "TVL": "$1.04m"
+        },
+        {
+            "Name": "Theta",
+            "Protocols": "5",
+            "TVL": "$1.03m"
+        },
+        {
+            "Name": "Archway",
+            "Protocols": "7",
+            "TVL": "$914,121"
+        },
+        {
+            "Name": "MTT Network",
+            "Protocols": "1",
+            "TVL": "$908,587"
+        },
+        {
+            "Name": "Wax",
+            "Protocols": "14",
+            "TVL": "$886,136"
+        },
+        {
+            "Name": "Kadena",
+            "Protocols": "6",
+            "TVL": "$874,444"
+        },
+        {
+            "Name": "Elastos",
+            "Protocols": "3",
+            "TVL": "$872,963"
+        },
+        {
+            "Name": "XPLA",
+            "Protocols": "3",
+            "TVL": "$805,080"
+        },
+        {
+            "Name": "SX Rollup",
+            "Protocols": "2",
+            "TVL": "$786,777"
+        },
+        {
+            "Name": "WINR",
+            "Protocols": "2",
+            "TVL": "$767,973"
+        },
+        {
+            "Name": "Unit Zero",
+            "Protocols": "3",
+            "TVL": "$756,954"
+        },
+        {
+            "Name": "Odyssey",
+            "Protocols": "2",
+            "TVL": "$749,364"
+        },
+        {
+            "Name": "Starcoin",
+            "Protocols": "3",
+            "TVL": "$721,448"
+        },
+        {
+            "Name": "smartBCH",
+            "Protocols": "24",
+            "TVL": "$704,166"
+        },
+        {
+            "Name": "Milkomeda C1",
+            "Protocols": "21",
+            "TVL": "$687,963"
+        },
+        {
+            "Name": "Zero Network",
+            "Protocols": "2",
+            "TVL": "$664,923"
+        },
+        {
+            "Name": "Terra Classic",
+            "Protocols": "30",
+            "TVL": "$662,171"
+        },
+        {
+            "Name": "Arbitrum Nova",
+            "Protocols": "10",
+            "TVL": "$660,465"
+        },
+        {
+            "Name": "DeFiVerse",
+            "Protocols": "1",
+            "TVL": "$652,409"
+        },
+        {
+            "Name": "Meter",
+            "Protocols": "13",
+            "TVL": "$607,285"
+        },
+        {
+            "Name": "ShimmerEVM",
+            "Protocols": "7",
+            "TVL": "$600,822"
+        },
+        {
+            "Name": "BEVM",
+            "Protocols": "9",
+            "TVL": "$583,228"
+        },
+        {
+            "Name": "Fuse",
+            "Protocols": "27",
+            "TVL": "$582,377"
+        },
+        {
+            "Name": "Obyte",
+            "Protocols": "7",
+            "TVL": "$579,972"
+        },
+        {
+            "Name": "NOS",
+            "Protocols": "1",
+            "TVL": "$564,416"
+        },
+        {
+            "Name": "Prom",
+            "Protocols": "2",
+            "TVL": "$550,853"
+        },
+        {
+            "Name": "zkLink Nova",
+            "Protocols": "23",
+            "TVL": "$550,053"
+        },
+        {
+            "Name": "Ultron",
+            "Protocols": "3",
+            "TVL": "$532,428"
+        },
+        {
+            "Name": "HAQQ",
+            "Protocols": "5",
+            "TVL": "$526,413"
+        },
+        {
+            "Name": "Persistence One",
+            "Protocols": "3",
+            "TVL": "$520,782"
+        },
+        {
+            "Name": "Acala",
+            "Protocols": "8",
+            "TVL": "$500,394"
+        },
+        {
+            "Name": "Mantra",
+            "Protocols": "4",
+            "TVL": "$481,822"
+        },
+        {
+            "Name": "Energi",
+            "Protocols": "1",
+            "TVL": "$471,236"
+        },
+        {
+            "Name": "CSC",
+            "Protocols": "5",
+            "TVL": "$455,896"
+        },
+        {
+            "Name": "Oasis Emerald",
+            "Protocols": "19",
+            "TVL": "$450,780"
+        },
+        {
+            "Name": "Haven1",
+            "Protocols": "1",
+            "TVL": "$447,298"
+        },
+        {
+            "Name": "SatoshiVM",
+            "Protocols": "1",
+            "TVL": "$445,150"
+        },
+        {
+            "Name": "ThunderCore",
+            "Protocols": "10",
+            "TVL": "$438,690"
+        },
+        {
+            "Name": "Taraxa",
+            "Protocols": "7",
+            "TVL": "$434,466"
+        },
+        {
+            "Name": "Everscale",
+            "Protocols": "2",
+            "TVL": "$430,886"
+        },
+        {
+            "Name": "Velas",
+            "Protocols": "15",
+            "TVL": "$427,106"
+        },
+        {
+            "Name": "Nolus",
+            "Protocols": "1",
+            "TVL": "$423,283"
+        },
+        {
+            "Name": "CosmosHub",
+            "Protocols": "6",
+            "TVL": "$411,543"
+        },
+        {
+            "Name": "Shido",
+            "Protocols": "1",
+            "TVL": "$402,241"
+        },
+        {
+            "Name": "Bittorrent",
+            "Protocols": "16",
+            "TVL": "$379,918"
+        },
+        {
+            "Name": "Nibiru",
+            "Protocols": "9",
+            "TVL": "$366,068"
+        },
+        {
+            "Name": "Boba_Bnb",
+            "Protocols": "2",
+            "TVL": "$354,300"
+        },
+        {
+            "Name": "Redbelly",
+            "Protocols": "1",
+            "TVL": "$329,825"
+        },
+        {
+            "Name": "EthereumClassic",
+            "Protocols": "11",
+            "TVL": "$312,652"
+        },
+        {
+            "Name": "Degen",
+            "Protocols": "9",
+            "TVL": "$306,665"
+        },
+        {
+            "Name": "SKALE Europa",
+            "Protocols": "6",
+            "TVL": "$302,401"
+        },
+        {
+            "Name": "OpenGPU",
+            "Protocols": "1",
+            "TVL": "$301,575"
+        },
+        {
+            "Name": "Kintsugi",
+            "Protocols": "1",
+            "TVL": "$288,819"
+        },
+        {
+            "Name": "RSS3",
+            "Protocols": "1",
+            "TVL": "$281,629"
+        },
+        {
+            "Name": "Agoric",
+            "Protocols": "2",
+            "TVL": "$270,605"
+        },
+        {
+            "Name": "Kroma",
+            "Protocols": "7",
+            "TVL": "$266,857"
+        },
+        {
+            "Name": "Elysium",
+            "Protocols": "1",
+            "TVL": "$266,168"
+        },
+        {
+            "Name": "Superposition",
+            "Protocols": "2",
+            "TVL": "$257,155"
+        },
+        {
+            "Name": "Xai",
+            "Protocols": "3",
+            "TVL": "$255,049"
+        },
+        {
+            "Name": "Evmos",
+            "Protocols": "23",
+            "TVL": "$232,801"
+        },
+        {
+            "Name": "Karura",
+            "Protocols": "5",
+            "TVL": "$209,740"
+        },
+        {
+            "Name": "EnergyWeb",
+            "Protocols": "1",
+            "TVL": "$208,810"
+        },
+        {
+            "Name": "Neon",
+            "Protocols": "11",
+            "TVL": "$208,751"
+        },
+        {
+            "Name": "Juno",
+            "Protocols": "10",
+            "TVL": "$205,880"
+        },
+        {
+            "Name": "Qubic",
+            "Protocols": "2",
+            "TVL": "$198,521"
+        },
+        {
+            "Name": "Aleph Zero EVM",
+            "Protocols": "1",
+            "TVL": "$194,622"
+        },
+        {
+            "Name": "FunctionX",
+            "Protocols": "3",
+            "TVL": "$173,688"
+        },
+        {
+            "Name": "Mint",
+            "Protocols": "3",
+            "TVL": "$171,273"
+        },
+        {
+            "Name": "Matchain",
+            "Protocols": "3",
+            "TVL": "$158,477"
+        },
+        {
+            "Name": "Lens",
+            "Protocols": "1",
+            "TVL": "$151,253"
+        },
+        {
+            "Name": "Ancient8",
+            "Protocols": "3",
+            "TVL": "$150,746"
+        },
+        {
+            "Name": "Saakuru",
+            "Protocols": "1",
+            "TVL": "$149,342"
+        },
+        {
+            "Name": "Libre",
+            "Protocols": "1",
+            "TVL": "$144,151"
+        },
+        {
+            "Name": "Crab",
+            "Protocols": "1",
+            "TVL": "$138,312"
+        },
+        {
+            "Name": "DeFiChain EVM",
+            "Protocols": "3",
+            "TVL": "$137,444"
+        },
+        {
+            "Name": "RENEC",
+            "Protocols": "2",
+            "TVL": "$132,574"
+        },
+        {
+            "Name": "Naka",
+            "Protocols": "1",
+            "TVL": "$129,488"
+        },
+        {
+            "Name": "Omax",
+            "Protocols": "2",
+            "TVL": "$123,860"
+        },
+        {
+            "Name": "Kardia",
+            "Protocols": "7",
+            "TVL": "$123,459"
+        },
+        {
+            "Name": "Massa",
+            "Protocols": "1",
+            "TVL": "$119,490"
+        },
+        {
+            "Name": "HeLa",
+            "Protocols": "1",
+            "TVL": "$118,984"
+        },
+        {
+            "Name": "AirDAO",
+            "Protocols": "4",
+            "TVL": "$116,150"
+        },
+        {
+            "Name": "Shape",
+            "Protocols": "4",
+            "TVL": "$114,077"
+        },
+        {
+            "Name": "Stargaze",
+            "Protocols": "3",
+            "TVL": "$110,295"
+        },
+        {
+            "Name": "Zkfair",
+            "Protocols": "12",
+            "TVL": "$103,877"
+        },
+        {
+            "Name": "ALV",
+            "Protocols": "2",
+            "TVL": "$96,245"
+        },
+        {
+            "Name": "Dash",
+            "Protocols": "1",
+            "TVL": "$92,790"
+        },
+        {
+            "Name": "AO",
+            "Protocols": "1",
+            "TVL": "$89,778"
+        },
+        {
+            "Name": "Electroneum",
+            "Protocols": "2",
+            "TVL": "$83,020"
+        },
+        {
+            "Name": "CrossFi",
+            "Protocols": "5",
+            "TVL": "$82,494"
+        },
+        {
+            "Name": "Chihuahua",
+            "Protocols": "4",
+            "TVL": "$79,807"
+        },
+        {
+            "Name": "Tombchain",
+            "Protocols": "1",
+            "TVL": "$79,432"
+        },
+        {
+            "Name": "Step",
+            "Protocols": "2",
+            "TVL": "$79,405"
+        },
+        {
+            "Name": "Genesys",
+            "Protocols": "2",
+            "TVL": "$77,437"
+        },
+        {
+            "Name": "MVC",
+            "Protocols": "1",
+            "TVL": "$76,713"
+        },
+        {
+            "Name": "Comdex",
+            "Protocols": "5",
+            "TVL": "$76,086"
+        },
+        {
+            "Name": "Q Protocol",
+            "Protocols": "4",
+            "TVL": "$74,572"
+        },
+        {
+            "Name": "Polkadex",
+            "Protocols": "1",
+            "TVL": "$72,043"
+        },
+        {
+            "Name": "Nahmii",
+            "Protocols": "1",
+            "TVL": "$70,006"
+        },
+        {
+            "Name": "Loop",
+            "Protocols": "2",
+            "TVL": "$69,299"
+        },
+        {
+            "Name": "Swan",
+            "Protocols": "1",
+            "TVL": "$65,667"
+        },
+        {
+            "Name": "Endurance",
+            "Protocols": "4",
+            "TVL": "$64,744"
+        },
+        {
+            "Name": "DuckChain",
+            "Protocols": "4",
+            "TVL": "$64,281"
+        },
+        {
+            "Name": "Godwoken",
+            "Protocols": "3",
+            "TVL": "$63,910"
+        },
+        {
+            "Name": "Zora",
+            "Protocols": "6",
+            "TVL": "$63,397"
+        },
+        {
+            "Name": "Parex",
+            "Protocols": "1",
+            "TVL": "$60,862"
+        },
+        {
+            "Name": "EthereumPoW",
+            "Protocols": "18",
+            "TVL": "$59,279"
+        },
+        {
+            "Name": "Cyber",
+            "Protocols": "3",
+            "TVL": "$58,177"
+        },
+        {
+            "Name": "Stratis",
+            "Protocols": "2",
+            "TVL": "$57,991"
+        },
+        {
+            "Name": "Crescent",
+            "Protocols": "1",
+            "TVL": "$55,580"
+        },
+        {
+            "Name": "LaChain Network",
+            "Protocols": "2",
+            "TVL": "$55,078"
+        },
+        {
+            "Name": "Sanko",
+            "Protocols": "3",
+            "TVL": "$52,861"
+        },
+        {
+            "Name": "Bitrock",
+            "Protocols": "3",
+            "TVL": "$52,328"
+        },
+        {
+            "Name": "Aura Network",
+            "Protocols": "2",
+            "TVL": "$52,244"
+        },
+        {
+            "Name": "Rari",
+            "Protocols": "4",
+            "TVL": "$48,156"
+        },
+        {
+            "Name": "Findora",
+            "Protocols": "5",
+            "TVL": "$45,947"
+        },
+        {
+            "Name": "Bostrom",
+            "Protocols": "1",
+            "TVL": "$42,843"
+        },
+        {
+            "Name": "Lachain",
+            "Protocols": "3",
+            "TVL": "$41,105"
+        },
+        {
+            "Name": "LUKSO",
+            "Protocols": "5",
+            "TVL": "$39,822"
+        },
+        {
+            "Name": "Shiden",
+            "Protocols": "7",
+            "TVL": "$37,450"
+        },
+        {
+            "Name": "Neo X Mainnet",
+            "Protocols": "2",
+            "TVL": "$36,804"
+        },
+        {
+            "Name": "Form Network",
+            "Protocols": "3",
+            "TVL": "$32,776"
+        },
+        {
+            "Name": "re.al",
+            "Protocols": "12",
+            "TVL": "$31,652"
+        },
+        {
+            "Name": "Planq",
+            "Protocols": "2",
+            "TVL": "$31,626"
+        },
+        {
+            "Name": "Silicon zkEVM",
+            "Protocols": "3",
+            "TVL": "$31,544"
+        },
+        {
+            "Name": "Redstone",
+            "Protocols": "1",
+            "TVL": "$31,251"
+        },
+        {
+            "Name": "Migaloo",
+            "Protocols": "4",
+            "TVL": "$28,384"
+        },
+        {
+            "Name": "Moonchain",
+            "Protocols": "1",
+            "TVL": "$27,074"
+        },
+        {
+            "Name": "Horizen EON",
+            "Protocols": "7",
+            "TVL": "$24,100"
+        },
+        {
+            "Name": "Areon Network",
+            "Protocols": "1",
+            "TVL": "$21,769"
+        },
+        {
+            "Name": "Astar zkEVM",
+            "Protocols": "10",
+            "TVL": "$20,620"
+        },
+        {
+            "Name": "inEVM",
+            "Protocols": "7",
+            "TVL": "$20,212"
+        },
+        {
+            "Name": "Penumbra",
+            "Protocols": "1",
+            "TVL": "$18,965"
+        },
+        {
+            "Name": "JBC",
+            "Protocols": "4",
+            "TVL": "$16,808"
+        },
+        {
+            "Name": "MultiVAC",
+            "Protocols": "3",
+            "TVL": "$16,605"
+        },
+        {
+            "Name": "Callisto",
+            "Protocols": "1",
+            "TVL": "$16,058"
+        },
+        {
+            "Name": "Grove",
+            "Protocols": "1",
+            "TVL": "$15,557"
+        },
+        {
+            "Name": "ENULS",
+            "Protocols": "3",
+            "TVL": "$15,322"
+        },
+        {
+            "Name": "Asset Chain",
+            "Protocols": "2",
+            "TVL": "$13,510"
+        },
+        {
+            "Name": "ETHF",
+            "Protocols": "1",
+            "TVL": "$10,966"
+        },
+        {
+            "Name": "Cube",
+            "Protocols": "3",
+            "TVL": "$10,316"
+        },
+        {
+            "Name": "Ham",
+            "Protocols": "2",
+            "TVL": "$9,953"
+        },
+        {
+            "Name": "VinuChain",
+            "Protocols": "2",
+            "TVL": "$9,290"
+        },
+        {
+            "Name": "GoChain",
+            "Protocols": "1",
+            "TVL": "$7,993"
+        },
+        {
+            "Name": "REI",
+            "Protocols": "6",
+            "TVL": "$6,972"
+        },
+        {
+            "Name": "Joltify",
+            "Protocols": "2",
+            "TVL": "$6,119"
+        },
+        {
+            "Name": "Darwinia",
+            "Protocols": "1",
+            "TVL": "$5,088"
+        },
+        {
+            "Name": "Artela",
+            "Protocols": "3",
+            "TVL": "$4,657"
+        },
+        {
+            "Name": "Manta Atlantic",
+            "Protocols": "1",
+            "TVL": "$4,548"
+        },
+        {
+            "Name": "Bitgert",
+            "Protocols": "12",
+            "TVL": "$4,125"
+        },
+        {
+            "Name": "OntologyEVM",
+            "Protocols": "4",
+            "TVL": "$4,118"
+        },
+        {
+            "Name": "REIchain",
+            "Protocols": "1",
+            "TVL": "$4,063"
+        },
+        {
+            "Name": "Sifchain",
+            "Protocols": "1",
+            "TVL": "$3,761"
+        },
+        {
+            "Name": "XCHAIN",
+            "Protocols": "1",
+            "TVL": "$3,401"
+        },
+        {
+            "Name": "Plume (Deprecated)",
+            "Protocols": "8",
+            "TVL": "$1,407"
+        },
+        {
+            "Name": "SX Network",
+            "Protocols": "1",
+            "TVL": "$1,243"
+        },
+        {
+            "Name": "Milkomeda A1",
+            "Protocols": "3",
+            "TVL": "$1,146"
+        },
+        {
+            "Name": "Palm",
+            "Protocols": "2",
+            "TVL": "$533"
+        },
+        {
+            "Name": "Tenet",
+            "Protocols": "2",
+            "TVL": "$512"
+        },
+        {
+            "Name": "Concordium",
+            "Protocols": "1",
+            "TVL": "$387"
+        },
+        {
+            "Name": "Aeternity",
+            "Protocols": "1",
+            "TVL": "$307"
+        },
+        {
+            "Name": "Bitnet",
+            "Protocols": "1",
+            "TVL": "$82"
+        },
+        {
+            "Name": "Waterfall",
+            "Protocols": "1",
+            "TVL": "$8"
+        },
+        {
+            "Name": "Pego",
+            "Protocols": "2",
+            "TVL": "$4"
+        },
+        {
+            "Name": "Xphere",
+            "Protocols": "1",
+            "TVL": "$3"
+        },
+        {
+            "Name": "MilkyWay Rollup",
+            "Protocols": "1",
+            "TVL": "$0.49"
+        },
+        {
+            "Name": "Polkadot",
+            "Protocols": "3",
+            "TVL": "$0.49"
+        },
+        {
+            "Name": "BandChain",
+            "Protocols": "1",
+            "TVL": "$0.14"
+        },
+        {
+            "Name": "Syscoin",
+            "Protocols": "4",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Kusama",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Celestia",
+            "Protocols": "4",
+            "TVL": "$0"
+        },
+        {
+            "Name": "exSat",
+            "Protocols": "4",
+            "TVL": "$0"
+        },
+        {
+            "Name": "IOTA",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Milkyway",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Quicksilver",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Pryzm",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Pokt",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Sommelier",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Heco",
+            "Protocols": "50",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Kopi",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Basecamp",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Flame",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Goerli",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Dexit",
+            "Protocols": "3",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Stride",
+            "Protocols": "2",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Fusion",
+            "Protocols": "3",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Boba_Avax",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Stafi",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Empire",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "OXFUN",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Echelon",
+            "Protocols": "5",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Hoo",
+            "Protocols": "4",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Mind Network",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Perennial",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "CLV",
+            "Protocols": "6",
+            "TVL": "$0"
+        },
+        {
+            "Name": "DSC",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "ZKsync Lite",
+            "Protocols": "3",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Nova Network",
+            "Protocols": "2",
+            "TVL": "$0"
+        },
+        {
+            "Name": "CMP",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Genshiro",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Lamden",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "HPB",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Sora",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Polis",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "ZYX",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Ubiq",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Heiko",
+            "Protocols": "5",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Parallel",
+            "Protocols": "5",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Coti",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Kekchain",
+            "Protocols": "3",
+            "TVL": "$0"
+        },
+        {
+            "Name": "MUUCHAIN",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Tlchain",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Zeniq",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Bitindi",
+            "Protocols": "2",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Lung",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "Bone",
+            "Protocols": "1",
+            "TVL": "$0"
+        },
+        {
+            "Name": "MEER",
+            "Protocols": "1",
+            "TVL": "$0"
+        }
+    ],
+    "scraping_date_start": "2025-06-13 18:07:02",
+    "scraping_date_end": "2025-06-13 18:08:53"
+}{
+    "Scraping at2025-06-13 18:57:42": {
+        "data_list": [
+            {
+                "Name": "Ethereum",
+                "Protocols": "1375",
+                "TVL": "$61.728b"
+            },
+            {
+                "Name": "Solana",
+                "Protocols": "225",
+                "TVL": "$8.271b"
+            },
+            {
+                "Name": "Bitcoin",
+                "Protocols": "59",
+                "TVL": "$6.411b"
+            },
+            {
+                "Name": "BSC",
+                "Protocols": "896",
+                "TVL": "$5.963b"
+            },
+            {
+                "Name": "Tron",
+                "Protocols": "35",
+                "TVL": "$4.821b"
+            },
+            {
+                "Name": "Base",
+                "Protocols": "535",
+                "TVL": "$3.724b"
+            },
+            {
+                "Name": "Arbitrum",
+                "Protocols": "807",
+                "TVL": "$2.408b"
+            },
+            {
+                "Name": "Sui",
+                "Protocols": "65",
+                "TVL": "$1.78b"
+            },
+            {
+                "Name": "Hyperliquid L1",
+                "Protocols": "37",
+                "TVL": "$1.694b"
+            },
+            {
+                "Name": "Avalanche",
+                "Protocols": "446",
+                "TVL": "$1.459b"
+            },
+            {
+                "Name": "Aptos",
+                "Protocols": "61",
+                "TVL": "$1.054b"
+            },
+            {
+                "Name": "Polygon",
+                "Protocols": "615",
+                "TVL": "$1.01b"
+            },
+            {
+                "Name": "Berachain",
+                "Protocols": "75",
+                "TVL": "$924.77m"
+            },
+            {
+                "Name": "Unichain",
+                "Protocols": "36",
+                "TVL": "$792.47m"
+            },
+            {
+                "Name": "Sonic",
+                "Protocols": "132",
+                "TVL": "$714.23m"
+            },
+            {
+                "Name": "Sei",
+                "Protocols": "49",
+                "TVL": "$499.5m"
+            },
+            {
+                "Name": "Cronos",
+                "Protocols": "120",
+                "TVL": "$436.53m"
+            },
+            {
+                "Name": "BSquared",
+                "Protocols": "24",
+                "TVL": "$426.74m"
+            },
+            {
+                "Name": "Bitlayer",
+                "Protocols": "28",
+                "TVL": "$396m"
+            },
+            {
+                "Name": "Harmony",
+                "Protocols": "61",
+                "TVL": "$1.37m"
+            },
+            {
+                "Name": "EDU Chain",
+                "Protocols": "8",
+                "TVL": "$1.37m"
+            },
+            {
+                "Name": "VeChain",
+                "Protocols": "3",
+                "TVL": "$1.35m"
+            },
+            {
+                "Name": "Zilliqa",
+                "Protocols": "8",
+                "TVL": "$1.29m"
+            },
+            {
+                "Name": "KCC",
+                "Protocols": "28",
+                "TVL": "$1.27m"
+            },
+            {
+                "Name": "GodwokenV1",
+                "Protocols": "7",
+                "TVL": "$1.25m"
+            },
+            {
+                "Name": "LightLink",
+                "Protocols": "5",
+                "TVL": "$1.22m"
+            },
+            {
+                "Name": "KUB",
+                "Protocols": "7",
+                "TVL": "$1.16m"
+            },
+            {
+                "Name": "Equilibrium",
+                "Protocols": "1",
+                "TVL": "$1.13m"
+            },
+            {
+                "Name": "Namada",
+                "Protocols": "1",
+                "TVL": "$1.09m"
+            },
+            {
+                "Name": "Rangers",
+                "Protocols": "2",
+                "TVL": "$1.09m"
+            },
+            {
+                "Name": "Nuls",
+                "Protocols": "4",
+                "TVL": "$1.53m"
+            },
+            {
+                "Name": "Oraichain",
+                "Protocols": "4",
+                "TVL": "$1.52m"
+            },
+            {
+                "Name": "Interlay",
+                "Protocols": "5",
+                "TVL": "$1.51m"
+            },
+            {
+                "Name": "AB",
+                "Protocols": "1",
+                "TVL": "$1.48m"
+            },
+            {
+                "Name": "Songbird",
+                "Protocols": "7",
+                "TVL": "$1.48m"
+            },
+            {
+                "Name": "UX",
+                "Protocols": "3",
+                "TVL": "$1.44m"
+            },
+            {
+                "Name": "QL1",
+                "Protocols": "1",
+                "TVL": "$1.4m"
+            },
+            {
+                "Name": "Alephium",
+                "Protocols": "5",
+                "TVL": "$1.4m"
+            },
+            {
+                "Name": "Supra",
+                "Protocols": "5",
+                "TVL": "$1.08m"
+            },
+            {
+                "Name": "Superseed",
+                "Protocols": "5",
+                "TVL": "$1.04m"
+            },
+            {
+                "Name": "Theta",
+                "Protocols": "5",
+                "TVL": "$1.03m"
+            },
+            {
+                "Name": "Archway",
+                "Protocols": "7",
+                "TVL": "$914,121"
+            },
+            {
+                "Name": "MTT Network",
+                "Protocols": "1",
+                "TVL": "$908,587"
+            },
+            {
+                "Name": "Wax",
+                "Protocols": "14",
+                "TVL": "$886,136"
+            },
+            {
+                "Name": "Kadena",
+                "Protocols": "6",
+                "TVL": "$874,444"
+            },
+            {
+                "Name": "Nibiru",
+                "Protocols": "9",
+                "TVL": "$366,068"
+            },
+            {
+                "Name": "Boba_Bnb",
+                "Protocols": "2",
+                "TVL": "$354,300"
+            },
+            {
+                "Name": "Redbelly",
+                "Protocols": "1",
+                "TVL": "$329,825"
+            },
+            {
+                "Name": "EthereumClassic",
+                "Protocols": "11",
+                "TVL": "$312,652"
+            },
+            {
+                "Name": "Degen",
+                "Protocols": "9",
+                "TVL": "$306,665"
+            },
+            {
+                "Name": "SKALE Europa",
+                "Protocols": "6",
+                "TVL": "$302,401"
+            },
+            {
+                "Name": "OpenGPU",
+                "Protocols": "1",
+                "TVL": "$301,575"
+            },
+            {
+                "Name": "Kintsugi",
+                "Protocols": "1",
+                "TVL": "$288,819"
+            },
+            {
+                "Name": "RSS3",
+                "Protocols": "1",
+                "TVL": "$281,629"
+            },
+            {
+                "Name": "Agoric",
+                "Protocols": "2",
+                "TVL": "$270,605"
+            },
+            {
+                "Name": "Kroma",
+                "Protocols": "7",
+                "TVL": "$266,857"
+            },
+            {
+                "Name": "Elysium",
+                "Protocols": "1",
+                "TVL": "$266,168"
+            },
+            {
+                "Name": "Superposition",
+                "Protocols": "2",
+                "TVL": "$257,155"
+            },
+            {
+                "Name": "Xai",
+                "Protocols": "3",
+                "TVL": "$255,049"
+            },
+            {
+                "Name": "Evmos",
+                "Protocols": "23",
+                "TVL": "$232,801"
+            },
+            {
+                "Name": "Karura",
+                "Protocols": "5",
+                "TVL": "$209,740"
+            },
+            {
+                "Name": "EnergyWeb",
+                "Protocols": "1",
+                "TVL": "$208,810"
+            },
+            {
+                "Name": "Neon",
+                "Protocols": "11",
+                "TVL": "$208,751"
+            },
+            {
+                "Name": "Juno",
+                "Protocols": "10",
+                "TVL": "$205,880"
+            },
+            {
+                "Name": "Qubic",
+                "Protocols": "2",
+                "TVL": "$198,521"
+            },
+            {
+                "Name": "Aleph Zero EVM",
+                "Protocols": "1",
+                "TVL": "$194,622"
+            },
+            {
+                "Name": "FunctionX",
+                "Protocols": "3",
+                "TVL": "$173,688"
+            },
+            {
+                "Name": "Mint",
+                "Protocols": "3",
+                "TVL": "$171,273"
+            },
+            {
+                "Name": "Matchain",
+                "Protocols": "3",
+                "TVL": "$158,477"
+            },
+            {
+                "Name": "Lens",
+                "Protocols": "1",
+                "TVL": "$151,253"
+            },
+            {
+                "Name": "Ancient8",
+                "Protocols": "3",
+                "TVL": "$150,746"
+            },
+            {
+                "Name": "Saakuru",
+                "Protocols": "1",
+                "TVL": "$149,342"
+            },
+            {
+                "Name": "Libre",
+                "Protocols": "1",
+                "TVL": "$144,151"
+            },
+            {
+                "Name": "Crab",
+                "Protocols": "1",
+                "TVL": "$138,312"
+            },
+            {
+                "Name": "DeFiChain EVM",
+                "Protocols": "3",
+                "TVL": "$137,444"
+            },
+            {
+                "Name": "RENEC",
+                "Protocols": "2",
+                "TVL": "$132,574"
+            },
+            {
+                "Name": "Naka",
+                "Protocols": "1",
+                "TVL": "$129,488"
+            },
+            {
+                "Name": "Omax",
+                "Protocols": "2",
+                "TVL": "$123,860"
+            },
+            {
+                "Name": "Kardia",
+                "Protocols": "7",
+                "TVL": "$123,459"
+            },
+            {
+                "Name": "Massa",
+                "Protocols": "1",
+                "TVL": "$119,490"
+            },
+            {
+                "Name": "HeLa",
+                "Protocols": "1",
+                "TVL": "$118,984"
+            },
+            {
+                "Name": "AirDAO",
+                "Protocols": "4",
+                "TVL": "$116,150"
+            },
+            {
+                "Name": "Shape",
+                "Protocols": "4",
+                "TVL": "$114,077"
+            },
+            {
+                "Name": "Stargaze",
+                "Protocols": "3",
+                "TVL": "$110,295"
+            },
+            {
+                "Name": "Zkfair",
+                "Protocols": "12",
+                "TVL": "$103,877"
+            },
+            {
+                "Name": "ALV",
+                "Protocols": "2",
+                "TVL": "$96,245"
+            },
+            {
+                "Name": "Dash",
+                "Protocols": "1",
+                "TVL": "$92,790"
+            },
+            {
+                "Name": "AO",
+                "Protocols": "1",
+                "TVL": "$89,778"
+            },
+            {
+                "Name": "Electroneum",
+                "Protocols": "2",
+                "TVL": "$83,020"
+            },
+            {
+                "Name": "CrossFi",
+                "Protocols": "5",
+                "TVL": "$82,494"
+            },
+            {
+                "Name": "Chihuahua",
+                "Protocols": "4",
+                "TVL": "$79,807"
+            },
+            {
+                "Name": "Tombchain",
+                "Protocols": "1",
+                "TVL": "$79,432"
+            },
+            {
+                "Name": "Step",
+                "Protocols": "2",
+                "TVL": "$79,405"
+            },
+            {
+                "Name": "Genesys",
+                "Protocols": "2",
+                "TVL": "$77,437"
+            },
+            {
+                "Name": "MVC",
+                "Protocols": "1",
+                "TVL": "$76,713"
+            },
+            {
+                "Name": "Comdex",
+                "Protocols": "5",
+                "TVL": "$76,086"
+            },
+            {
+                "Name": "re.al",
+                "Protocols": "12",
+                "TVL": "$31,652"
+            },
+            {
+                "Name": "Planq",
+                "Protocols": "2",
+                "TVL": "$31,626"
+            },
+            {
+                "Name": "Silicon zkEVM",
+                "Protocols": "3",
+                "TVL": "$31,544"
+            },
+            {
+                "Name": "Redstone",
+                "Protocols": "1",
+                "TVL": "$31,251"
+            },
+            {
+                "Name": "Migaloo",
+                "Protocols": "4",
+                "TVL": "$28,384"
+            },
+            {
+                "Name": "Moonchain",
+                "Protocols": "1",
+                "TVL": "$15,557"
+            },
+            {
+                "Name": "Cube",
+                "Protocols": "3",
+                "TVL": "$10,316"
+            },
+            {
+                "Name": "Ham",
+                "Protocols": "2",
+                "TVL": "$6,972"
+            },
+            {
+                "Name": "Darwinia",
+                "Protocols": "1",
+                "TVL": "$5,088"
+            },
+            {
+                "Name": "Artela",
+                "Protocols": "3",
+                "TVL": "$4,657"
+            },
+            {
+                "Name": "Bitgert",
+                "Protocols": "1",
+                "TVL": "$3,761"
+            },
+            {
+                "Name": "XCHAIN",
+                "Protocols": "1",
+                "TVL": "$3,401"
+            },
+            {
+                "Name": "Plume (Deprecated)",
+                "Protocols": "8",
+                "TVL": "$1,407"
+            },
+            {
+                "Name": "SX Network",
+                "Protocols": "1",
+                "TVL": "$1,243"
+            },
+            {
+                "Name": "Milkomeda A1",
+                "Protocols": "3",
+                "TVL": "$1,146"
+            },
+            {
+                "Name": "Palm",
+                "Protocols": "2",
+                "TVL": "$533"
+            },
+            {
+                "Name": "Tenet",
+                "Protocols": "2",
+                "TVL": "$512"
+            },
+            {
+                "Name": "Concordium",
+                "Protocols": "1",
+                "TVL": "$387"
+            },
+            {
+                "Name": "Aeternity",
+                "Protocols": "1",
+                "TVL": "$307"
+            },
+            {
+                "Name": "Bitnet",
+                "Protocols": "1",
+                "TVL": "$82"
+            },
+            {
+                "Name": "Waterfall",
+                "Protocols": "1",
+                "TVL": "$8"
+            },
+            {
+                "Name": "Pego",
+                "Protocols": "2",
+                "TVL": "$4"
+            },
+            {
+                "Name": "Xphere",
+                "Protocols": "1",
+                "TVL": "$3"
+            },
+            {
+                "Name": "MilkyWay Rollup",
+                "Protocols": "1",
+                "TVL": "$0.49"
+            },
+            {
+                "Name": "Polkadot",
+                "Protocols": "3",
+                "TVL": "$0.49"
+            },
+            {
+                "Name": "VinuChain",
+                "Protocols": "2",
+                "TVL": "$9,290"
+            },
+            {
+                "Name": "GoChain",
+                "Protocols": "1",
+                "TVL": "$7,993"
+            },
+            {
+                "Name": "REI",
+                "Protocols": "6",
+                "TVL": "$6,972"
+            },
+            {
+                "Name": "Joltify",
+                "Protocols": "2",
+                "TVL": "$6,119"
+            },
+            {
+                "Name": "Manta Atlantic",
+                "Protocols": "1",
+                "TVL": "$4,548"
+            },
+            {
+                "Name": "OntologyEVM",
+                "Protocols": "4",
+                "TVL": "$4,118"
+            },
+            {
+                "Name": "REIchain",
+                "Protocols": "1",
+                "TVL": "$4,063"
+            },
+            {
+                "Name": "Sifchain",
+                "Protocols": "1",
+                "TVL": "$3,761"
+            },
+            {
+                "Name": "Basecamp",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Flame",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Goerli",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Dexit",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Stride",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Fusion",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Boba_Avax",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Stafi",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Empire",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Hoo",
+                "Protocols": "4",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Mind Network",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Perennial",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "CLV",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "CMP",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "HPB",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "ZYX",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Parallel",
+                "Protocols": "5",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Coti",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Tlchain",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "MEER",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Genshiro",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Lamden",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Sora",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Polis",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Ubiq",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Heiko",
+                "Protocols": "5",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Kekchain",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "MUUCHAIN",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Zeniq",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Bitindi",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Lung",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Bone",
+                "Protocols": "1",
+                "TVL": "$0"
+            }
+        ]
+    }
+}{
+    "Scraping at2025-06-13 19:06:09": {
+        "data_list": [
+            {
+                "Name": "Ethereum",
+                "Protocols": "1375",
+                "TVL": "$61.728b"
+            },
+            {
+                "Name": "Solana",
+                "Protocols": "225",
+                "TVL": "$8.271b"
+            },
+            {
+                "Name": "Bitcoin",
+                "Protocols": "59",
+                "TVL": "$6.411b"
+            },
+            {
+                "Name": "BSC",
+                "Protocols": "896",
+                "TVL": "$5.963b"
+            },
+            {
+                "Name": "Tron",
+                "Protocols": "35",
+                "TVL": "$4.821b"
+            },
+            {
+                "Name": "Base",
+                "Protocols": "535",
+                "TVL": "$3.724b"
+            },
+            {
+                "Name": "Arbitrum",
+                "Protocols": "807",
+                "TVL": "$2.408b"
+            },
+            {
+                "Name": "Avalanche",
+                "Protocols": "446",
+                "TVL": "$1.459b"
+            },
+            {
+                "Name": "Aptos",
+                "Protocols": "61",
+                "TVL": "$1.054b"
+            },
+            {
+                "Name": "Polygon",
+                "Protocols": "615",
+                "TVL": "$1.01b"
+            },
+            {
+                "Name": "Berachain",
+                "Protocols": "75",
+                "TVL": "$924.77m"
+            },
+            {
+                "Name": "Unichain",
+                "Protocols": "36",
+                "TVL": "$792.47m"
+            },
+            {
+                "Name": "Sonic",
+                "Protocols": "132",
+                "TVL": "$714.23m"
+            },
+            {
+                "Name": "Sei",
+                "Protocols": "49",
+                "TVL": "$499.5m"
+            },
+            {
+                "Name": "Cronos",
+                "Protocols": "120",
+                "TVL": "$436.53m"
+            },
+            {
+                "Name": "BSquared",
+                "Protocols": "24",
+                "TVL": "$426.74m"
+            },
+            {
+                "Name": "Bitlayer",
+                "Protocols": "28",
+                "TVL": "$396m"
+            },
+            {
+                "Name": "CORE",
+                "Protocols": "58",
+                "TVL": "$382.27m"
+            },
+            {
+                "Name": "OP Mainnet",
+                "Protocols": "295",
+                "TVL": "$374.72m"
+            },
+            {
+                "Name": "Hemi",
+                "Protocols": "33",
+                "TVL": "$316.48m"
+            },
+            {
+                "Name": "Taiko",
+                "Protocols": "41",
+                "TVL": "$294.05m"
+            },
+            {
+                "Name": "Cardano",
+                "Protocols": "48",
+                "TVL": "$277.78m"
+            },
+            {
+                "Name": "Rootstock",
+                "Protocols": "29",
+                "TVL": "$270.08m"
+            },
+            {
+                "Name": "Gnosis",
+                "Protocols": "79",
+                "TVL": "$267.74m"
+            },
+            {
+                "Name": "Vaulta",
+                "Protocols": "23",
+                "TVL": "$253.29m"
+            },
+            {
+                "Name": "PulseChain",
+                "Protocols": "49",
+                "TVL": "$242.45m"
+            },
+            {
+                "Name": "dYdX",
+                "Protocols": "2",
+                "TVL": "$236.86m"
+            },
+            {
+                "Name": "Mantle",
+                "Protocols": "117",
+                "TVL": "$214.61m"
+            },
+            {
+                "Name": "BOB",
+                "Protocols": "29",
+                "TVL": "$157.95m"
+            },
+            {
+                "Name": "Flare",
+                "Protocols": "20",
+                "TVL": "$151.19m"
+            },
+            {
+                "Name": "TON",
+                "Protocols": "59",
+                "TVL": "$147.33m"
+            },
+            {
+                "Name": "Near",
+                "Protocols": "31",
+                "TVL": "$144.94m"
+            },
+            {
+                "Name": "Kava",
+                "Protocols": "143",
+                "TVL": "$144.67m"
+            },
+            {
+                "Name": "Linea",
+                "Protocols": "132",
+                "TVL": "$137.73m"
+            },
+            {
+                "Name": "Soneium",
+                "Protocols": "24",
+                "TVL": "$117.02m"
+            },
+            {
+                "Name": "Hydration",
+                "Protocols": "2",
+                "TVL": "$110.21m"
+            },
+            {
+                "Name": "Blast",
+                "Protocols": "154",
+                "TVL": "$109.53m"
+            },
+            {
+                "Name": "Morph",
+                "Protocols": "13",
+                "TVL": "$107.14m"
+            },
+            {
+                "Name": "Goat",
+                "Protocols": "10",
+                "TVL": "$105.79m"
+            },
+            {
+                "Name": "Mixin",
+                "Protocols": "10",
+                "TVL": "$101.14m"
+            },
+            {
+                "Name": "Stacks",
+                "Protocols": "14",
+                "TVL": "$99.78m"
+            },
+            {
+                "Name": "Starknet",
+                "Protocols": "37",
+                "TVL": "$97.07m"
+            },
+            {
+                "Name": "Stellar",
+                "Protocols": "16",
+                "TVL": "$88.21m"
+            },
+            {
+                "Name": "Movement",
+                "Protocols": "13",
+                "TVL": "$87.19m"
+            },
+            {
+                "Name": "AILayer",
+                "Protocols": "6",
+                "TVL": "$86.26m"
+            },
+            {
+                "Name": "Hedera",
+                "Protocols": "16",
+                "TVL": "$77.02m"
+            },
+            {
+                "Name": "Flow",
+                "Protocols": "14",
+                "TVL": "$76.53m"
+            },
+            {
+                "Name": "Thorchain",
+                "Protocols": "3",
+                "TVL": "$74.29m"
+            },
+            {
+                "Name": "Fraxtal",
+                "Protocols": "27",
+                "TVL": "$69.5m"
+            },
+            {
+                "Name": "Celo",
+                "Protocols": "62",
+                "TVL": "$69.33m"
+            },
+            {
+                "Name": "Merlin",
+                "Protocols": "24",
+                "TVL": "$63.71m"
+            },
+            {
+                "Name": "BounceBit",
+                "Protocols": "14",
+                "TVL": "$63.53m"
+            },
+            {
+                "Name": "Ronin",
+                "Protocols": "7",
+                "TVL": "$62.39m"
+            },
+            {
+                "Name": "Osmosis",
+                "Protocols": "18",
+                "TVL": "$61.25m"
+            },
+            {
+                "Name": "XRPL",
+                "Protocols": "9",
+                "TVL": "$57.95m"
+            },
+            {
+                "Name": "Plume Mainnet",
+                "Protocols": "21",
+                "TVL": "$56.03m"
+            },
+            {
+                "Name": "ZKsync Era",
+                "Protocols": "133",
+                "TVL": "$52.64m"
+            },
+            {
+                "Name": "Verus",
+                "Protocols": "1",
+                "TVL": "$51.89m"
+            },
+            {
+                "Name": "MultiversX",
+                "Protocols": "23",
+                "TVL": "$49.3m"
+            },
+            {
+                "Name": "Scroll",
+                "Protocols": "119",
+                "TVL": "$42.87m"
+            },
+            {
+                "Name": "World Chain",
+                "Protocols": "15",
+                "TVL": "$42.73m"
+            },
+            {
+                "Name": "Etherlink",
+                "Protocols": "11",
+                "TVL": "$42.43m"
+            },
+            {
+                "Name": "Neutron",
+                "Protocols": "19",
+                "TVL": "$41.09m"
+            },
+            {
+                "Name": "Algorand",
+                "Protocols": "37",
+                "TVL": "$39.02m"
+            },
+            {
+                "Name": "Kaia",
+                "Protocols": "63",
+                "TVL": "$35m"
+            },
+            {
+                "Name": "Eclipse",
+                "Protocols": "11",
+                "TVL": "$32.75m"
+            },
+            {
+                "Name": "Tezos",
+                "Protocols": "20",
+                "TVL": "$31.35m"
+            },
+            {
+                "Name": "Filecoin",
+                "Protocols": "25",
+                "TVL": "$29.67m"
+            },
+            {
+                "Name": "ICP",
+                "Protocols": "12",
+                "TVL": "$28.78m"
+            },
+            {
+                "Name": "Injective",
+                "Protocols": "27",
+                "TVL": "$28.5m"
+            },
+            {
+                "Name": "Abstract",
+                "Protocols": "14",
+                "TVL": "$27.51m"
+            },
+            {
+                "Name": "Swellchain",
+                "Protocols": "11",
+                "TVL": "$26.87m"
+            },
+            {
+                "Name": "Bifrost Network",
+                "Protocols": "5",
+                "TVL": "$26.37m"
+            },
+            {
+                "Name": "Metis",
+                "Protocols": "62",
+                "TVL": "$26.13m"
+            },
+            {
+                "Name": "Waves",
+                "Protocols": "11",
+                "TVL": "$25.69m"
+            },
+            {
+                "Name": "Corn",
+                "Protocols": "9",
+                "TVL": "$22.99m"
+            },
+            {
+                "Name": "Initia",
+                "Protocols": "1",
+                "TVL": "$19.31m"
+            },
+            {
+                "Name": "Rollux",
+                "Protocols": "5",
+                "TVL": "$17.28m"
+            },
+            {
+                "Name": "Manta",
+                "Protocols": "69",
+                "TVL": "$17.25m"
+            },
+            {
+                "Name": "Fantom",
+                "Protocols": "335",
+                "TVL": "$16.89m"
+            },
+            {
+                "Name": "Reya Network",
+                "Protocols": "3",
+                "TVL": "$16.2m"
+            },
+            {
+                "Name": "NEO",
+                "Protocols": "6",
+                "TVL": "$15.49m"
+            },
+            {
+                "Name": "Lisk",
+                "Protocols": "7",
+                "TVL": "$15m"
+            },
+            {
+                "Name": "Babylon Genesis",
+                "Protocols": "3",
+                "TVL": "$14.83m"
+            },
+            {
+                "Name": "IoTeX",
+                "Protocols": "35",
+                "TVL": "$14.73m"
+            },
+            {
+                "Name": "ZetaChain",
+                "Protocols": "32",
+                "TVL": "$14.5m"
+            },
+            {
+                "Name": "Icon",
+                "Protocols": "6",
+                "TVL": "$14.25m"
+            },
+            {
+                "Name": "Astar",
+                "Protocols": "45",
+                "TVL": "$13.17m"
+            },
+            {
+                "Name": "Cronos zkEVM",
+                "Protocols": "12",
+                "TVL": "$12.03m"
+            },
+            {
+                "Name": "Immutable zkEVM",
+                "Protocols": "5",
+                "TVL": "$12.01m"
+            },
+            {
+                "Name": "Saga",
+                "Protocols": "1",
+                "TVL": "$11.58m"
+            },
+            {
+                "Name": "Sophon",
+                "Protocols": "2",
+                "TVL": "$11.45m"
+            },
+            {
+                "Name": "Chainflip",
+                "Protocols": "1",
+                "TVL": "$10.87m"
+            },
+            {
+                "Name": "ApeChain",
+                "Protocols": "17",
+                "TVL": "$10.46m"
+            },
+            {
+                "Name": "Aurora",
+                "Protocols": "61",
+                "TVL": "$10.44m"
+            },
+            {
+                "Name": "Proton",
+                "Protocols": "3",
+                "TVL": "$10.25m"
+            },
+            {
+                "Name": "MAP Protocol",
+                "Protocols": "9",
+                "TVL": "$10.05m"
+            },
+            {
+                "Name": "Conflux",
+                "Protocols": "17",
+                "TVL": "$9.82m"
+            },
+            {
+                "Name": "XDC",
+                "Protocols": "18",
+                "TVL": "$9.72m"
+            },
+            {
+                "Name": "Story",
+                "Protocols": "9",
+                "TVL": "$9.45m"
+            },
+            {
+                "Name": "IOTA EVM",
+                "Protocols": "9",
+                "TVL": "$9.05m"
+            },
+            {
+                "Name": "Zircuit",
+                "Protocols": "18",
+                "TVL": "$8.95m"
+            },
+            {
+                "Name": "Bifrost",
+                "Protocols": "3",
+                "TVL": "$8.87m"
+            },
+            {
+                "Name": "aelf",
+                "Protocols": "1",
+                "TVL": "$8.72m"
+            },
+            {
+                "Name": "Secret",
+                "Protocols": "10",
+                "TVL": "$8.64m"
+            },
+            {
+                "Name": "Kujira",
+                "Protocols": "15",
+                "TVL": "$8.6m"
+            },
+            {
+                "Name": "WEMIX3.0",
+                "Protocols": "12",
+                "TVL": "$8.24m"
+            },
+            {
+                "Name": "FSC",
+                "Protocols": "1",
+                "TVL": "$8.02m"
+            },
+            {
+                "Name": "Fuel Ignition",
+                "Protocols": "7",
+                "TVL": "$7.87m"
+            },
+            {
+                "Name": "Bitcoincash",
+                "Protocols": "3",
+                "TVL": "$7.77m"
+            },
+            {
+                "Name": "Mayachain",
+                "Protocols": "1",
+                "TVL": "$7.67m"
+            },
+            {
+                "Name": "opBNB",
+                "Protocols": "41",
+                "TVL": "$7.58m"
+            },
+            {
+                "Name": "K2",
+                "Protocols": "2",
+                "TVL": "$7.26m"
+            },
+            {
+                "Name": "Onus",
+                "Protocols": "5",
+                "TVL": "$7.09m"
+            },
+            {
+                "Name": "Oasis Sapphire",
+                "Protocols": "9",
+                "TVL": "$7.02m"
+            },
+            {
+                "Name": "Polynomial",
+                "Protocols": "2",
+                "TVL": "$6.92m"
+            },
+            {
+                "Name": "Moonbeam",
+                "Protocols": "65",
+                "TVL": "$6.91m"
+            },
+            {
+                "Name": "Telos",
+                "Protocols": "42",
+                "TVL": "$6.86m"
+            },
+            {
+                "Name": "Ink",
+                "Protocols": "12",
+                "TVL": "$6.8m"
+            },
+            {
+                "Name": "Venom",
+                "Protocols": "3",
+                "TVL": "$6.66m"
+            },
+            {
+                "Name": "Ontology",
+                "Protocols": "3",
+                "TVL": "$6.34m"
+            },
+            {
+                "Name": "Chiliz",
+                "Protocols": "10",
+                "TVL": "$6.2m"
+            },
+            {
+                "Name": "X Layer",
+                "Protocols": "26",
+                "TVL": "$5.74m"
+            },
+            {
+                "Name": "Bahamut",
+                "Protocols": "6",
+                "TVL": "$5.64m"
+            },
+            {
+                "Name": "Radix",
+                "Protocols": "20",
+                "TVL": "$5.61m"
+            },
+            {
+                "Name": "Elys",
+                "Protocols": "2",
+                "TVL": "$5.45m"
+            },
+            {
+                "Name": "Terra2",
+                "Protocols": "16",
+                "TVL": "$5.39m"
+            },
+            {
+                "Name": "Vite",
+                "Protocols": "4",
+                "TVL": "$4.95m"
+            },
+            {
+                "Name": "DFS Network",
+                "Protocols": "1",
+                "TVL": "$4.65m"
+            },
+            {
+                "Name": "Dexalot",
+                "Protocols": "1",
+                "TVL": "$4.61m"
+            },
+            {
+                "Name": "Mode",
+                "Protocols": "78",
+                "TVL": "$4.4m"
+            },
+            {
+                "Name": "Canto",
+                "Protocols": "26",
+                "TVL": "$4.38m"
+            },
+            {
+                "Name": "Echelon Chain",
+                "Protocols": "1",
+                "TVL": "$4.15m"
+            },
+            {
+                "Name": "Dymension",
+                "Protocols": "3",
+                "TVL": "$3.76m"
+            },
+            {
+                "Name": "Vision",
+                "Protocols": "2",
+                "TVL": "$3.61m"
+            },
+            {
+                "Name": "Wanchain",
+                "Protocols": "9",
+                "TVL": "$3.61m"
+            },
+            {
+                "Name": "Ergo",
+                "Protocols": "11",
+                "TVL": "$3.5m"
+            },
+            {
+                "Name": "Doge",
+                "Protocols": "5",
+                "TVL": "$3.26m"
+            },
+            {
+                "Name": "Gravity by Galxe",
+                "Protocols": "4",
+                "TVL": "$2.8m"
+            },
+            {
+                "Name": "Polygon zkEVM",
+                "Protocols": "71",
+                "TVL": "$2.78m"
+            },
+            {
+                "Name": "DefiChain",
+                "Protocols": "3",
+                "TVL": "$2.65m"
+            },
+            {
+                "Name": "Fluence",
+                "Protocols": "1",
+                "TVL": "$2.51m"
+            },
+            {
+                "Name": "Litecoin",
+                "Protocols": "4",
+                "TVL": "$2.38m"
+            },
+            {
+                "Name": "Hydra",
+                "Protocols": "3",
+                "TVL": "$2.35m"
+            },
+            {
+                "Name": "Dogechain",
+                "Protocols": "45",
+                "TVL": "$2.29m"
+            },
+            {
+                "Name": "Oasys",
+                "Protocols": "5",
+                "TVL": "$2.25m"
+            },
+            {
+                "Name": "Beam",
+                "Protocols": "2",
+                "TVL": "$2.18m"
+            },
+            {
+                "Name": "OKTChain",
+                "Protocols": "37",
+                "TVL": "$2.16m"
+            },
+            {
+                "Name": "HashKey Chain",
+                "Protocols": "2",
+                "TVL": "$2.13m"
+            },
+            {
+                "Name": "Moonriver",
+                "Protocols": "57",
+                "TVL": "$2.06m"
+            },
+            {
+                "Name": "Shibarium",
+                "Protocols": "18",
+                "TVL": "$2.05m"
+            },
+            {
+                "Name": "DFK",
+                "Protocols": "2",
+                "TVL": "$2.04m"
+            },
+            {
+                "Name": "Viction",
+                "Protocols": "8",
+                "TVL": "$1.92m"
+            },
+            {
+                "Name": "Carbon",
+                "Protocols": "4",
+                "TVL": "$1.85m"
+            },
+            {
+                "Name": "EOS EVM",
+                "Protocols": "8",
+                "TVL": "$1.74m"
+            },
+            {
+                "Name": "Vana",
+                "Protocols": "1",
+                "TVL": "$1.74m"
+            },
+            {
+                "Name": "Boba",
+                "Protocols": "29",
+                "TVL": "$1.61m"
+            },
+            {
+                "Name": "Nuls",
+                "Protocols": "4",
+                "TVL": "$1.53m"
+            },
+            {
+                "Name": "Oraichain",
+                "Protocols": "4",
+                "TVL": "$1.52m"
+            },
+            {
+                "Name": "Interlay",
+                "Protocols": "5",
+                "TVL": "$1.51m"
+            },
+            {
+                "Name": "AB",
+                "Protocols": "1",
+                "TVL": "$1.48m"
+            },
+            {
+                "Name": "Songbird",
+                "Protocols": "7",
+                "TVL": "$1.48m"
+            },
+            {
+                "Name": "UX",
+                "Protocols": "3",
+                "TVL": "$1.44m"
+            },
+            {
+                "Name": "QL1",
+                "Protocols": "1",
+                "TVL": "$1.4m"
+            },
+            {
+                "Name": "Alephium",
+                "Protocols": "5",
+                "TVL": "$1.4m"
+            },
+            {
+                "Name": "Harmony",
+                "Protocols": "61",
+                "TVL": "$1.37m"
+            },
+            {
+                "Name": "EDU Chain",
+                "Protocols": "8",
+                "TVL": "$1.37m"
+            },
+            {
+                "Name": "VeChain",
+                "Protocols": "3",
+                "TVL": "$1.35m"
+            },
+            {
+                "Name": "Zilliqa",
+                "Protocols": "8",
+                "TVL": "$1.29m"
+            },
+            {
+                "Name": "KCC",
+                "Protocols": "28",
+                "TVL": "$1.27m"
+            },
+            {
+                "Name": "GodwokenV1",
+                "Protocols": "7",
+                "TVL": "$1.25m"
+            },
+            {
+                "Name": "LightLink",
+                "Protocols": "5",
+                "TVL": "$1.22m"
+            },
+            {
+                "Name": "KUB",
+                "Protocols": "7",
+                "TVL": "$1.16m"
+            },
+            {
+                "Name": "Equilibrium",
+                "Protocols": "1",
+                "TVL": "$1.13m"
+            },
+            {
+                "Name": "Namada",
+                "Protocols": "1",
+                "TVL": "$1.09m"
+            },
+            {
+                "Name": "Rangers",
+                "Protocols": "2",
+                "TVL": "$1.09m"
+            },
+            {
+                "Name": "Supra",
+                "Protocols": "5",
+                "TVL": "$1.08m"
+            },
+            {
+                "Name": "Superseed",
+                "Protocols": "5",
+                "TVL": "$1.04m"
+            },
+            {
+                "Name": "Theta",
+                "Protocols": "5",
+                "TVL": "$1.03m"
+            },
+            {
+                "Name": "Archway",
+                "Protocols": "7",
+                "TVL": "$914,121"
+            },
+            {
+                "Name": "MTT Network",
+                "Protocols": "1",
+                "TVL": "$908,587"
+            },
+            {
+                "Name": "Wax",
+                "Protocols": "14",
+                "TVL": "$886,136"
+            },
+            {
+                "Name": "Kadena",
+                "Protocols": "6",
+                "TVL": "$874,444"
+            },
+            {
+                "Name": "Elastos",
+                "Protocols": "3",
+                "TVL": "$872,963"
+            },
+            {
+                "Name": "XPLA",
+                "Protocols": "3",
+                "TVL": "$805,080"
+            },
+            {
+                "Name": "SX Rollup",
+                "Protocols": "2",
+                "TVL": "$786,777"
+            },
+            {
+                "Name": "WINR",
+                "Protocols": "2",
+                "TVL": "$767,973"
+            },
+            {
+                "Name": "Unit Zero",
+                "Protocols": "3",
+                "TVL": "$756,954"
+            },
+            {
+                "Name": "Odyssey",
+                "Protocols": "2",
+                "TVL": "$749,364"
+            },
+            {
+                "Name": "Starcoin",
+                "Protocols": "3",
+                "TVL": "$721,448"
+            },
+            {
+                "Name": "smartBCH",
+                "Protocols": "24",
+                "TVL": "$704,166"
+            },
+            {
+                "Name": "Milkomeda C1",
+                "Protocols": "21",
+                "TVL": "$687,963"
+            },
+            {
+                "Name": "Zero Network",
+                "Protocols": "2",
+                "TVL": "$664,923"
+            },
+            {
+                "Name": "Terra Classic",
+                "Protocols": "30",
+                "TVL": "$662,171"
+            },
+            {
+                "Name": "Arbitrum Nova",
+                "Protocols": "10",
+                "TVL": "$660,465"
+            },
+            {
+                "Name": "DeFiVerse",
+                "Protocols": "1",
+                "TVL": "$652,409"
+            },
+            {
+                "Name": "Meter",
+                "Protocols": "13",
+                "TVL": "$607,285"
+            },
+            {
+                "Name": "ShimmerEVM",
+                "Protocols": "7",
+                "TVL": "$600,822"
+            },
+            {
+                "Name": "BEVM",
+                "Protocols": "9",
+                "TVL": "$583,228"
+            },
+            {
+                "Name": "Fuse",
+                "Protocols": "27",
+                "TVL": "$582,377"
+            },
+            {
+                "Name": "Obyte",
+                "Protocols": "7",
+                "TVL": "$579,972"
+            },
+            {
+                "Name": "NOS",
+                "Protocols": "1",
+                "TVL": "$564,416"
+            },
+            {
+                "Name": "Prom",
+                "Protocols": "2",
+                "TVL": "$550,853"
+            },
+            {
+                "Name": "zkLink Nova",
+                "Protocols": "23",
+                "TVL": "$550,053"
+            },
+            {
+                "Name": "Ultron",
+                "Protocols": "3",
+                "TVL": "$532,428"
+            },
+            {
+                "Name": "HAQQ",
+                "Protocols": "5",
+                "TVL": "$526,413"
+            },
+            {
+                "Name": "Persistence One",
+                "Protocols": "3",
+                "TVL": "$520,782"
+            },
+            {
+                "Name": "Acala",
+                "Protocols": "8",
+                "TVL": "$500,394"
+            },
+            {
+                "Name": "Mantra",
+                "Protocols": "4",
+                "TVL": "$481,822"
+            },
+            {
+                "Name": "Energi",
+                "Protocols": "1",
+                "TVL": "$471,236"
+            },
+            {
+                "Name": "CSC",
+                "Protocols": "5",
+                "TVL": "$455,896"
+            },
+            {
+                "Name": "Oasis Emerald",
+                "Protocols": "19",
+                "TVL": "$450,780"
+            },
+            {
+                "Name": "Haven1",
+                "Protocols": "1",
+                "TVL": "$447,298"
+            },
+            {
+                "Name": "SatoshiVM",
+                "Protocols": "1",
+                "TVL": "$445,150"
+            },
+            {
+                "Name": "ThunderCore",
+                "Protocols": "10",
+                "TVL": "$438,690"
+            },
+            {
+                "Name": "Taraxa",
+                "Protocols": "7",
+                "TVL": "$434,466"
+            },
+            {
+                "Name": "Everscale",
+                "Protocols": "2",
+                "TVL": "$430,886"
+            },
+            {
+                "Name": "Velas",
+                "Protocols": "15",
+                "TVL": "$427,106"
+            },
+            {
+                "Name": "Nolus",
+                "Protocols": "1",
+                "TVL": "$423,283"
+            },
+            {
+                "Name": "CosmosHub",
+                "Protocols": "6",
+                "TVL": "$411,543"
+            },
+            {
+                "Name": "Shido",
+                "Protocols": "1",
+                "TVL": "$402,241"
+            },
+            {
+                "Name": "Bittorrent",
+                "Protocols": "16",
+                "TVL": "$379,918"
+            },
+            {
+                "Name": "Nibiru",
+                "Protocols": "9",
+                "TVL": "$366,068"
+            },
+            {
+                "Name": "Boba_Bnb",
+                "Protocols": "2",
+                "TVL": "$354,300"
+            },
+            {
+                "Name": "Redbelly",
+                "Protocols": "1",
+                "TVL": "$329,825"
+            },
+            {
+                "Name": "EthereumClassic",
+                "Protocols": "11",
+                "TVL": "$312,652"
+            },
+            {
+                "Name": "Degen",
+                "Protocols": "9",
+                "TVL": "$306,665"
+            },
+            {
+                "Name": "SKALE Europa",
+                "Protocols": "6",
+                "TVL": "$302,401"
+            },
+            {
+                "Name": "OpenGPU",
+                "Protocols": "1",
+                "TVL": "$301,575"
+            },
+            {
+                "Name": "Kintsugi",
+                "Protocols": "1",
+                "TVL": "$288,819"
+            },
+            {
+                "Name": "RSS3",
+                "Protocols": "1",
+                "TVL": "$281,629"
+            },
+            {
+                "Name": "Agoric",
+                "Protocols": "2",
+                "TVL": "$270,605"
+            },
+            {
+                "Name": "Kroma",
+                "Protocols": "7",
+                "TVL": "$266,857"
+            },
+            {
+                "Name": "Elysium",
+                "Protocols": "1",
+                "TVL": "$266,168"
+            },
+            {
+                "Name": "Superposition",
+                "Protocols": "2",
+                "TVL": "$257,155"
+            },
+            {
+                "Name": "Xai",
+                "Protocols": "3",
+                "TVL": "$255,049"
+            },
+            {
+                "Name": "Evmos",
+                "Protocols": "23",
+                "TVL": "$232,801"
+            },
+            {
+                "Name": "Karura",
+                "Protocols": "5",
+                "TVL": "$209,740"
+            },
+            {
+                "Name": "EnergyWeb",
+                "Protocols": "1",
+                "TVL": "$208,810"
+            },
+            {
+                "Name": "Neon",
+                "Protocols": "11",
+                "TVL": "$208,751"
+            },
+            {
+                "Name": "Juno",
+                "Protocols": "10",
+                "TVL": "$205,880"
+            },
+            {
+                "Name": "Qubic",
+                "Protocols": "2",
+                "TVL": "$198,521"
+            },
+            {
+                "Name": "Aleph Zero EVM",
+                "Protocols": "1",
+                "TVL": "$194,622"
+            },
+            {
+                "Name": "FunctionX",
+                "Protocols": "3",
+                "TVL": "$173,688"
+            },
+            {
+                "Name": "Mint",
+                "Protocols": "3",
+                "TVL": "$171,273"
+            },
+            {
+                "Name": "Matchain",
+                "Protocols": "3",
+                "TVL": "$158,477"
+            },
+            {
+                "Name": "Lens",
+                "Protocols": "1",
+                "TVL": "$151,253"
+            },
+            {
+                "Name": "Ancient8",
+                "Protocols": "3",
+                "TVL": "$150,746"
+            },
+            {
+                "Name": "Saakuru",
+                "Protocols": "1",
+                "TVL": "$149,342"
+            },
+            {
+                "Name": "Libre",
+                "Protocols": "1",
+                "TVL": "$144,151"
+            },
+            {
+                "Name": "Crab",
+                "Protocols": "1",
+                "TVL": "$138,312"
+            },
+            {
+                "Name": "DeFiChain EVM",
+                "Protocols": "3",
+                "TVL": "$137,444"
+            },
+            {
+                "Name": "RENEC",
+                "Protocols": "2",
+                "TVL": "$132,574"
+            },
+            {
+                "Name": "Naka",
+                "Protocols": "1",
+                "TVL": "$129,488"
+            },
+            {
+                "Name": "Omax",
+                "Protocols": "2",
+                "TVL": "$123,860"
+            },
+            {
+                "Name": "Kardia",
+                "Protocols": "7",
+                "TVL": "$123,459"
+            },
+            {
+                "Name": "Massa",
+                "Protocols": "1",
+                "TVL": "$119,490"
+            },
+            {
+                "Name": "HeLa",
+                "Protocols": "1",
+                "TVL": "$118,984"
+            },
+            {
+                "Name": "AirDAO",
+                "Protocols": "4",
+                "TVL": "$116,150"
+            },
+            {
+                "Name": "Shape",
+                "Protocols": "4",
+                "TVL": "$114,077"
+            },
+            {
+                "Name": "Stargaze",
+                "Protocols": "3",
+                "TVL": "$110,295"
+            },
+            {
+                "Name": "Zkfair",
+                "Protocols": "12",
+                "TVL": "$103,877"
+            },
+            {
+                "Name": "ALV",
+                "Protocols": "2",
+                "TVL": "$96,245"
+            },
+            {
+                "Name": "Dash",
+                "Protocols": "1",
+                "TVL": "$92,790"
+            },
+            {
+                "Name": "AO",
+                "Protocols": "1",
+                "TVL": "$89,778"
+            },
+            {
+                "Name": "Electroneum",
+                "Protocols": "2",
+                "TVL": "$83,020"
+            },
+            {
+                "Name": "CrossFi",
+                "Protocols": "5",
+                "TVL": "$82,494"
+            },
+            {
+                "Name": "Chihuahua",
+                "Protocols": "4",
+                "TVL": "$79,807"
+            },
+            {
+                "Name": "Tombchain",
+                "Protocols": "1",
+                "TVL": "$79,432"
+            },
+            {
+                "Name": "Step",
+                "Protocols": "2",
+                "TVL": "$79,405"
+            },
+            {
+                "Name": "Genesys",
+                "Protocols": "2",
+                "TVL": "$77,437"
+            },
+            {
+                "Name": "MVC",
+                "Protocols": "1",
+                "TVL": "$76,713"
+            },
+            {
+                "Name": "Comdex",
+                "Protocols": "5",
+                "TVL": "$76,086"
+            },
+            {
+                "Name": "Q Protocol",
+                "Protocols": "4",
+                "TVL": "$74,572"
+            },
+            {
+                "Name": "Polkadex",
+                "Protocols": "1",
+                "TVL": "$72,043"
+            },
+            {
+                "Name": "Nahmii",
+                "Protocols": "1",
+                "TVL": "$70,006"
+            },
+            {
+                "Name": "Loop",
+                "Protocols": "2",
+                "TVL": "$69,299"
+            },
+            {
+                "Name": "Swan",
+                "Protocols": "1",
+                "TVL": "$65,667"
+            },
+            {
+                "Name": "Endurance",
+                "Protocols": "4",
+                "TVL": "$64,744"
+            },
+            {
+                "Name": "DuckChain",
+                "Protocols": "4",
+                "TVL": "$64,281"
+            },
+            {
+                "Name": "Godwoken",
+                "Protocols": "3",
+                "TVL": "$63,910"
+            },
+            {
+                "Name": "Zora",
+                "Protocols": "6",
+                "TVL": "$63,397"
+            },
+            {
+                "Name": "Parex",
+                "Protocols": "1",
+                "TVL": "$60,862"
+            },
+            {
+                "Name": "EthereumPoW",
+                "Protocols": "18",
+                "TVL": "$59,279"
+            },
+            {
+                "Name": "Cyber",
+                "Protocols": "3",
+                "TVL": "$58,177"
+            },
+            {
+                "Name": "Stratis",
+                "Protocols": "2",
+                "TVL": "$57,991"
+            },
+            {
+                "Name": "Crescent",
+                "Protocols": "1",
+                "TVL": "$55,580"
+            },
+            {
+                "Name": "LaChain Network",
+                "Protocols": "2",
+                "TVL": "$55,078"
+            },
+            {
+                "Name": "Sanko",
+                "Protocols": "3",
+                "TVL": "$52,861"
+            },
+            {
+                "Name": "Bitrock",
+                "Protocols": "3",
+                "TVL": "$52,328"
+            },
+            {
+                "Name": "Aura Network",
+                "Protocols": "2",
+                "TVL": "$52,244"
+            },
+            {
+                "Name": "Rari",
+                "Protocols": "4",
+                "TVL": "$48,156"
+            },
+            {
+                "Name": "Findora",
+                "Protocols": "5",
+                "TVL": "$45,947"
+            },
+            {
+                "Name": "Bostrom",
+                "Protocols": "1",
+                "TVL": "$42,843"
+            },
+            {
+                "Name": "Lachain",
+                "Protocols": "3",
+                "TVL": "$41,105"
+            },
+            {
+                "Name": "LUKSO",
+                "Protocols": "5",
+                "TVL": "$39,822"
+            },
+            {
+                "Name": "Shiden",
+                "Protocols": "7",
+                "TVL": "$37,450"
+            },
+            {
+                "Name": "Neo X Mainnet",
+                "Protocols": "2",
+                "TVL": "$36,804"
+            },
+            {
+                "Name": "Form Network",
+                "Protocols": "3",
+                "TVL": "$32,776"
+            },
+            {
+                "Name": "re.al",
+                "Protocols": "12",
+                "TVL": "$31,652"
+            },
+            {
+                "Name": "Planq",
+                "Protocols": "2",
+                "TVL": "$31,626"
+            },
+            {
+                "Name": "Silicon zkEVM",
+                "Protocols": "3",
+                "TVL": "$31,544"
+            },
+            {
+                "Name": "Redstone",
+                "Protocols": "1",
+                "TVL": "$31,251"
+            },
+            {
+                "Name": "Migaloo",
+                "Protocols": "4",
+                "TVL": "$28,384"
+            },
+            {
+                "Name": "Moonchain",
+                "Protocols": "1",
+                "TVL": "$27,074"
+            },
+            {
+                "Name": "Horizen EON",
+                "Protocols": "7",
+                "TVL": "$24,100"
+            },
+            {
+                "Name": "Areon Network",
+                "Protocols": "1",
+                "TVL": "$21,769"
+            },
+            {
+                "Name": "Astar zkEVM",
+                "Protocols": "10",
+                "TVL": "$20,620"
+            },
+            {
+                "Name": "inEVM",
+                "Protocols": "7",
+                "TVL": "$20,212"
+            },
+            {
+                "Name": "Penumbra",
+                "Protocols": "1",
+                "TVL": "$18,965"
+            },
+            {
+                "Name": "JBC",
+                "Protocols": "4",
+                "TVL": "$16,808"
+            },
+            {
+                "Name": "MultiVAC",
+                "Protocols": "3",
+                "TVL": "$16,605"
+            },
+            {
+                "Name": "Callisto",
+                "Protocols": "1",
+                "TVL": "$16,058"
+            },
+            {
+                "Name": "Grove",
+                "Protocols": "1",
+                "TVL": "$15,557"
+            },
+            {
+                "Name": "ENULS",
+                "Protocols": "3",
+                "TVL": "$15,322"
+            },
+            {
+                "Name": "Asset Chain",
+                "Protocols": "2",
+                "TVL": "$13,510"
+            },
+            {
+                "Name": "ETHF",
+                "Protocols": "1",
+                "TVL": "$10,966"
+            },
+            {
+                "Name": "Cube",
+                "Protocols": "3",
+                "TVL": "$10,316"
+            },
+            {
+                "Name": "Ham",
+                "Protocols": "2",
+                "TVL": "$9,953"
+            },
+            {
+                "Name": "VinuChain",
+                "Protocols": "2",
+                "TVL": "$9,290"
+            },
+            {
+                "Name": "GoChain",
+                "Protocols": "1",
+                "TVL": "$7,993"
+            },
+            {
+                "Name": "REI",
+                "Protocols": "6",
+                "TVL": "$6,972"
+            },
+            {
+                "Name": "Joltify",
+                "Protocols": "2",
+                "TVL": "$6,119"
+            },
+            {
+                "Name": "Darwinia",
+                "Protocols": "1",
+                "TVL": "$5,088"
+            },
+            {
+                "Name": "Artela",
+                "Protocols": "3",
+                "TVL": "$4,657"
+            },
+            {
+                "Name": "Manta Atlantic",
+                "Protocols": "1",
+                "TVL": "$4,548"
+            },
+            {
+                "Name": "Bitgert",
+                "Protocols": "12",
+                "TVL": "$4,125"
+            },
+            {
+                "Name": "OntologyEVM",
+                "Protocols": "4",
+                "TVL": "$4,118"
+            },
+            {
+                "Name": "REIchain",
+                "Protocols": "1",
+                "TVL": "$4,063"
+            },
+            {
+                "Name": "Sifchain",
+                "Protocols": "1",
+                "TVL": "$3,761"
+            },
+            {
+                "Name": "XCHAIN",
+                "Protocols": "1",
+                "TVL": "$3,401"
+            },
+            {
+                "Name": "Plume (Deprecated)",
+                "Protocols": "8",
+                "TVL": "$1,407"
+            },
+            {
+                "Name": "SX Network",
+                "Protocols": "1",
+                "TVL": "$1,243"
+            },
+            {
+                "Name": "Milkomeda A1",
+                "Protocols": "3",
+                "TVL": "$1,146"
+            },
+            {
+                "Name": "Palm",
+                "Protocols": "2",
+                "TVL": "$533"
+            },
+            {
+                "Name": "Tenet",
+                "Protocols": "2",
+                "TVL": "$512"
+            },
+            {
+                "Name": "Concordium",
+                "Protocols": "1",
+                "TVL": "$387"
+            },
+            {
+                "Name": "Aeternity",
+                "Protocols": "1",
+                "TVL": "$307"
+            },
+            {
+                "Name": "Bitnet",
+                "Protocols": "1",
+                "TVL": "$82"
+            },
+            {
+                "Name": "Waterfall",
+                "Protocols": "1",
+                "TVL": "$8"
+            },
+            {
+                "Name": "Pego",
+                "Protocols": "2",
+                "TVL": "$4"
+            },
+            {
+                "Name": "Xphere",
+                "Protocols": "1",
+                "TVL": "$3"
+            },
+            {
+                "Name": "MilkyWay Rollup",
+                "Protocols": "1",
+                "TVL": "$0.49"
+            },
+            {
+                "Name": "Polkadot",
+                "Protocols": "3",
+                "TVL": "$0.49"
+            },
+            {
+                "Name": "BandChain",
+                "Protocols": "1",
+                "TVL": "$0.14"
+            },
+            {
+                "Name": "Syscoin",
+                "Protocols": "4",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Kusama",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Celestia",
+                "Protocols": "4",
+                "TVL": "$0"
+            },
+            {
+                "Name": "exSat",
+                "Protocols": "4",
+                "TVL": "$0"
+            },
+            {
+                "Name": "IOTA",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Milkyway",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Quicksilver",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Pryzm",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Pokt",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Sommelier",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Heco",
+                "Protocols": "50",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Kopi",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Basecamp",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Flame",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Goerli",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Dexit",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Stride",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Fusion",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Boba_Avax",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Stafi",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Empire",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "OXFUN",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Echelon",
+                "Protocols": "5",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Hoo",
+                "Protocols": "4",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Mind Network",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Perennial",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "CLV",
+                "Protocols": "6",
+                "TVL": "$0"
+            },
+            {
+                "Name": "DSC",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "ZKsync Lite",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Nova Network",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "CMP",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Genshiro",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Lamden",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "HPB",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Sora",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Polis",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "ZYX",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Ubiq",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Heiko",
+                "Protocols": "5",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Parallel",
+                "Protocols": "5",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Coti",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Kekchain",
+                "Protocols": "3",
+                "TVL": "$0"
+            },
+            {
+                "Name": "MUUCHAIN",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Tlchain",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Zeniq",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Bitindi",
+                "Protocols": "2",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Lung",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "Bone",
+                "Protocols": "1",
+                "TVL": "$0"
+            },
+            {
+                "Name": "MEER",
+                "Protocols": "1",
+                "TVL": "$0"
+            }
+        ]
+    }
+}
