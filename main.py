@@ -77,15 +77,6 @@ async def scrape_data():
         return scraped_data
 
 
-# async def main():
-#     full_scraped_result = await scrape_data()
-#
-#     try:
-#         with open(r"/output/result.json", "a", encoding='utf-8') as file:
-#             json.dump(full_scraped_result, file, ensure_ascii=False, indent=4)
-#         logging.info("Data was saved in file.")
-#     except Exception as e:
-#         logging.error(f"Error on stage of dumping data to json file: {e}")
 async def main():
     try:
         scraped_result = await scrape_data()
