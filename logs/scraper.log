@@ -1831,3 +1831,1206 @@ KeyError: 'data_list'
 2025-06-13 19:26:16,125 - INFO - Scheduler was started with interval of 2 minutes.
 2025-06-13 19:26:16,126 - INFO - Added job "main" to job store "default"
 2025-06-13 19:26:16,126 - INFO - Scheduler started
+2025-06-13 20:09:35,468 - INFO - Config loaded from config.json
+2025-06-13 20:09:35,479 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-06-13 20:09:35,479 - INFO - Scheduler was started with interval of 2 minutes.
+2025-06-13 20:09:35,480 - INFO - Added job "main" to job store "default"
+2025-06-13 20:09:35,481 - INFO - Scheduler started
+2025-06-13 20:11:35,491 - INFO - Running job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:13:35 EEST)" (scheduled at 2025-06-13 20:11:35.479268+03:00)
+2025-06-13 20:11:48,069 - INFO - Element 'Ethereum' was added to dict
+2025-06-13 20:11:48,177 - INFO - Element 'Solana' was added to dict
+2025-06-13 20:11:48,281 - INFO - Element 'Bitcoin' was added to dict
+2025-06-13 20:11:48,382 - INFO - Element 'BSC' was added to dict
+2025-06-13 20:11:48,489 - INFO - Element 'Tron' was added to dict
+2025-06-13 20:11:48,590 - INFO - Element 'Base' was added to dict
+2025-06-13 20:11:48,686 - INFO - Element 'Arbitrum' was added to dict
+2025-06-13 20:11:49,293 - INFO - Element 'Sui' was added to dict
+2025-06-13 20:11:49,394 - INFO - Element 'Hyperliquid L1' was added to dict
+2025-06-13 20:11:49,494 - INFO - Element 'Avalanche' was added to dict
+2025-06-13 20:11:49,597 - INFO - Element 'Aptos' was added to dict
+2025-06-13 20:11:49,699 - INFO - Element 'Polygon' was added to dict
+2025-06-13 20:11:49,817 - INFO - Element 'Berachain' was added to dict
+2025-06-13 20:11:49,922 - INFO - Element 'Unichain' was added to dict
+2025-06-13 20:11:50,026 - INFO - Element 'Sonic' was added to dict
+2025-06-13 20:11:50,126 - INFO - Element 'Sei' was added to dict
+2025-06-13 20:11:50,230 - INFO - Element 'Cronos' was added to dict
+2025-06-13 20:11:50,328 - INFO - Element 'BSquared' was added to dict
+2025-06-13 20:11:50,428 - INFO - Element 'Bitlayer' was added to dict
+2025-06-13 20:11:50,537 - INFO - Element 'CORE' was added to dict
+2025-06-13 20:11:50,638 - INFO - Element 'OP Mainnet' was added to dict
+2025-06-13 20:11:50,738 - INFO - Element 'Hemi' was added to dict
+2025-06-13 20:11:50,838 - INFO - Element 'Taiko' was added to dict
+2025-06-13 20:11:50,937 - INFO - Element 'Cardano' was added to dict
+2025-06-13 20:11:51,037 - INFO - Element 'Rootstock' was added to dict
+2025-06-13 20:11:51,139 - INFO - Element 'Gnosis' was added to dict
+2025-06-13 20:11:51,242 - INFO - Element 'Vaulta' was added to dict
+2025-06-13 20:11:51,366 - INFO - Element 'PulseChain' was added to dict
+2025-06-13 20:11:51,491 - INFO - Element 'dYdX' was added to dict
+2025-06-13 20:11:51,627 - INFO - Element 'Mantle' was added to dict
+2025-06-13 20:11:53,547 - INFO - Element 'BOB' was added to dict
+2025-06-13 20:11:53,646 - INFO - Element 'Flare' was added to dict
+2025-06-13 20:11:53,746 - INFO - Element 'TON' was added to dict
+2025-06-13 20:11:53,846 - INFO - Element 'Kava' was added to dict
+2025-06-13 20:11:53,948 - INFO - Element 'Near' was added to dict
+2025-06-13 20:11:54,053 - INFO - Element 'Linea' was added to dict
+2025-06-13 20:11:54,153 - INFO - Element 'Soneium' was added to dict
+2025-06-13 20:11:54,283 - INFO - Element 'Hydration' was added to dict
+2025-06-13 20:11:54,422 - INFO - Element 'Blast' was added to dict
+2025-06-13 20:11:54,557 - INFO - Element 'Morph' was added to dict
+2025-06-13 20:11:56,411 - INFO - Element 'Goat' was added to dict
+2025-06-13 20:11:56,510 - INFO - Element 'Mixin' was added to dict
+2025-06-13 20:11:56,608 - INFO - Element 'Stacks' was added to dict
+2025-06-13 20:11:56,712 - INFO - Element 'Starknet' was added to dict
+2025-06-13 20:11:56,816 - INFO - Element 'Stellar' was added to dict
+2025-06-13 20:11:56,945 - INFO - Element 'AILayer' was added to dict
+2025-06-13 20:11:57,058 - INFO - Element 'Movement' was added to dict
+2025-06-13 20:11:57,197 - INFO - Element 'Hedera' was added to dict
+2025-06-13 20:11:57,323 - INFO - Element 'Flow' was added to dict
+2025-06-13 20:11:57,470 - INFO - Element 'Thorchain' was added to dict
+2025-06-13 20:11:59,328 - INFO - Element 'Fraxtal' was added to dict
+2025-06-13 20:11:59,430 - INFO - Element 'Celo' was added to dict
+2025-06-13 20:11:59,529 - INFO - Element 'BounceBit' was added to dict
+2025-06-13 20:11:59,634 - INFO - Element 'Merlin' was added to dict
+2025-06-13 20:11:59,736 - INFO - Element 'Ronin' was added to dict
+2025-06-13 20:11:59,834 - INFO - Element 'Osmosis' was added to dict
+2025-06-13 20:11:59,934 - INFO - Element 'XRPL' was added to dict
+2025-06-13 20:12:00,041 - INFO - Element 'Plume Mainnet' was added to dict
+2025-06-13 20:12:00,172 - INFO - Element 'ZKsync Era' was added to dict
+2025-06-13 20:12:00,293 - INFO - Element 'Verus' was added to dict
+2025-06-13 20:12:02,117 - INFO - Element 'MultiversX' was added to dict
+2025-06-13 20:12:02,228 - INFO - Element 'Scroll' was added to dict
+2025-06-13 20:12:02,325 - INFO - Element 'World Chain' was added to dict
+2025-06-13 20:12:02,426 - INFO - Element 'Etherlink' was added to dict
+2025-06-13 20:12:02,528 - INFO - Element 'Algorand' was added to dict
+2025-06-13 20:12:02,631 - INFO - Element 'Neutron' was added to dict
+2025-06-13 20:12:02,728 - INFO - Element 'Kaia' was added to dict
+2025-06-13 20:12:02,827 - INFO - Element 'Eclipse' was added to dict
+2025-06-13 20:12:02,946 - INFO - Element 'Tezos' was added to dict
+2025-06-13 20:12:03,060 - INFO - Element 'Filecoin' was added to dict
+2025-06-13 20:12:04,906 - INFO - Element 'ICP' was added to dict
+2025-06-13 20:12:05,007 - INFO - Element 'Injective' was added to dict
+2025-06-13 20:12:05,112 - INFO - Element 'Abstract' was added to dict
+2025-06-13 20:12:05,208 - INFO - Element 'Swellchain' was added to dict
+2025-06-13 20:12:05,305 - INFO - Element 'Bifrost Network' was added to dict
+2025-06-13 20:12:05,408 - INFO - Element 'Metis' was added to dict
+2025-06-13 20:12:05,508 - INFO - Element 'Waves' was added to dict
+2025-06-13 20:12:05,605 - INFO - Element 'Corn' was added to dict
+2025-06-13 20:12:05,738 - INFO - Element 'Initia' was added to dict
+2025-06-13 20:12:05,855 - INFO - Element 'Rollux' was added to dict
+2025-06-13 20:12:07,721 - INFO - Element 'Manta' was added to dict
+2025-06-13 20:12:07,828 - INFO - Element 'Fantom' was added to dict
+2025-06-13 20:12:07,933 - INFO - Element 'Reya Network' was added to dict
+2025-06-13 20:12:08,032 - INFO - Element 'NEO' was added to dict
+2025-06-13 20:12:08,131 - INFO - Element 'Lisk' was added to dict
+2025-06-13 20:12:08,228 - INFO - Element 'Babylon Genesis' was added to dict
+2025-06-13 20:12:08,407 - INFO - Element 'IoTeX' was added to dict
+2025-06-13 20:12:08,535 - INFO - Element 'ZetaChain' was added to dict
+2025-06-13 20:12:08,659 - INFO - Element 'Icon' was added to dict
+2025-06-13 20:12:08,787 - INFO - Element 'Astar' was added to dict
+2025-06-13 20:12:10,591 - INFO - Element 'Immutable zkEVM' was added to dict
+2025-06-13 20:12:10,687 - INFO - Element 'MAP Protocol' was added to dict
+2025-06-13 20:12:10,786 - INFO - Element 'Cronos zkEVM' was added to dict
+2025-06-13 20:12:10,892 - INFO - Element 'Saga' was added to dict
+2025-06-13 20:12:10,989 - INFO - Element 'Sophon' was added to dict
+2025-06-13 20:12:11,095 - INFO - Element 'Chainflip' was added to dict
+2025-06-13 20:12:11,195 - INFO - Element 'Aurora' was added to dict
+2025-06-13 20:12:11,296 - INFO - Element 'Proton' was added to dict
+2025-06-13 20:12:11,417 - INFO - Element 'ApeChain' was added to dict
+2025-06-13 20:12:11,541 - INFO - Element 'Conflux' was added to dict
+2025-06-13 20:12:13,378 - INFO - Element 'XDC' was added to dict
+2025-06-13 20:12:13,474 - INFO - Element 'Kujira' was added to dict
+2025-06-13 20:12:13,580 - INFO - Element 'Story' was added to dict
+2025-06-13 20:12:13,690 - INFO - Element 'IOTA EVM' was added to dict
+2025-06-13 20:12:13,792 - INFO - Element 'Zircuit' was added to dict
+2025-06-13 20:12:13,895 - INFO - Element 'Bifrost' was added to dict
+2025-06-13 20:12:13,994 - INFO - Element 'aelf' was added to dict
+2025-06-13 20:12:14,097 - INFO - Element 'Secret' was added to dict
+2025-06-13 20:12:14,228 - INFO - Element 'WEMIX3.0' was added to dict
+2025-06-13 20:12:14,358 - INFO - Element 'FSC' was added to dict
+2025-06-13 20:12:16,226 - INFO - Element 'Fuel Ignition' was added to dict
+2025-06-13 20:12:16,322 - INFO - Element 'Bitcoincash' was added to dict
+2025-06-13 20:12:16,427 - INFO - Element 'opBNB' was added to dict
+2025-06-13 20:12:16,552 - INFO - Element 'Mayachain' was added to dict
+2025-06-13 20:12:16,716 - INFO - Element 'K2' was added to dict
+2025-06-13 20:12:16,865 - INFO - Element 'Onus' was added to dict
+2025-06-13 20:12:16,989 - INFO - Element 'Oasis Sapphire' was added to dict
+2025-06-13 20:12:17,116 - INFO - Element 'Moonbeam' was added to dict
+2025-06-13 20:12:17,239 - INFO - Element 'Polynomial' was added to dict
+2025-06-13 20:12:17,357 - INFO - Element 'Ink' was added to dict
+2025-06-13 20:12:19,140 - INFO - Element 'Telos' was added to dict
+2025-06-13 20:12:19,237 - INFO - Element 'Venom' was added to dict
+2025-06-13 20:12:19,333 - INFO - Element 'Ontology' was added to dict
+2025-06-13 20:12:19,438 - INFO - Element 'Chiliz' was added to dict
+2025-06-13 20:12:19,535 - INFO - Element 'X Layer' was added to dict
+2025-06-13 20:12:19,630 - INFO - Element 'Bahamut' was added to dict
+2025-06-13 20:12:19,740 - INFO - Element 'Radix' was added to dict
+2025-06-13 20:12:19,839 - INFO - Element 'Elys' was added to dict
+2025-06-13 20:12:19,955 - INFO - Element 'Terra2' was added to dict
+2025-06-13 20:12:20,076 - INFO - Element 'Vite' was added to dict
+2025-06-13 20:12:21,838 - INFO - Element 'DFS Network' was added to dict
+2025-06-13 20:12:21,953 - INFO - Element 'Dexalot' was added to dict
+2025-06-13 20:12:22,050 - INFO - Element 'Mode' was added to dict
+2025-06-13 20:12:22,147 - INFO - Element 'Canto' was added to dict
+2025-06-13 20:12:22,244 - INFO - Element 'Echelon Chain' was added to dict
+2025-06-13 20:12:22,339 - INFO - Element 'Dymension' was added to dict
+2025-06-13 20:12:22,442 - INFO - Element 'Wanchain' was added to dict
+2025-06-13 20:12:22,542 - INFO - Element 'Vision' was added to dict
+2025-06-13 20:12:22,654 - INFO - Element 'Ergo' was added to dict
+2025-06-13 20:12:22,783 - INFO - Element 'Doge' was added to dict
+2025-06-13 20:12:24,607 - INFO - Element 'Gravity by Galxe' was added to dict
+2025-06-13 20:12:24,703 - INFO - Element 'Polygon zkEVM' was added to dict
+2025-06-13 20:12:24,799 - INFO - Element 'DefiChain' was added to dict
+2025-06-13 20:12:24,902 - INFO - Element 'Oasys' was added to dict
+2025-06-13 20:12:24,998 - INFO - Element 'Fluence' was added to dict
+2025-06-13 20:12:25,097 - INFO - Element 'Litecoin' was added to dict
+2025-06-13 20:12:25,197 - INFO - Element 'Hydra' was added to dict
+2025-06-13 20:12:25,296 - INFO - Element 'Dogechain' was added to dict
+2025-06-13 20:12:25,423 - INFO - Element 'OKTChain' was added to dict
+2025-06-13 20:12:25,545 - INFO - Element 'Beam' was added to dict
+2025-06-13 20:12:27,325 - INFO - Element 'HashKey Chain' was added to dict
+2025-06-13 20:12:27,423 - INFO - Element 'Moonriver' was added to dict
+2025-06-13 20:12:27,521 - INFO - Element 'Shibarium' was added to dict
+2025-06-13 20:12:27,622 - INFO - Element 'DFK' was added to dict
+2025-06-13 20:12:27,717 - INFO - Element 'Viction' was added to dict
+2025-06-13 20:12:27,815 - INFO - Element 'Carbon' was added to dict
+2025-06-13 20:12:27,912 - INFO - Element 'EOS EVM' was added to dict
+2025-06-13 20:12:28,103 - INFO - Element 'Vana' was added to dict
+2025-06-13 20:12:28,202 - INFO - Element 'Boba' was added to dict
+2025-06-13 20:12:28,326 - INFO - Element 'Alephium' was added to dict
+2025-06-13 20:12:30,079 - INFO - Element 'Interlay' was added to dict
+2025-06-13 20:12:30,181 - INFO - Element 'Nuls' was added to dict
+2025-06-13 20:12:30,276 - INFO - Element 'Oraichain' was added to dict
+2025-06-13 20:12:30,373 - INFO - Element 'AB' was added to dict
+2025-06-13 20:12:30,479 - INFO - Element 'Songbird' was added to dict
+2025-06-13 20:12:30,577 - INFO - Element 'UX' was added to dict
+2025-06-13 20:12:30,674 - INFO - Element 'QL1' was added to dict
+2025-06-13 20:12:30,770 - INFO - Element 'Harmony' was added to dict
+2025-06-13 20:12:30,884 - INFO - Element 'EDU Chain' was added to dict
+2025-06-13 20:12:31,012 - INFO - Element 'VeChain' was added to dict
+2025-06-13 20:12:32,825 - INFO - Element 'Zilliqa' was added to dict
+2025-06-13 20:12:32,923 - INFO - Element 'KCC' was added to dict
+2025-06-13 20:12:33,026 - INFO - Element 'GodwokenV1' was added to dict
+2025-06-13 20:12:33,130 - INFO - Element 'LightLink' was added to dict
+2025-06-13 20:12:33,226 - INFO - Element 'KUB' was added to dict
+2025-06-13 20:12:33,328 - INFO - Element 'Equilibrium' was added to dict
+2025-06-13 20:12:33,425 - INFO - Element 'Namada' was added to dict
+2025-06-13 20:12:33,526 - INFO - Element 'Rangers' was added to dict
+2025-06-13 20:12:33,641 - INFO - Element 'Superseed' was added to dict
+2025-06-13 20:12:33,772 - INFO - Element 'Supra' was added to dict
+2025-06-13 20:12:35,691 - INFO - Element 'Theta' was added to dict
+2025-06-13 20:12:35,793 - INFO - Element 'MTT Network' was added to dict
+2025-06-13 20:12:35,889 - INFO - Element 'Wax' was added to dict
+2025-06-13 20:12:35,993 - INFO - Element 'Kadena' was added to dict
+2025-06-13 20:12:36,096 - INFO - Element 'Elastos' was added to dict
+2025-06-13 20:12:36,195 - INFO - Element 'SX Rollup' was added to dict
+2025-06-13 20:12:36,298 - INFO - Element 'XPLA' was added to dict
+2025-06-13 20:12:36,416 - INFO - Element 'Odyssey' was added to dict
+2025-06-13 20:12:36,540 - INFO - Element 'WINR' was added to dict
+2025-06-13 20:12:36,670 - INFO - Element 'Unit Zero' was added to dict
+2025-06-13 20:12:38,802 - INFO - Element 'Starcoin' was added to dict
+2025-06-13 20:12:38,929 - INFO - Element 'smartBCH' was added to dict
+2025-06-13 20:12:39,053 - INFO - Element 'Milkomeda C1' was added to dict
+2025-06-13 20:12:39,174 - INFO - Element 'Arbitrum Nova' was added to dict
+2025-06-13 20:12:39,434 - INFO - Element 'Zero Network' was added to dict
+2025-06-13 20:12:39,621 - INFO - Element 'Terra Classic' was added to dict
+2025-06-13 20:12:39,759 - INFO - Element 'DeFiVerse' was added to dict
+2025-06-13 20:12:39,908 - INFO - Element 'Meter' was added to dict
+2025-06-13 20:12:40,078 - INFO - Element 'ShimmerEVM' was added to dict
+2025-06-13 20:12:40,245 - INFO - Element 'Fuse' was added to dict
+2025-06-13 20:12:42,865 - INFO - Element 'BEVM' was added to dict
+2025-06-13 20:12:43,022 - INFO - Element 'Obyte' was added to dict
+2025-06-13 20:12:43,167 - INFO - Element 'NOS' was added to dict
+2025-06-13 20:12:43,302 - INFO - Element 'Archway' was added to dict
+2025-06-13 20:12:43,426 - INFO - Element 'zkLink Nova' was added to dict
+2025-06-13 20:12:43,555 - INFO - Element 'Prom' was added to dict
+2025-06-13 20:12:43,687 - INFO - Element 'Ultron' was added to dict
+2025-06-13 20:12:43,813 - INFO - Element 'HAQQ' was added to dict
+2025-06-13 20:12:43,947 - INFO - Element 'Persistence One' was added to dict
+2025-06-13 20:12:44,080 - INFO - Element 'Acala' was added to dict
+2025-06-13 20:12:46,422 - INFO - Element 'Mantra' was added to dict
+2025-06-13 20:12:46,559 - INFO - Element 'Energi' was added to dict
+2025-06-13 20:12:46,721 - INFO - Element 'CSC' was added to dict
+2025-06-13 20:12:46,898 - INFO - Element 'Oasis Emerald' was added to dict
+2025-06-13 20:12:47,089 - INFO - Element 'SatoshiVM' was added to dict
+2025-06-13 20:12:47,257 - INFO - Element 'Haven1' was added to dict
+2025-06-13 20:12:47,390 - INFO - Element 'Taraxa' was added to dict
+2025-06-13 20:12:47,531 - INFO - Element 'ThunderCore' was added to dict
+2025-06-13 20:12:47,665 - INFO - Element 'Everscale' was added to dict
+2025-06-13 20:12:47,795 - INFO - Element 'Velas' was added to dict
+2025-06-13 20:12:50,229 - INFO - Element 'Nolus' was added to dict
+2025-06-13 20:12:50,394 - INFO - Element 'CosmosHub' was added to dict
+2025-06-13 20:12:50,580 - INFO - Element 'Shido' was added to dict
+2025-06-13 20:12:50,739 - INFO - Element 'Nibiru' was added to dict
+2025-06-13 20:12:50,897 - INFO - Element 'Bittorrent' was added to dict
+2025-06-13 20:12:51,055 - INFO - Element 'Boba_Bnb' was added to dict
+2025-06-13 20:12:51,203 - INFO - Element 'Redbelly' was added to dict
+2025-06-13 20:12:51,362 - INFO - Element 'Degen' was added to dict
+2025-06-13 20:12:51,523 - INFO - Element 'EthereumClassic' was added to dict
+2025-06-13 20:12:51,670 - INFO - Element 'SKALE Europa' was added to dict
+2025-06-13 20:12:54,546 - INFO - Element 'OpenGPU' was added to dict
+2025-06-13 20:12:54,733 - INFO - Element 'Kintsugi' was added to dict
+2025-06-13 20:12:54,885 - INFO - Element 'RSS3' was added to dict
+2025-06-13 20:12:55,050 - INFO - Element 'Agoric' was added to dict
+2025-06-13 20:12:55,216 - INFO - Element 'Kroma' was added to dict
+2025-06-13 20:12:55,365 - INFO - Element 'Elysium' was added to dict
+2025-06-13 20:12:55,531 - INFO - Element 'Xai' was added to dict
+2025-06-13 20:12:55,696 - INFO - Element 'Superposition' was added to dict
+2025-06-13 20:12:55,846 - INFO - Element 'Evmos' was added to dict
+2025-06-13 20:12:56,010 - INFO - Element 'EnergyWeb' was added to dict
+2025-06-13 20:12:58,787 - INFO - Element 'Neon' was added to dict
+2025-06-13 20:12:58,905 - INFO - Element 'Karura' was added to dict
+2025-06-13 20:12:59,006 - INFO - Element 'Juno' was added to dict
+2025-06-13 20:12:59,103 - INFO - Element 'Qubic' was added to dict
+2025-06-13 20:12:59,206 - INFO - Element 'Aleph Zero EVM' was added to dict
+2025-06-13 20:12:59,303 - INFO - Element 'FunctionX' was added to dict
+2025-06-13 20:12:59,398 - INFO - Element 'Mint' was added to dict
+2025-06-13 20:12:59,493 - INFO - Element 'Matchain' was added to dict
+2025-06-13 20:12:59,591 - INFO - Element 'Lens' was added to dict
+2025-06-13 20:12:59,689 - INFO - Element 'Ancient8' was added to dict
+2025-06-13 20:13:01,458 - INFO - Element 'Saakuru' was added to dict
+2025-06-13 20:13:01,558 - INFO - Element 'Libre' was added to dict
+2025-06-13 20:13:01,652 - INFO - Element 'DeFiChain EVM' was added to dict
+2025-06-13 20:13:01,748 - INFO - Element 'Crab' was added to dict
+2025-06-13 20:13:01,848 - INFO - Element 'RENEC' was added to dict
+2025-06-13 20:13:01,944 - INFO - Element 'Naka' was added to dict
+2025-06-13 20:13:02,039 - INFO - Element 'Kardia' was added to dict
+2025-06-13 20:13:02,135 - INFO - Element 'Omax' was added to dict
+2025-06-13 20:13:02,229 - INFO - Element 'Massa' was added to dict
+2025-06-13 20:13:02,357 - INFO - Element 'HeLa' was added to dict
+2025-06-13 20:13:04,176 - INFO - Element 'AirDAO' was added to dict
+2025-06-13 20:13:04,273 - INFO - Element 'Shape' was added to dict
+2025-06-13 20:13:04,368 - INFO - Element 'Stargaze' was added to dict
+2025-06-13 20:13:04,464 - INFO - Element 'Zkfair' was added to dict
+2025-06-13 20:13:04,562 - INFO - Element 'ALV' was added to dict
+2025-06-13 20:13:04,657 - INFO - Element 'Dash' was added to dict
+2025-06-13 20:13:04,753 - INFO - Element 'AO' was added to dict
+2025-06-13 20:13:04,852 - INFO - Element 'Electroneum' was added to dict
+2025-06-13 20:13:04,960 - INFO - Element 'Step' was added to dict
+2025-06-13 20:13:05,096 - INFO - Element 'CrossFi' was added to dict
+2025-06-13 20:13:06,884 - INFO - Element 'Chihuahua' was added to dict
+2025-06-13 20:13:06,983 - INFO - Element 'Genesys' was added to dict
+2025-06-13 20:13:07,084 - INFO - Element 'MVC' was added to dict
+2025-06-13 20:13:07,179 - INFO - Element 'Comdex' was added to dict
+2025-06-13 20:13:07,276 - INFO - Element 'Tombchain' was added to dict
+2025-06-13 20:13:07,378 - INFO - Element 'Q Protocol' was added to dict
+2025-06-13 20:13:07,473 - INFO - Element 'Polkadex' was added to dict
+2025-06-13 20:13:07,572 - INFO - Element 'Nahmii' was added to dict
+2025-06-13 20:13:07,676 - INFO - Element 'Loop' was added to dict
+2025-06-13 20:13:07,804 - INFO - Element 'Endurance' was added to dict
+2025-06-13 20:13:09,576 - INFO - Element 'Swan' was added to dict
+2025-06-13 20:13:09,676 - INFO - Element 'DuckChain' was added to dict
+2025-06-13 20:13:09,773 - INFO - Element 'Godwoken' was added to dict
+2025-06-13 20:13:09,869 - INFO - Element 'Zora' was added to dict
+2025-06-13 20:13:09,965 - INFO - Element 'Parex' was added to dict
+2025-06-13 20:13:10,065 - INFO - Element 'EthereumPoW' was added to dict
+2025-06-13 20:13:10,160 - INFO - Element 'Cyber' was added to dict
+2025-06-13 20:13:10,263 - INFO - Element 'Stratis' was added to dict
+2025-06-13 20:13:10,368 - INFO - Element 'Sanko' was added to dict
+2025-06-13 20:13:10,482 - INFO - Element 'Crescent' was added to dict
+2025-06-13 20:13:12,226 - INFO - Element 'Bitrock' was added to dict
+2025-06-13 20:13:12,326 - INFO - Element 'LaChain Network' was added to dict
+2025-06-13 20:13:12,422 - INFO - Element 'Sora' was added to dict
+2025-06-13 20:13:12,520 - INFO - Element 'Aura Network' was added to dict
+2025-06-13 20:13:12,619 - INFO - Element 'Rari' was added to dict
+2025-06-13 20:13:12,715 - INFO - Element 'Findora' was added to dict
+2025-06-13 20:13:12,812 - INFO - Element 'Bostrom' was added to dict
+2025-06-13 20:13:12,908 - INFO - Element 'Lachain' was added to dict
+2025-06-13 20:13:13,010 - INFO - Element 'LUKSO' was added to dict
+2025-06-13 20:13:13,137 - INFO - Element 'Neo X Mainnet' was added to dict
+2025-06-13 20:13:14,974 - INFO - Element 'Shiden' was added to dict
+2025-06-13 20:13:15,070 - INFO - Element 'Form Network' was added to dict
+2025-06-13 20:13:15,172 - INFO - Element 're.al' was added to dict
+2025-06-13 20:13:15,267 - INFO - Element 'Redstone' was added to dict
+2025-06-13 20:13:15,364 - INFO - Element 'Planq' was added to dict
+2025-06-13 20:13:15,464 - INFO - Element 'Silicon zkEVM' was added to dict
+2025-06-13 20:13:15,563 - INFO - Element 'Moonchain' was added to dict
+2025-06-13 20:13:15,660 - INFO - Element 'Migaloo' was added to dict
+2025-06-13 20:13:15,791 - INFO - Element 'Horizen EON' was added to dict
+2025-06-13 20:13:15,916 - INFO - Element 'Areon Network' was added to dict
+2025-06-13 20:13:17,698 - INFO - Element 'Astar zkEVM' was added to dict
+2025-06-13 20:13:17,794 - INFO - Element 'inEVM' was added to dict
+2025-06-13 20:13:17,894 - INFO - Element 'Penumbra' was added to dict
+2025-06-13 20:13:17,991 - INFO - Element 'JBC' was added to dict
+2025-06-13 20:13:18,087 - INFO - Element 'MultiVAC' was added to dict
+2025-06-13 20:13:18,188 - INFO - Element 'Callisto' was added to dict
+2025-06-13 20:13:18,283 - INFO - Element 'Grove' was added to dict
+2025-06-13 20:13:18,380 - INFO - Element 'ENULS' was added to dict
+2025-06-13 20:13:18,483 - INFO - Element 'Asset Chain' was added to dict
+2025-06-13 20:13:18,580 - INFO - Element 'ETHF' was added to dict
+2025-06-13 20:13:20,313 - INFO - Element 'Cube' was added to dict
+2025-06-13 20:13:20,414 - INFO - Element 'Ham' was added to dict
+2025-06-13 20:13:20,512 - INFO - Element 'VinuChain' was added to dict
+2025-06-13 20:13:20,699 - INFO - Element 'GoChain' was added to dict
+2025-06-13 20:13:20,795 - INFO - Element 'REI' was added to dict
+2025-06-13 20:13:20,901 - INFO - Element 'Joltify' was added to dict
+2025-06-13 20:13:21,002 - INFO - Element 'Darwinia' was added to dict
+2025-06-13 20:13:21,109 - INFO - Element 'Artela' was added to dict
+2025-06-13 20:13:21,250 - INFO - Element 'Manta Atlantic' was added to dict
+2025-06-13 20:13:21,368 - INFO - Element 'Bitgert' was added to dict
+2025-06-13 20:13:23,263 - INFO - Element 'OntologyEVM' was added to dict
+2025-06-13 20:13:23,362 - INFO - Element 'REIchain' was added to dict
+2025-06-13 20:13:23,456 - INFO - Element 'Sifchain' was added to dict
+2025-06-13 20:13:23,551 - INFO - Element 'XCHAIN' was added to dict
+2025-06-13 20:13:23,645 - INFO - Element 'Plume (Deprecated)' was added to dict
+2025-06-13 20:13:23,741 - INFO - Element 'SX Network' was added to dict
+2025-06-13 20:13:23,839 - INFO - Element 'Milkomeda A1' was added to dict
+2025-06-13 20:13:23,946 - INFO - Element 'Palm' was added to dict
+2025-06-13 20:13:24,060 - INFO - Element 'Tenet' was added to dict
+2025-06-13 20:13:24,183 - INFO - Element 'Concordium' was added to dict
+2025-06-13 20:13:25,920 - INFO - Element 'Aeternity' was added to dict
+2025-06-13 20:13:26,014 - INFO - Element 'Bitnet' was added to dict
+2025-06-13 20:13:26,111 - INFO - Element 'Waterfall' was added to dict
+2025-06-13 20:13:26,206 - INFO - Element 'Pego' was added to dict
+2025-06-13 20:13:26,310 - INFO - Element 'Xphere' was added to dict
+2025-06-13 20:13:26,405 - INFO - Element 'Celestia' was added to dict
+2025-06-13 20:13:26,506 - INFO - Element 'BandChain' was added to dict
+2025-06-13 20:13:26,603 - INFO - Element 'Sommelier' was added to dict
+2025-06-13 20:13:26,698 - INFO - Element 'IOTA' was added to dict
+2025-06-13 20:13:26,821 - INFO - Element 'Polkadot' was added to dict
+2025-06-13 20:13:28,599 - INFO - Element 'Syscoin' was added to dict
+2025-06-13 20:13:28,693 - INFO - Element 'Kusama' was added to dict
+2025-06-13 20:13:28,795 - INFO - Element 'exSat' was added to dict
+2025-06-13 20:13:28,896 - INFO - Element 'Milkyway' was added to dict
+2025-06-13 20:13:28,992 - INFO - Element 'MilkyWay Rollup' was added to dict
+2025-06-13 20:13:29,088 - INFO - Element 'Quicksilver' was added to dict
+2025-06-13 20:13:29,184 - INFO - Element 'Pryzm' was added to dict
+2025-06-13 20:13:29,278 - INFO - Element 'Pokt' was added to dict
+2025-06-13 20:13:29,377 - INFO - Element 'Heco' was added to dict
+2025-06-13 20:13:29,509 - INFO - Element 'Kopi' was added to dict
+2025-06-13 20:13:31,211 - INFO - Element 'Flame' was added to dict
+2025-06-13 20:13:31,306 - INFO - Element 'Goerli' was added to dict
+2025-06-13 20:13:31,400 - INFO - Element 'Dexit' was added to dict
+2025-06-13 20:13:31,499 - INFO - Element 'Stride' was added to dict
+2025-06-13 20:13:31,595 - INFO - Element 'Fusion' was added to dict
+2025-06-13 20:13:31,694 - INFO - Element 'Boba_Avax' was added to dict
+2025-06-13 20:13:31,789 - INFO - Element 'Stafi' was added to dict
+2025-06-13 20:13:31,882 - INFO - Element 'Empire' was added to dict
+2025-06-13 20:13:31,977 - INFO - Element 'OXFUN' was added to dict
+2025-06-13 20:13:32,088 - INFO - Element 'Echelon' was added to dict
+2025-06-13 20:13:33,861 - INFO - Element 'Hoo' was added to dict
+2025-06-13 20:13:33,958 - INFO - Element 'Mind Network' was added to dict
+2025-06-13 20:13:34,050 - INFO - Element 'Perennial' was added to dict
+2025-06-13 20:13:34,149 - INFO - Element 'CLV' was added to dict
+2025-06-13 20:13:34,261 - INFO - Element 'DSC' was added to dict
+2025-06-13 20:13:34,364 - INFO - Element 'ZKsync Lite' was added to dict
+2025-06-13 20:13:34,470 - INFO - Element 'Nova Network' was added to dict
+2025-06-13 20:13:34,576 - INFO - Element 'CMP' was added to dict
+2025-06-13 20:13:34,701 - INFO - Element 'Genshiro' was added to dict
+2025-06-13 20:13:34,839 - INFO - Element 'Lamden' was added to dict
+2025-06-13 20:13:35,485 - WARNING - Execution of job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:13:35 EEST)" skipped: maximum number of running instances reached (1)
+2025-06-13 20:13:36,550 - INFO - Element 'HPB' was added to dict
+2025-06-13 20:13:36,642 - INFO - Element 'Polis' was added to dict
+2025-06-13 20:13:36,742 - INFO - Element 'ZYX' was added to dict
+2025-06-13 20:13:36,838 - INFO - Element 'Ubiq' was added to dict
+2025-06-13 20:13:36,932 - INFO - Element 'Heiko' was added to dict
+2025-06-13 20:13:37,034 - INFO - Element 'Parallel' was added to dict
+2025-06-13 20:13:37,128 - INFO - Element 'Coti' was added to dict
+2025-06-13 20:13:37,227 - INFO - Element 'Kekchain' was added to dict
+2025-06-13 20:13:37,327 - INFO - Element 'MUUCHAIN' was added to dict
+2025-06-13 20:13:37,444 - INFO - Element 'Tlchain' was added to dict
+2025-06-13 20:13:39,097 - INFO - Element 'Zeniq' was added to dict
+2025-06-13 20:13:39,187 - INFO - Element 'Bitindi' was added to dict
+2025-06-13 20:13:39,284 - INFO - Element 'Lung' was added to dict
+2025-06-13 20:13:39,376 - INFO - Element 'Bone' was added to dict
+2025-06-13 20:13:39,475 - INFO - Element 'MEER' was added to dict
+2025-06-13 20:13:41,497 - INFO - Scrolling reached the end of page.
+2025-06-13 20:13:43,458 - INFO - Scrolling reached the end of page.
+2025-06-13 20:13:45,699 - INFO - Scrolling reached the end of page.
+2025-06-13 20:13:48,153 - INFO - Scrolling reached the end of page.
+2025-06-13 20:13:48,153 - INFO - Parsing was finished. Collected 395 elements.
+2025-06-13 20:13:48,624 - WARNING - Existing output/result.json is empty or corrupted JSON. Starting with a new list.
+2025-06-13 20:13:48,635 - INFO - New data appended and saved to output/result.json
+2025-06-13 20:13:48,636 - INFO - Job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:15:35 EEST)" executed successfully
+2025-06-13 20:15:35,494 - INFO - Running job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:17:35 EEST)" (scheduled at 2025-06-13 20:15:35.479268+03:00)
+2025-06-13 20:16:47,535 - INFO - Element 'Ethereum' was added to dict
+2025-06-13 20:16:47,631 - INFO - Element 'Solana' was added to dict
+2025-06-13 20:16:47,725 - INFO - Element 'Bitcoin' was added to dict
+2025-06-13 20:16:47,819 - INFO - Element 'BSC' was added to dict
+2025-06-13 20:16:47,919 - INFO - Element 'Tron' was added to dict
+2025-06-13 20:16:48,008 - INFO - Element 'Base' was added to dict
+2025-06-13 20:16:48,098 - INFO - Element 'Arbitrum' was added to dict
+2025-06-13 20:17:35,483 - WARNING - Execution of job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:17:35 EEST)" skipped: maximum number of running instances reached (1)
+2025-06-13 20:17:56,562 - INFO - Element 'Sei' was added to dict
+2025-06-13 20:17:56,697 - INFO - Element 'Cronos' was added to dict
+2025-06-13 20:17:56,819 - INFO - Element 'BSquared' was added to dict
+2025-06-13 20:17:56,933 - INFO - Element 'Bitlayer' was added to dict
+2025-06-13 20:17:57,050 - INFO - Element 'CORE' was added to dict
+2025-06-13 20:17:57,150 - INFO - Element 'OP Mainnet' was added to dict
+2025-06-13 20:17:57,253 - INFO - Element 'Hemi' was added to dict
+2025-06-13 20:17:57,518 - INFO - Element 'Gnosis' was added to dict
+2025-06-13 20:17:57,620 - INFO - Element 'Vaulta' was added to dict
+2025-06-13 20:17:57,723 - INFO - Element 'PulseChain' was added to dict
+2025-06-13 20:17:57,824 - INFO - Element 'dYdX' was added to dict
+2025-06-13 20:17:57,929 - INFO - Element 'Mantle' was added to dict
+2025-06-13 20:17:58,052 - INFO - Element 'BOB' was added to dict
+2025-06-13 20:17:58,159 - INFO - Element 'Flare' was added to dict
+2025-06-13 20:17:58,266 - INFO - Element 'TON' was added to dict
+2025-06-13 20:17:58,378 - INFO - Element 'Kava' was added to dict
+2025-06-13 20:17:58,495 - INFO - Element 'Near' was added to dict
+2025-06-13 20:17:58,612 - INFO - Element 'Linea' was added to dict
+2025-06-13 20:17:58,749 - INFO - Element 'Soneium' was added to dict
+2025-06-13 20:17:58,887 - INFO - Element 'Hydration' was added to dict
+2025-06-13 20:17:59,037 - INFO - Element 'Blast' was added to dict
+2025-06-13 20:17:59,173 - INFO - Element 'Morph' was added to dict
+2025-06-13 20:17:59,296 - INFO - Element 'Goat' was added to dict
+2025-06-13 20:17:59,398 - INFO - Element 'Mixin' was added to dict
+2025-06-13 20:17:59,500 - INFO - Element 'Stacks' was added to dict
+2025-06-13 20:17:59,601 - INFO - Element 'Starknet' was added to dict
+2025-06-13 20:17:59,710 - INFO - Element 'Stellar' was added to dict
+2025-06-13 20:17:59,811 - INFO - Element 'AILayer' was added to dict
+2025-06-13 20:17:59,910 - INFO - Element 'Movement' was added to dict
+2025-06-13 20:18:00,011 - INFO - Element 'Hedera' was added to dict
+2025-06-13 20:18:00,114 - INFO - Element 'Flow' was added to dict
+2025-06-13 20:18:00,218 - INFO - Element 'Thorchain' was added to dict
+2025-06-13 20:18:11,124 - INFO - Element 'Tezos' was added to dict
+2025-06-13 20:18:11,244 - INFO - Element 'Filecoin' was added to dict
+2025-06-13 20:18:11,494 - INFO - Element 'Osmosis' was added to dict
+2025-06-13 20:18:11,607 - INFO - Element 'XRPL' was added to dict
+2025-06-13 20:18:11,705 - INFO - Element 'Plume Mainnet' was added to dict
+2025-06-13 20:18:11,802 - INFO - Element 'ZKsync Era' was added to dict
+2025-06-13 20:18:11,905 - INFO - Element 'Verus' was added to dict
+2025-06-13 20:18:12,004 - INFO - Element 'MultiversX' was added to dict
+2025-06-13 20:18:12,101 - INFO - Element 'Scroll' was added to dict
+2025-06-13 20:18:12,205 - INFO - Element 'World Chain' was added to dict
+2025-06-13 20:18:12,306 - INFO - Element 'Etherlink' was added to dict
+2025-06-13 20:18:12,407 - INFO - Element 'Algorand' was added to dict
+2025-06-13 20:18:12,508 - INFO - Element 'Neutron' was added to dict
+2025-06-13 20:18:12,606 - INFO - Element 'Kaia' was added to dict
+2025-06-13 20:18:12,709 - INFO - Element 'Eclipse' was added to dict
+2025-06-13 20:18:13,012 - INFO - Element 'ICP' was added to dict
+2025-06-13 20:18:13,107 - INFO - Element 'Injective' was added to dict
+2025-06-13 20:18:13,212 - INFO - Element 'Abstract' was added to dict
+2025-06-13 20:18:13,315 - INFO - Element 'Swellchain' was added to dict
+2025-06-13 20:18:13,416 - INFO - Element 'Bifrost Network' was added to dict
+2025-06-13 20:18:13,520 - INFO - Element 'Metis' was added to dict
+2025-06-13 20:18:13,623 - INFO - Element 'Waves' was added to dict
+2025-06-13 20:18:13,727 - INFO - Element 'Corn' was added to dict
+2025-06-13 20:18:13,845 - INFO - Element 'Initia' was added to dict
+2025-06-13 20:18:13,965 - INFO - Element 'Rollux' was added to dict
+2025-06-13 20:18:15,843 - INFO - Element 'Manta' was added to dict
+2025-06-13 20:18:15,946 - INFO - Element 'Fantom' was added to dict
+2025-06-13 20:18:16,046 - INFO - Element 'Reya Network' was added to dict
+2025-06-13 20:18:16,143 - INFO - Element 'NEO' was added to dict
+2025-06-13 20:18:16,244 - INFO - Element 'Lisk' was added to dict
+2025-06-13 20:18:16,346 - INFO - Element 'Babylon Genesis' was added to dict
+2025-06-13 20:18:16,451 - INFO - Element 'IoTeX' was added to dict
+2025-06-13 20:18:16,575 - INFO - Element 'ZetaChain' was added to dict
+2025-06-13 20:18:16,699 - INFO - Element 'Icon' was added to dict
+2025-06-13 20:18:16,838 - INFO - Element 'Astar' was added to dict
+2025-06-13 20:18:18,646 - INFO - Element 'Immutable zkEVM' was added to dict
+2025-06-13 20:18:18,750 - INFO - Element 'MAP Protocol' was added to dict
+2025-06-13 20:18:18,855 - INFO - Element 'Cronos zkEVM' was added to dict
+2025-06-13 20:18:18,952 - INFO - Element 'Saga' was added to dict
+2025-06-13 20:18:19,053 - INFO - Element 'Sophon' was added to dict
+2025-06-13 20:18:19,151 - INFO - Element 'Chainflip' was added to dict
+2025-06-13 20:18:19,255 - INFO - Element 'Aurora' was added to dict
+2025-06-13 20:18:19,352 - INFO - Element 'Proton' was added to dict
+2025-06-13 20:18:19,471 - INFO - Element 'ApeChain' was added to dict
+2025-06-13 20:18:19,600 - INFO - Element 'Conflux' was added to dict
+2025-06-13 20:18:21,554 - INFO - Element 'XDC' was added to dict
+2025-06-13 20:18:21,650 - INFO - Element 'Kujira' was added to dict
+2025-06-13 20:18:21,749 - INFO - Element 'Story' was added to dict
+2025-06-13 20:18:21,845 - INFO - Element 'IOTA EVM' was added to dict
+2025-06-13 20:18:21,941 - INFO - Element 'Zircuit' was added to dict
+2025-06-13 20:18:22,037 - INFO - Element 'Bifrost' was added to dict
+2025-06-13 20:18:22,133 - INFO - Element 'aelf' was added to dict
+2025-06-13 20:18:22,253 - INFO - Element 'Secret' was added to dict
+2025-06-13 20:18:22,363 - INFO - Element 'WEMIX3.0' was added to dict
+2025-06-13 20:18:22,485 - INFO - Element 'FSC' was added to dict
+2025-06-13 20:18:24,264 - INFO - Element 'Fuel Ignition' was added to dict
+2025-06-13 20:18:24,357 - INFO - Element 'Bitcoincash' was added to dict
+2025-06-13 20:18:24,456 - INFO - Element 'opBNB' was added to dict
+2025-06-13 20:18:24,552 - INFO - Element 'Mayachain' was added to dict
+2025-06-13 20:18:24,648 - INFO - Element 'K2' was added to dict
+2025-06-13 20:18:24,750 - INFO - Element 'Onus' was added to dict
+2025-06-13 20:18:24,847 - INFO - Element 'Oasis Sapphire' was added to dict
+2025-06-13 20:18:24,942 - INFO - Element 'Moonbeam' was added to dict
+2025-06-13 20:18:25,038 - INFO - Element 'Polynomial' was added to dict
+2025-06-13 20:18:25,150 - INFO - Element 'Ink' was added to dict
+2025-06-13 20:18:26,927 - INFO - Element 'Telos' was added to dict
+2025-06-13 20:18:27,025 - INFO - Element 'Venom' was added to dict
+2025-06-13 20:18:27,121 - INFO - Element 'Ontology' was added to dict
+2025-06-13 20:18:27,217 - INFO - Element 'Chiliz' was added to dict
+2025-06-13 20:18:27,312 - INFO - Element 'X Layer' was added to dict
+2025-06-13 20:18:27,409 - INFO - Element 'Bahamut' was added to dict
+2025-06-13 20:18:27,511 - INFO - Element 'Radix' was added to dict
+2025-06-13 20:18:27,606 - INFO - Element 'Elys' was added to dict
+2025-06-13 20:18:27,705 - INFO - Element 'Terra2' was added to dict
+2025-06-13 20:18:27,831 - INFO - Element 'Vite' was added to dict
+2025-06-13 20:18:29,573 - INFO - Element 'DFS Network' was added to dict
+2025-06-13 20:18:29,668 - INFO - Element 'Dexalot' was added to dict
+2025-06-13 20:18:29,765 - INFO - Element 'Mode' was added to dict
+2025-06-13 20:18:29,860 - INFO - Element 'Canto' was added to dict
+2025-06-13 20:18:29,956 - INFO - Element 'Echelon Chain' was added to dict
+2025-06-13 20:18:30,057 - INFO - Element 'Dymension' was added to dict
+2025-06-13 20:18:30,153 - INFO - Element 'Wanchain' was added to dict
+2025-06-13 20:18:30,248 - INFO - Element 'Vision' was added to dict
+2025-06-13 20:18:30,342 - INFO - Element 'Ergo' was added to dict
+2025-06-13 20:18:30,461 - INFO - Element 'Doge' was added to dict
+2025-06-13 20:18:32,274 - INFO - Element 'Gravity by Galxe' was added to dict
+2025-06-13 20:18:32,369 - INFO - Element 'Polygon zkEVM' was added to dict
+2025-06-13 20:18:32,465 - INFO - Element 'DefiChain' was added to dict
+2025-06-13 20:18:32,563 - INFO - Element 'Oasys' was added to dict
+2025-06-13 20:18:32,665 - INFO - Element 'Fluence' was added to dict
+2025-06-13 20:18:32,762 - INFO - Element 'Litecoin' was added to dict
+2025-06-13 20:18:32,859 - INFO - Element 'Hydra' was added to dict
+2025-06-13 20:18:32,954 - INFO - Element 'Dogechain' was added to dict
+2025-06-13 20:18:33,064 - INFO - Element 'OKTChain' was added to dict
+2025-06-13 20:18:33,194 - INFO - Element 'Beam' was added to dict
+2025-06-13 20:18:34,941 - INFO - Element 'HashKey Chain' was added to dict
+2025-06-13 20:18:35,043 - INFO - Element 'Moonriver' was added to dict
+2025-06-13 20:18:35,140 - INFO - Element 'Shibarium' was added to dict
+2025-06-13 20:18:35,236 - INFO - Element 'DFK' was added to dict
+2025-06-13 20:18:35,343 - INFO - Element 'Viction' was added to dict
+2025-06-13 20:18:35,440 - INFO - Element 'Carbon' was added to dict
+2025-06-13 20:18:35,542 - INFO - Element 'EOS EVM' was added to dict
+2025-06-13 20:18:35,638 - INFO - Element 'Vana' was added to dict
+2025-06-13 20:18:35,736 - INFO - Element 'Boba' was added to dict
+2025-06-13 20:18:35,861 - INFO - Element 'Alephium' was added to dict
+2025-06-13 20:18:37,633 - INFO - Element 'Interlay' was added to dict
+2025-06-13 20:18:37,730 - INFO - Element 'Nuls' was added to dict
+2025-06-13 20:18:37,833 - INFO - Element 'Oraichain' was added to dict
+2025-06-13 20:18:38,015 - INFO - Element 'AB' was added to dict
+2025-06-13 20:18:38,120 - INFO - Element 'Songbird' was added to dict
+2025-06-13 20:18:38,216 - INFO - Element 'UX' was added to dict
+2025-06-13 20:18:38,319 - INFO - Element 'QL1' was added to dict
+2025-06-13 20:18:38,424 - INFO - Element 'Harmony' was added to dict
+2025-06-13 20:18:38,543 - INFO - Element 'EDU Chain' was added to dict
+2025-06-13 20:18:38,673 - INFO - Element 'VeChain' was added to dict
+2025-06-13 20:18:40,525 - INFO - Element 'Zilliqa' was added to dict
+2025-06-13 20:18:40,626 - INFO - Element 'KCC' was added to dict
+2025-06-13 20:18:40,731 - INFO - Element 'GodwokenV1' was added to dict
+2025-06-13 20:18:40,841 - INFO - Element 'LightLink' was added to dict
+2025-06-13 20:18:40,943 - INFO - Element 'KUB' was added to dict
+2025-06-13 20:18:41,045 - INFO - Element 'Equilibrium' was added to dict
+2025-06-13 20:18:41,148 - INFO - Element 'Namada' was added to dict
+2025-06-13 20:18:41,262 - INFO - Element 'Rangers' was added to dict
+2025-06-13 20:18:41,387 - INFO - Element 'Superseed' was added to dict
+2025-06-13 20:18:41,513 - INFO - Element 'Supra' was added to dict
+2025-06-13 20:18:43,790 - INFO - Element 'Theta' was added to dict
+2025-06-13 20:18:43,923 - INFO - Element 'MTT Network' was added to dict
+2025-06-13 20:18:44,132 - INFO - Element 'Wax' was added to dict
+2025-06-13 20:18:44,301 - INFO - Element 'Kadena' was added to dict
+2025-06-13 20:18:44,461 - INFO - Element 'Elastos' was added to dict
+2025-06-13 20:18:44,591 - INFO - Element 'SX Rollup' was added to dict
+2025-06-13 20:18:44,724 - INFO - Element 'XPLA' was added to dict
+2025-06-13 20:18:44,850 - INFO - Element 'Odyssey' was added to dict
+2025-06-13 20:18:44,981 - INFO - Element 'WINR' was added to dict
+2025-06-13 20:18:45,113 - INFO - Element 'Unit Zero' was added to dict
+2025-06-13 20:18:47,393 - INFO - Element 'Starcoin' was added to dict
+2025-06-13 20:18:47,530 - INFO - Element 'smartBCH' was added to dict
+2025-06-13 20:18:47,674 - INFO - Element 'Milkomeda C1' was added to dict
+2025-06-13 20:18:47,837 - INFO - Element 'Arbitrum Nova' was added to dict
+2025-06-13 20:18:47,990 - INFO - Element 'Zero Network' was added to dict
+2025-06-13 20:18:48,126 - INFO - Element 'Terra Classic' was added to dict
+2025-06-13 20:18:48,261 - INFO - Element 'DeFiVerse' was added to dict
+2025-06-13 20:18:48,391 - INFO - Element 'Meter' was added to dict
+2025-06-13 20:18:48,520 - INFO - Element 'ShimmerEVM' was added to dict
+2025-06-13 20:18:48,654 - INFO - Element 'Fuse' was added to dict
+2025-06-13 20:18:51,106 - INFO - Element 'BEVM' was added to dict
+2025-06-13 20:18:51,254 - INFO - Element 'Obyte' was added to dict
+2025-06-13 20:18:51,427 - INFO - Element 'NOS' was added to dict
+2025-06-13 20:18:51,586 - INFO - Element 'Archway' was added to dict
+2025-06-13 20:18:51,716 - INFO - Element 'zkLink Nova' was added to dict
+2025-06-13 20:18:51,857 - INFO - Element 'Prom' was added to dict
+2025-06-13 20:18:51,993 - INFO - Element 'Ultron' was added to dict
+2025-06-13 20:18:52,131 - INFO - Element 'HAQQ' was added to dict
+2025-06-13 20:18:52,273 - INFO - Element 'Persistence One' was added to dict
+2025-06-13 20:18:52,417 - INFO - Element 'Acala' was added to dict
+2025-06-13 20:18:55,124 - INFO - Element 'Mantra' was added to dict
+2025-06-13 20:18:55,298 - INFO - Element 'Energi' was added to dict
+2025-06-13 20:18:55,468 - INFO - Element 'CSC' was added to dict
+2025-06-13 20:18:55,618 - INFO - Element 'Oasis Emerald' was added to dict
+2025-06-13 20:18:55,780 - INFO - Element 'SatoshiVM' was added to dict
+2025-06-13 20:18:55,941 - INFO - Element 'Haven1' was added to dict
+2025-06-13 20:18:56,087 - INFO - Element 'Taraxa' was added to dict
+2025-06-13 20:18:56,241 - INFO - Element 'ThunderCore' was added to dict
+2025-06-13 20:18:56,389 - INFO - Element 'Everscale' was added to dict
+2025-06-13 20:18:56,551 - INFO - Element 'Velas' was added to dict
+2025-06-13 20:18:59,433 - INFO - Element 'Nolus' was added to dict
+2025-06-13 20:18:59,606 - INFO - Element 'CosmosHub' was added to dict
+2025-06-13 20:18:59,757 - INFO - Element 'Shido' was added to dict
+2025-06-13 20:18:59,923 - INFO - Element 'Nibiru' was added to dict
+2025-06-13 20:19:00,092 - INFO - Element 'Bittorrent' was added to dict
+2025-06-13 20:19:00,245 - INFO - Element 'Boba_Bnb' was added to dict
+2025-06-13 20:19:00,411 - INFO - Element 'Redbelly' was added to dict
+2025-06-13 20:19:00,597 - INFO - Element 'Degen' was added to dict
+2025-06-13 20:19:00,909 - INFO - Element 'EthereumClassic' was added to dict
+2025-06-13 20:19:01,077 - INFO - Element 'SKALE Europa' was added to dict
+2025-06-13 20:19:02,897 - INFO - Element 'OpenGPU' was added to dict
+2025-06-13 20:19:02,993 - INFO - Element 'Kintsugi' was added to dict
+2025-06-13 20:19:03,087 - INFO - Element 'RSS3' was added to dict
+2025-06-13 20:19:03,185 - INFO - Element 'Agoric' was added to dict
+2025-06-13 20:19:03,282 - INFO - Element 'Kroma' was added to dict
+2025-06-13 20:19:03,376 - INFO - Element 'Elysium' was added to dict
+2025-06-13 20:19:03,473 - INFO - Element 'Xai' was added to dict
+2025-06-13 20:19:03,569 - INFO - Element 'Superposition' was added to dict
+2025-06-13 20:19:03,677 - INFO - Element 'Evmos' was added to dict
+2025-06-13 20:19:03,797 - INFO - Element 'EnergyWeb' was added to dict
+2025-06-13 20:19:05,548 - INFO - Element 'Neon' was added to dict
+2025-06-13 20:19:05,649 - INFO - Element 'Karura' was added to dict
+2025-06-13 20:19:05,763 - INFO - Element 'Juno' was added to dict
+2025-06-13 20:19:05,878 - INFO - Element 'Qubic' was added to dict
+2025-06-13 20:19:05,991 - INFO - Element 'Aleph Zero EVM' was added to dict
+2025-06-13 20:19:06,087 - INFO - Element 'FunctionX' was added to dict
+2025-06-13 20:19:06,187 - INFO - Element 'Mint' was added to dict
+2025-06-13 20:19:06,289 - INFO - Element 'Matchain' was added to dict
+2025-06-13 20:19:06,401 - INFO - Element 'Lens' was added to dict
+2025-06-13 20:19:06,539 - INFO - Element 'Ancient8' was added to dict
+2025-06-13 20:19:08,318 - INFO - Element 'Saakuru' was added to dict
+2025-06-13 20:19:08,414 - INFO - Element 'Libre' was added to dict
+2025-06-13 20:19:08,510 - INFO - Element 'DeFiChain EVM' was added to dict
+2025-06-13 20:19:08,614 - INFO - Element 'Crab' was added to dict
+2025-06-13 20:19:08,710 - INFO - Element 'RENEC' was added to dict
+2025-06-13 20:19:08,807 - INFO - Element 'Naka' was added to dict
+2025-06-13 20:19:08,908 - INFO - Element 'Kardia' was added to dict
+2025-06-13 20:19:09,009 - INFO - Element 'Omax' was added to dict
+2025-06-13 20:19:09,118 - INFO - Element 'Massa' was added to dict
+2025-06-13 20:19:09,247 - INFO - Element 'HeLa' was added to dict
+2025-06-13 20:19:10,997 - INFO - Element 'AirDAO' was added to dict
+2025-06-13 20:19:11,093 - INFO - Element 'Shape' was added to dict
+2025-06-13 20:19:11,194 - INFO - Element 'Stargaze' was added to dict
+2025-06-13 20:19:11,289 - INFO - Element 'Zkfair' was added to dict
+2025-06-13 20:19:11,386 - INFO - Element 'ALV' was added to dict
+2025-06-13 20:19:11,482 - INFO - Element 'Dash' was added to dict
+2025-06-13 20:19:11,587 - INFO - Element 'AO' was added to dict
+2025-06-13 20:19:11,692 - INFO - Element 'Electroneum' was added to dict
+2025-06-13 20:19:11,790 - INFO - Element 'Step' was added to dict
+2025-06-13 20:19:11,902 - INFO - Element 'CrossFi' was added to dict
+2025-06-13 20:19:13,741 - INFO - Element 'Chihuahua' was added to dict
+2025-06-13 20:19:13,839 - INFO - Element 'Genesys' was added to dict
+2025-06-13 20:19:13,940 - INFO - Element 'MVC' was added to dict
+2025-06-13 20:19:14,037 - INFO - Element 'Comdex' was added to dict
+2025-06-13 20:19:14,134 - INFO - Element 'Tombchain' was added to dict
+2025-06-13 20:19:14,228 - INFO - Element 'Q Protocol' was added to dict
+2025-06-13 20:19:14,330 - INFO - Element 'Polkadex' was added to dict
+2025-06-13 20:19:14,426 - INFO - Element 'Nahmii' was added to dict
+2025-06-13 20:19:14,543 - INFO - Element 'Loop' was added to dict
+2025-06-13 20:19:14,664 - INFO - Element 'Endurance' was added to dict
+2025-06-13 20:19:16,490 - INFO - Element 'Swan' was added to dict
+2025-06-13 20:19:16,592 - INFO - Element 'DuckChain' was added to dict
+2025-06-13 20:19:16,695 - INFO - Element 'Godwoken' was added to dict
+2025-06-13 20:19:16,792 - INFO - Element 'Zora' was added to dict
+2025-06-13 20:19:16,894 - INFO - Element 'Parex' was added to dict
+2025-06-13 20:19:16,991 - INFO - Element 'EthereumPoW' was added to dict
+2025-06-13 20:19:17,094 - INFO - Element 'Cyber' was added to dict
+2025-06-13 20:19:17,193 - INFO - Element 'Stratis' was added to dict
+2025-06-13 20:19:17,312 - INFO - Element 'Sanko' was added to dict
+2025-06-13 20:19:17,432 - INFO - Element 'Crescent' was added to dict
+2025-06-13 20:19:19,426 - INFO - Element 'Bitrock' was added to dict
+2025-06-13 20:19:19,529 - INFO - Element 'LaChain Network' was added to dict
+2025-06-13 20:19:19,632 - INFO - Element 'Sora' was added to dict
+2025-06-13 20:19:19,735 - INFO - Element 'Aura Network' was added to dict
+2025-06-13 20:19:19,846 - INFO - Element 'Rari' was added to dict
+2025-06-13 20:19:19,947 - INFO - Element 'Findora' was added to dict
+2025-06-13 20:19:20,069 - INFO - Element 'Bostrom' was added to dict
+2025-06-13 20:19:20,195 - INFO - Element 'Lachain' was added to dict
+2025-06-13 20:19:20,341 - INFO - Element 'LUKSO' was added to dict
+2025-06-13 20:19:20,460 - INFO - Element 'Neo X Mainnet' was added to dict
+2025-06-13 20:19:22,492 - INFO - Element 'Shiden' was added to dict
+2025-06-13 20:19:22,592 - INFO - Element 'Form Network' was added to dict
+2025-06-13 20:19:22,687 - INFO - Element 're.al' was added to dict
+2025-06-13 20:19:22,782 - INFO - Element 'Redstone' was added to dict
+2025-06-13 20:19:22,883 - INFO - Element 'Planq' was added to dict
+2025-06-13 20:19:22,977 - INFO - Element 'Silicon zkEVM' was added to dict
+2025-06-13 20:19:23,095 - INFO - Element 'Moonchain' was added to dict
+2025-06-13 20:19:23,215 - INFO - Element 'Migaloo' was added to dict
+2025-06-13 20:19:23,338 - INFO - Element 'Horizen EON' was added to dict
+2025-06-13 20:19:23,446 - INFO - Element 'Areon Network' was added to dict
+2025-06-13 20:19:25,218 - INFO - Element 'Astar zkEVM' was added to dict
+2025-06-13 20:19:25,321 - INFO - Element 'inEVM' was added to dict
+2025-06-13 20:19:25,433 - INFO - Element 'Penumbra' was added to dict
+2025-06-13 20:19:25,530 - INFO - Element 'JBC' was added to dict
+2025-06-13 20:19:25,634 - INFO - Element 'MultiVAC' was added to dict
+2025-06-13 20:19:25,732 - INFO - Element 'Callisto' was added to dict
+2025-06-13 20:19:25,829 - INFO - Element 'Grove' was added to dict
+2025-06-13 20:19:25,928 - INFO - Element 'ENULS' was added to dict
+2025-06-13 20:19:26,042 - INFO - Element 'Asset Chain' was added to dict
+2025-06-13 20:19:26,156 - INFO - Element 'ETHF' was added to dict
+2025-06-13 20:19:27,912 - INFO - Element 'Cube' was added to dict
+2025-06-13 20:19:28,008 - INFO - Element 'Ham' was added to dict
+2025-06-13 20:19:28,107 - INFO - Element 'VinuChain' was added to dict
+2025-06-13 20:19:28,204 - INFO - Element 'GoChain' was added to dict
+2025-06-13 20:19:28,299 - INFO - Element 'REI' was added to dict
+2025-06-13 20:19:28,396 - INFO - Element 'Joltify' was added to dict
+2025-06-13 20:19:28,490 - INFO - Element 'Darwinia' was added to dict
+2025-06-13 20:19:28,593 - INFO - Element 'Artela' was added to dict
+2025-06-13 20:19:28,693 - INFO - Element 'Manta Atlantic' was added to dict
+2025-06-13 20:19:28,814 - INFO - Element 'Bitgert' was added to dict
+2025-06-13 20:19:30,559 - INFO - Element 'OntologyEVM' was added to dict
+2025-06-13 20:19:30,657 - INFO - Element 'REIchain' was added to dict
+2025-06-13 20:19:30,751 - INFO - Element 'Sifchain' was added to dict
+2025-06-13 20:19:30,850 - INFO - Element 'XCHAIN' was added to dict
+2025-06-13 20:19:30,950 - INFO - Element 'Plume (Deprecated)' was added to dict
+2025-06-13 20:19:31,044 - INFO - Element 'SX Network' was added to dict
+2025-06-13 20:19:31,141 - INFO - Element 'Milkomeda A1' was added to dict
+2025-06-13 20:19:31,237 - INFO - Element 'Palm' was added to dict
+2025-06-13 20:19:31,333 - INFO - Element 'Tenet' was added to dict
+2025-06-13 20:19:31,456 - INFO - Element 'Concordium' was added to dict
+2025-06-13 20:19:33,263 - INFO - Element 'Aeternity' was added to dict
+2025-06-13 20:19:33,360 - INFO - Element 'Bitnet' was added to dict
+2025-06-13 20:19:33,461 - INFO - Element 'Waterfall' was added to dict
+2025-06-13 20:19:33,558 - INFO - Element 'Pego' was added to dict
+2025-06-13 20:19:33,654 - INFO - Element 'Xphere' was added to dict
+2025-06-13 20:19:33,753 - INFO - Element 'Celestia' was added to dict
+2025-06-13 20:19:33,850 - INFO - Element 'BandChain' was added to dict
+2025-06-13 20:19:33,945 - INFO - Element 'Sommelier' was added to dict
+2025-06-13 20:19:34,063 - INFO - Element 'IOTA' was added to dict
+2025-06-13 20:19:34,203 - INFO - Element 'Polkadot' was added to dict
+2025-06-13 20:19:35,482 - WARNING - Execution of job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:19:35 EEST)" skipped: maximum number of running instances reached (1)
+2025-06-13 20:19:35,955 - INFO - Element 'Syscoin' was added to dict
+2025-06-13 20:19:36,048 - INFO - Element 'Kusama' was added to dict
+2025-06-13 20:19:36,150 - INFO - Element 'exSat' was added to dict
+2025-06-13 20:19:36,244 - INFO - Element 'Milkyway' was added to dict
+2025-06-13 20:19:36,345 - INFO - Element 'MilkyWay Rollup' was added to dict
+2025-06-13 20:19:36,442 - INFO - Element 'Quicksilver' was added to dict
+2025-06-13 20:19:36,537 - INFO - Element 'Pryzm' was added to dict
+2025-06-13 20:19:36,636 - INFO - Element 'Pokt' was added to dict
+2025-06-13 20:19:36,732 - INFO - Element 'Heco' was added to dict
+2025-06-13 20:19:36,853 - INFO - Element 'Kopi' was added to dict
+2025-06-13 20:19:38,583 - INFO - Element 'Flame' was added to dict
+2025-06-13 20:19:38,683 - INFO - Element 'Goerli' was added to dict
+2025-06-13 20:19:38,779 - INFO - Element 'Dexit' was added to dict
+2025-06-13 20:19:38,882 - INFO - Element 'Stride' was added to dict
+2025-06-13 20:19:39,025 - INFO - Element 'Fusion' was added to dict
+2025-06-13 20:19:39,165 - INFO - Element 'Boba_Avax' was added to dict
+2025-06-13 20:19:39,267 - INFO - Element 'Stafi' was added to dict
+2025-06-13 20:19:39,364 - INFO - Element 'Empire' was added to dict
+2025-06-13 20:19:39,504 - INFO - Element 'OXFUN' was added to dict
+2025-06-13 20:19:39,624 - INFO - Element 'Echelon' was added to dict
+2025-06-13 20:19:41,489 - INFO - Element 'Hoo' was added to dict
+2025-06-13 20:19:41,587 - INFO - Element 'Mind Network' was added to dict
+2025-06-13 20:19:41,678 - INFO - Element 'Perennial' was added to dict
+2025-06-13 20:19:41,770 - INFO - Element 'CLV' was added to dict
+2025-06-13 20:19:41,865 - INFO - Element 'DSC' was added to dict
+2025-06-13 20:19:41,956 - INFO - Element 'ZKsync Lite' was added to dict
+2025-06-13 20:19:42,049 - INFO - Element 'Nova Network' was added to dict
+2025-06-13 20:19:42,140 - INFO - Element 'CMP' was added to dict
+2025-06-13 20:19:42,255 - INFO - Element 'Genshiro' was added to dict
+2025-06-13 20:19:42,382 - INFO - Element 'Lamden' was added to dict
+2025-06-13 20:19:44,101 - INFO - Element 'HPB' was added to dict
+2025-06-13 20:19:44,201 - INFO - Element 'Polis' was added to dict
+2025-06-13 20:19:44,295 - INFO - Element 'ZYX' was added to dict
+2025-06-13 20:19:44,386 - INFO - Element 'Ubiq' was added to dict
+2025-06-13 20:19:44,479 - INFO - Element 'Heiko' was added to dict
+2025-06-13 20:19:44,575 - INFO - Element 'Parallel' was added to dict
+2025-06-13 20:19:44,671 - INFO - Element 'Coti' was added to dict
+2025-06-13 20:19:44,764 - INFO - Element 'Kekchain' was added to dict
+2025-06-13 20:19:44,857 - INFO - Element 'MUUCHAIN' was added to dict
+2025-06-13 20:19:44,950 - INFO - Element 'Tlchain' was added to dict
+2025-06-13 20:19:46,582 - INFO - Element 'Zeniq' was added to dict
+2025-06-13 20:19:46,670 - INFO - Element 'Bitindi' was added to dict
+2025-06-13 20:19:46,765 - INFO - Element 'Lung' was added to dict
+2025-06-13 20:19:46,855 - INFO - Element 'Bone' was added to dict
+2025-06-13 20:19:46,944 - INFO - Element 'MEER' was added to dict
+2025-06-13 20:19:48,800 - INFO - Scrolling reached the end of page.
+2025-06-13 20:19:50,614 - INFO - Scrolling reached the end of page.
+2025-06-13 20:19:52,455 - INFO - Scrolling reached the end of page.
+2025-06-13 20:19:54,202 - INFO - Scrolling reached the end of page.
+2025-06-13 20:19:54,202 - INFO - Parsing was finished. Collected 379 elements.
+2025-06-13 20:19:54,676 - INFO - New data appended and saved to output/result.json
+2025-06-13 20:19:54,676 - INFO - Job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:21:35 EEST)" executed successfully
+2025-06-13 20:21:35,487 - INFO - Running job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:23:35 EEST)" (scheduled at 2025-06-13 20:21:35.479268+03:00)
+2025-06-13 20:21:48,284 - INFO - Element 'Ethereum' was added to dict
+2025-06-13 20:21:48,394 - INFO - Element 'Solana' was added to dict
+2025-06-13 20:21:48,498 - INFO - Element 'Bitcoin' was added to dict
+2025-06-13 20:21:48,603 - INFO - Element 'BSC' was added to dict
+2025-06-13 20:21:48,706 - INFO - Element 'Tron' was added to dict
+2025-06-13 20:21:48,802 - INFO - Element 'Base' was added to dict
+2025-06-13 20:21:48,899 - INFO - Element 'Arbitrum' was added to dict
+2025-06-13 20:21:49,537 - INFO - Element 'Sui' was added to dict
+2025-06-13 20:21:49,637 - INFO - Element 'Hyperliquid L1' was added to dict
+2025-06-13 20:21:49,770 - INFO - Element 'Avalanche' was added to dict
+2025-06-13 20:21:49,875 - INFO - Element 'Aptos' was added to dict
+2025-06-13 20:21:49,976 - INFO - Element 'Polygon' was added to dict
+2025-06-13 20:21:50,077 - INFO - Element 'Berachain' was added to dict
+2025-06-13 20:21:50,179 - INFO - Element 'Unichain' was added to dict
+2025-06-13 20:21:50,282 - INFO - Element 'Sonic' was added to dict
+2025-06-13 20:21:50,381 - INFO - Element 'Sei' was added to dict
+2025-06-13 20:21:50,486 - INFO - Element 'Cronos' was added to dict
+2025-06-13 20:21:50,587 - INFO - Element 'BSquared' was added to dict
+2025-06-13 20:21:50,685 - INFO - Element 'Bitlayer' was added to dict
+2025-06-13 20:21:50,783 - INFO - Element 'CORE' was added to dict
+2025-06-13 20:21:50,892 - INFO - Element 'OP Mainnet' was added to dict
+2025-06-13 20:21:50,995 - INFO - Element 'Hemi' was added to dict
+2025-06-13 20:21:51,102 - INFO - Element 'Taiko' was added to dict
+2025-06-13 20:21:51,206 - INFO - Element 'Cardano' was added to dict
+2025-06-13 20:21:51,334 - INFO - Element 'Rootstock' was added to dict
+2025-06-13 20:21:51,438 - INFO - Element 'Gnosis' was added to dict
+2025-06-13 20:21:51,542 - INFO - Element 'Vaulta' was added to dict
+2025-06-13 20:21:51,652 - INFO - Element 'PulseChain' was added to dict
+2025-06-13 20:21:51,775 - INFO - Element 'dYdX' was added to dict
+2025-06-13 20:21:51,912 - INFO - Element 'Mantle' was added to dict
+2025-06-13 20:21:53,802 - INFO - Element 'BOB' was added to dict
+2025-06-13 20:21:53,908 - INFO - Element 'Flare' was added to dict
+2025-06-13 20:21:54,009 - INFO - Element 'TON' was added to dict
+2025-06-13 20:21:54,107 - INFO - Element 'Kava' was added to dict
+2025-06-13 20:21:54,210 - INFO - Element 'Near' was added to dict
+2025-06-13 20:21:54,317 - INFO - Element 'Linea' was added to dict
+2025-06-13 20:21:54,417 - INFO - Element 'Soneium' was added to dict
+2025-06-13 20:21:54,520 - INFO - Element 'Hydration' was added to dict
+2025-06-13 20:21:54,650 - INFO - Element 'Blast' was added to dict
+2025-06-13 20:21:54,775 - INFO - Element 'Morph' was added to dict
+2025-06-13 20:21:56,651 - INFO - Element 'Goat' was added to dict
+2025-06-13 20:21:56,749 - INFO - Element 'Mixin' was added to dict
+2025-06-13 20:21:56,853 - INFO - Element 'Stacks' was added to dict
+2025-06-13 20:21:56,951 - INFO - Element 'Starknet' was added to dict
+2025-06-13 20:21:57,059 - INFO - Element 'Stellar' was added to dict
+2025-06-13 20:21:57,161 - INFO - Element 'AILayer' was added to dict
+2025-06-13 20:21:57,286 - INFO - Element 'Movement' was added to dict
+2025-06-13 20:21:57,403 - INFO - Element 'Hedera' was added to dict
+2025-06-13 20:21:57,536 - INFO - Element 'Flow' was added to dict
+2025-06-13 20:21:57,681 - INFO - Element 'Thorchain' was added to dict
+2025-06-13 20:21:59,536 - INFO - Element 'Fraxtal' was added to dict
+2025-06-13 20:21:59,634 - INFO - Element 'Celo' was added to dict
+2025-06-13 20:21:59,734 - INFO - Element 'BounceBit' was added to dict
+2025-06-13 20:21:59,831 - INFO - Element 'Merlin' was added to dict
+2025-06-13 20:21:59,931 - INFO - Element 'Ronin' was added to dict
+2025-06-13 20:22:00,034 - INFO - Element 'Osmosis' was added to dict
+2025-06-13 20:22:00,131 - INFO - Element 'XRPL' was added to dict
+2025-06-13 20:22:00,231 - INFO - Element 'Plume Mainnet' was added to dict
+2025-06-13 20:22:00,350 - INFO - Element 'ZKsync Era' was added to dict
+2025-06-13 20:22:00,472 - INFO - Element 'Verus' was added to dict
+2025-06-13 20:22:02,260 - INFO - Element 'MultiversX' was added to dict
+2025-06-13 20:22:02,366 - INFO - Element 'Scroll' was added to dict
+2025-06-13 20:22:02,479 - INFO - Element 'World Chain' was added to dict
+2025-06-13 20:22:02,598 - INFO - Element 'Etherlink' was added to dict
+2025-06-13 20:22:02,697 - INFO - Element 'Algorand' was added to dict
+2025-06-13 20:22:02,794 - INFO - Element 'Neutron' was added to dict
+2025-06-13 20:22:02,896 - INFO - Element 'Kaia' was added to dict
+2025-06-13 20:22:03,007 - INFO - Element 'Eclipse' was added to dict
+2025-06-13 20:22:03,157 - INFO - Element 'Tezos' was added to dict
+2025-06-13 20:22:03,276 - INFO - Element 'Filecoin' was added to dict
+2025-06-13 20:22:05,114 - INFO - Element 'ICP' was added to dict
+2025-06-13 20:22:05,212 - INFO - Element 'Injective' was added to dict
+2025-06-13 20:22:05,309 - INFO - Element 'Abstract' was added to dict
+2025-06-13 20:22:05,409 - INFO - Element 'Swellchain' was added to dict
+2025-06-13 20:22:05,516 - INFO - Element 'Bifrost Network' was added to dict
+2025-06-13 20:22:05,613 - INFO - Element 'Metis' was added to dict
+2025-06-13 20:22:05,712 - INFO - Element 'Waves' was added to dict
+2025-06-13 20:22:05,810 - INFO - Element 'Corn' was added to dict
+2025-06-13 20:22:05,936 - INFO - Element 'Initia' was added to dict
+2025-06-13 20:22:06,060 - INFO - Element 'Rollux' was added to dict
+2025-06-13 20:22:07,935 - INFO - Element 'Manta' was added to dict
+2025-06-13 20:22:08,041 - INFO - Element 'Fantom' was added to dict
+2025-06-13 20:22:08,150 - INFO - Element 'Reya Network' was added to dict
+2025-06-13 20:22:08,251 - INFO - Element 'NEO' was added to dict
+2025-06-13 20:22:08,346 - INFO - Element 'Lisk' was added to dict
+2025-06-13 20:22:08,449 - INFO - Element 'Babylon Genesis' was added to dict
+2025-06-13 20:22:08,547 - INFO - Element 'IoTeX' was added to dict
+2025-06-13 20:22:08,702 - INFO - Element 'ZetaChain' was added to dict
+2025-06-13 20:22:08,847 - INFO - Element 'Icon' was added to dict
+2025-06-13 20:22:08,996 - INFO - Element 'Astar' was added to dict
+2025-06-13 20:22:10,779 - INFO - Element 'Immutable zkEVM' was added to dict
+2025-06-13 20:22:10,880 - INFO - Element 'MAP Protocol' was added to dict
+2025-06-13 20:22:10,977 - INFO - Element 'Cronos zkEVM' was added to dict
+2025-06-13 20:22:11,073 - INFO - Element 'Saga' was added to dict
+2025-06-13 20:22:11,177 - INFO - Element 'Sophon' was added to dict
+2025-06-13 20:22:11,276 - INFO - Element 'Chainflip' was added to dict
+2025-06-13 20:22:11,379 - INFO - Element 'Aurora' was added to dict
+2025-06-13 20:22:11,479 - INFO - Element 'Proton' was added to dict
+2025-06-13 20:22:11,578 - INFO - Element 'ApeChain' was added to dict
+2025-06-13 20:22:11,702 - INFO - Element 'Conflux' was added to dict
+2025-06-13 20:22:13,505 - INFO - Element 'XDC' was added to dict
+2025-06-13 20:22:13,612 - INFO - Element 'Kujira' was added to dict
+2025-06-13 20:22:13,721 - INFO - Element 'Story' was added to dict
+2025-06-13 20:22:13,823 - INFO - Element 'IOTA EVM' was added to dict
+2025-06-13 20:22:13,927 - INFO - Element 'Zircuit' was added to dict
+2025-06-13 20:22:14,030 - INFO - Element 'Bifrost' was added to dict
+2025-06-13 20:22:14,130 - INFO - Element 'aelf' was added to dict
+2025-06-13 20:22:14,235 - INFO - Element 'Secret' was added to dict
+2025-06-13 20:22:14,354 - INFO - Element 'WEMIX3.0' was added to dict
+2025-06-13 20:22:14,483 - INFO - Element 'FSC' was added to dict
+2025-06-13 20:22:16,444 - INFO - Element 'Fuel Ignition' was added to dict
+2025-06-13 20:22:16,550 - INFO - Element 'Bitcoincash' was added to dict
+2025-06-13 20:22:16,654 - INFO - Element 'opBNB' was added to dict
+2025-06-13 20:22:16,772 - INFO - Element 'Mayachain' was added to dict
+2025-06-13 20:22:16,892 - INFO - Element 'K2' was added to dict
+2025-06-13 20:22:17,090 - INFO - Element 'Onus' was added to dict
+2025-06-13 20:22:17,187 - INFO - Element 'Oasis Sapphire' was added to dict
+2025-06-13 20:22:17,300 - INFO - Element 'Moonbeam' was added to dict
+2025-06-13 20:22:17,440 - INFO - Element 'Polynomial' was added to dict
+2025-06-13 20:22:17,559 - INFO - Element 'Ink' was added to dict
+2025-06-13 20:22:19,344 - INFO - Element 'Telos' was added to dict
+2025-06-13 20:22:19,440 - INFO - Element 'Venom' was added to dict
+2025-06-13 20:22:19,540 - INFO - Element 'Ontology' was added to dict
+2025-06-13 20:22:19,639 - INFO - Element 'Chiliz' was added to dict
+2025-06-13 20:22:19,735 - INFO - Element 'X Layer' was added to dict
+2025-06-13 20:22:19,833 - INFO - Element 'Bahamut' was added to dict
+2025-06-13 20:22:19,928 - INFO - Element 'Radix' was added to dict
+2025-06-13 20:22:20,023 - INFO - Element 'Elys' was added to dict
+2025-06-13 20:22:20,119 - INFO - Element 'Terra2' was added to dict
+2025-06-13 20:22:20,243 - INFO - Element 'Vite' was added to dict
+2025-06-13 20:22:21,976 - INFO - Element 'DFS Network' was added to dict
+2025-06-13 20:22:22,071 - INFO - Element 'Dexalot' was added to dict
+2025-06-13 20:22:22,179 - INFO - Element 'Mode' was added to dict
+2025-06-13 20:22:22,287 - INFO - Element 'Canto' was added to dict
+2025-06-13 20:22:22,396 - INFO - Element 'Echelon Chain' was added to dict
+2025-06-13 20:22:22,506 - INFO - Element 'Dymension' was added to dict
+2025-06-13 20:22:22,603 - INFO - Element 'Wanchain' was added to dict
+2025-06-13 20:22:22,703 - INFO - Element 'Vision' was added to dict
+2025-06-13 20:22:22,800 - INFO - Element 'Ergo' was added to dict
+2025-06-13 20:22:22,920 - INFO - Element 'Doge' was added to dict
+2025-06-13 20:22:24,690 - INFO - Element 'Gravity by Galxe' was added to dict
+2025-06-13 20:22:24,791 - INFO - Element 'Polygon zkEVM' was added to dict
+2025-06-13 20:22:24,887 - INFO - Element 'DefiChain' was added to dict
+2025-06-13 20:22:24,983 - INFO - Element 'Oasys' was added to dict
+2025-06-13 20:22:25,079 - INFO - Element 'Fluence' was added to dict
+2025-06-13 20:22:25,182 - INFO - Element 'Litecoin' was added to dict
+2025-06-13 20:22:25,277 - INFO - Element 'Hydra' was added to dict
+2025-06-13 20:22:25,382 - INFO - Element 'Dogechain' was added to dict
+2025-06-13 20:22:25,497 - INFO - Element 'OKTChain' was added to dict
+2025-06-13 20:22:25,624 - INFO - Element 'Beam' was added to dict
+2025-06-13 20:22:27,408 - INFO - Element 'HashKey Chain' was added to dict
+2025-06-13 20:22:27,504 - INFO - Element 'Moonriver' was added to dict
+2025-06-13 20:22:27,607 - INFO - Element 'Shibarium' was added to dict
+2025-06-13 20:22:27,702 - INFO - Element 'DFK' was added to dict
+2025-06-13 20:22:27,797 - INFO - Element 'Viction' was added to dict
+2025-06-13 20:22:27,902 - INFO - Element 'Carbon' was added to dict
+2025-06-13 20:22:27,998 - INFO - Element 'EOS EVM' was added to dict
+2025-06-13 20:22:28,101 - INFO - Element 'Vana' was added to dict
+2025-06-13 20:22:28,209 - INFO - Element 'Boba' was added to dict
+2025-06-13 20:22:28,326 - INFO - Element 'Alephium' was added to dict
+2025-06-13 20:22:30,136 - INFO - Element 'Interlay' was added to dict
+2025-06-13 20:22:30,232 - INFO - Element 'Nuls' was added to dict
+2025-06-13 20:22:30,333 - INFO - Element 'Oraichain' was added to dict
+2025-06-13 20:22:30,430 - INFO - Element 'AB' was added to dict
+2025-06-13 20:22:30,531 - INFO - Element 'Songbird' was added to dict
+2025-06-13 20:22:30,627 - INFO - Element 'UX' was added to dict
+2025-06-13 20:22:30,723 - INFO - Element 'QL1' was added to dict
+2025-06-13 20:22:30,825 - INFO - Element 'Harmony' was added to dict
+2025-06-13 20:22:30,947 - INFO - Element 'EDU Chain' was added to dict
+2025-06-13 20:22:31,067 - INFO - Element 'VeChain' was added to dict
+2025-06-13 20:22:32,871 - INFO - Element 'Zilliqa' was added to dict
+2025-06-13 20:22:32,974 - INFO - Element 'KCC' was added to dict
+2025-06-13 20:22:33,073 - INFO - Element 'GodwokenV1' was added to dict
+2025-06-13 20:22:33,170 - INFO - Element 'LightLink' was added to dict
+2025-06-13 20:22:33,273 - INFO - Element 'KUB' was added to dict
+2025-06-13 20:22:33,371 - INFO - Element 'Equilibrium' was added to dict
+2025-06-13 20:22:33,479 - INFO - Element 'Namada' was added to dict
+2025-06-13 20:22:33,580 - INFO - Element 'Rangers' was added to dict
+2025-06-13 20:22:33,694 - INFO - Element 'Superseed' was added to dict
+2025-06-13 20:22:33,818 - INFO - Element 'Supra' was added to dict
+2025-06-13 20:22:35,753 - INFO - Element 'Theta' was added to dict
+2025-06-13 20:22:35,861 - INFO - Element 'MTT Network' was added to dict
+2025-06-13 20:22:35,963 - INFO - Element 'Wax' was added to dict
+2025-06-13 20:22:36,067 - INFO - Element 'Kadena' was added to dict
+2025-06-13 20:22:36,171 - INFO - Element 'Elastos' was added to dict
+2025-06-13 20:22:36,274 - INFO - Element 'SX Rollup' was added to dict
+2025-06-13 20:22:36,375 - INFO - Element 'XPLA' was added to dict
+2025-06-13 20:22:36,518 - INFO - Element 'Odyssey' was added to dict
+2025-06-13 20:22:36,643 - INFO - Element 'WINR' was added to dict
+2025-06-13 20:22:36,776 - INFO - Element 'Unit Zero' was added to dict
+2025-06-13 20:22:38,853 - INFO - Element 'Starcoin' was added to dict
+2025-06-13 20:22:38,971 - INFO - Element 'smartBCH' was added to dict
+2025-06-13 20:22:39,095 - INFO - Element 'Milkomeda C1' was added to dict
+2025-06-13 20:22:39,219 - INFO - Element 'Arbitrum Nova' was added to dict
+2025-06-13 20:22:39,355 - INFO - Element 'Zero Network' was added to dict
+2025-06-13 20:22:39,505 - INFO - Element 'Terra Classic' was added to dict
+2025-06-13 20:22:39,658 - INFO - Element 'DeFiVerse' was added to dict
+2025-06-13 20:22:39,800 - INFO - Element 'Meter' was added to dict
+2025-06-13 20:22:39,937 - INFO - Element 'ShimmerEVM' was added to dict
+2025-06-13 20:22:40,072 - INFO - Element 'Fuse' was added to dict
+2025-06-13 20:22:42,452 - INFO - Element 'BEVM' was added to dict
+2025-06-13 20:22:42,610 - INFO - Element 'Obyte' was added to dict
+2025-06-13 20:22:42,775 - INFO - Element 'NOS' was added to dict
+2025-06-13 20:22:42,926 - INFO - Element 'Archway' was added to dict
+2025-06-13 20:22:43,073 - INFO - Element 'zkLink Nova' was added to dict
+2025-06-13 20:22:43,207 - INFO - Element 'Prom' was added to dict
+2025-06-13 20:22:43,336 - INFO - Element 'Ultron' was added to dict
+2025-06-13 20:22:43,470 - INFO - Element 'HAQQ' was added to dict
+2025-06-13 20:22:43,602 - INFO - Element 'Persistence One' was added to dict
+2025-06-13 20:22:43,731 - INFO - Element 'Acala' was added to dict
+2025-06-13 20:22:46,114 - INFO - Element 'Mantra' was added to dict
+2025-06-13 20:22:46,253 - INFO - Element 'Energi' was added to dict
+2025-06-13 20:22:46,408 - INFO - Element 'CSC' was added to dict
+2025-06-13 20:22:46,568 - INFO - Element 'Oasis Emerald' was added to dict
+2025-06-13 20:22:46,719 - INFO - Element 'SatoshiVM' was added to dict
+2025-06-13 20:22:46,844 - INFO - Element 'Haven1' was added to dict
+2025-06-13 20:22:46,984 - INFO - Element 'Taraxa' was added to dict
+2025-06-13 20:22:47,201 - INFO - Element 'ThunderCore' was added to dict
+2025-06-13 20:22:47,335 - INFO - Element 'Everscale' was added to dict
+2025-06-13 20:22:47,477 - INFO - Element 'Velas' was added to dict
+2025-06-13 20:22:49,921 - INFO - Element 'Nolus' was added to dict
+2025-06-13 20:22:50,117 - INFO - Element 'CosmosHub' was added to dict
+2025-06-13 20:22:50,291 - INFO - Element 'Shido' was added to dict
+2025-06-13 20:22:50,466 - INFO - Element 'Nibiru' was added to dict
+2025-06-13 20:22:50,625 - INFO - Element 'Bittorrent' was added to dict
+2025-06-13 20:22:50,772 - INFO - Element 'Boba_Bnb' was added to dict
+2025-06-13 20:22:50,931 - INFO - Element 'Redbelly' was added to dict
+2025-06-13 20:22:51,079 - INFO - Element 'Degen' was added to dict
+2025-06-13 20:22:51,231 - INFO - Element 'EthereumClassic' was added to dict
+2025-06-13 20:22:51,391 - INFO - Element 'SKALE Europa' was added to dict
+2025-06-13 20:22:54,317 - INFO - Element 'OpenGPU' was added to dict
+2025-06-13 20:22:54,465 - INFO - Element 'Kintsugi' was added to dict
+2025-06-13 20:22:54,629 - INFO - Element 'RSS3' was added to dict
+2025-06-13 20:22:54,788 - INFO - Element 'Agoric' was added to dict
+2025-06-13 20:22:54,963 - INFO - Element 'Kroma' was added to dict
+2025-06-13 20:22:55,129 - INFO - Element 'Elysium' was added to dict
+2025-06-13 20:22:55,281 - INFO - Element 'Xai' was added to dict
+2025-06-13 20:22:55,445 - INFO - Element 'Superposition' was added to dict
+2025-06-13 20:22:55,608 - INFO - Element 'Evmos' was added to dict
+2025-06-13 20:22:55,757 - INFO - Element 'EnergyWeb' was added to dict
+2025-06-13 20:22:58,528 - INFO - Element 'Neon' was added to dict
+2025-06-13 20:22:58,642 - INFO - Element 'Karura' was added to dict
+2025-06-13 20:22:58,751 - INFO - Element 'Juno' was added to dict
+2025-06-13 20:22:58,847 - INFO - Element 'Qubic' was added to dict
+2025-06-13 20:22:58,944 - INFO - Element 'Aleph Zero EVM' was added to dict
+2025-06-13 20:22:59,037 - INFO - Element 'FunctionX' was added to dict
+2025-06-13 20:22:59,134 - INFO - Element 'Mint' was added to dict
+2025-06-13 20:22:59,228 - INFO - Element 'Matchain' was added to dict
+2025-06-13 20:22:59,323 - INFO - Element 'Lens' was added to dict
+2025-06-13 20:22:59,419 - INFO - Element 'Ancient8' was added to dict
+2025-06-13 20:23:01,254 - INFO - Element 'Saakuru' was added to dict
+2025-06-13 20:23:01,350 - INFO - Element 'Libre' was added to dict
+2025-06-13 20:23:01,446 - INFO - Element 'DeFiChain EVM' was added to dict
+2025-06-13 20:23:01,544 - INFO - Element 'Crab' was added to dict
+2025-06-13 20:23:01,638 - INFO - Element 'RENEC' was added to dict
+2025-06-13 20:23:01,738 - INFO - Element 'Naka' was added to dict
+2025-06-13 20:23:01,834 - INFO - Element 'Kardia' was added to dict
+2025-06-13 20:23:01,930 - INFO - Element 'Omax' was added to dict
+2025-06-13 20:23:02,025 - INFO - Element 'Massa' was added to dict
+2025-06-13 20:23:02,131 - INFO - Element 'HeLa' was added to dict
+2025-06-13 20:23:03,935 - INFO - Element 'AirDAO' was added to dict
+2025-06-13 20:23:04,030 - INFO - Element 'Shape' was added to dict
+2025-06-13 20:23:04,125 - INFO - Element 'Stargaze' was added to dict
+2025-06-13 20:23:04,223 - INFO - Element 'Zkfair' was added to dict
+2025-06-13 20:23:04,319 - INFO - Element 'ALV' was added to dict
+2025-06-13 20:23:04,415 - INFO - Element 'Dash' was added to dict
+2025-06-13 20:23:04,517 - INFO - Element 'AO' was added to dict
+2025-06-13 20:23:04,612 - INFO - Element 'Electroneum' was added to dict
+2025-06-13 20:23:04,734 - INFO - Element 'Step' was added to dict
+2025-06-13 20:23:04,853 - INFO - Element 'CrossFi' was added to dict
+2025-06-13 20:23:06,594 - INFO - Element 'Chihuahua' was added to dict
+2025-06-13 20:23:06,689 - INFO - Element 'Genesys' was added to dict
+2025-06-13 20:23:06,785 - INFO - Element 'MVC' was added to dict
+2025-06-13 20:23:06,888 - INFO - Element 'Comdex' was added to dict
+2025-06-13 20:23:06,995 - INFO - Element 'Tombchain' was added to dict
+2025-06-13 20:23:07,104 - INFO - Element 'Q Protocol' was added to dict
+2025-06-13 20:23:07,214 - INFO - Element 'Polkadex' was added to dict
+2025-06-13 20:23:07,312 - INFO - Element 'Nahmii' was added to dict
+2025-06-13 20:23:07,412 - INFO - Element 'Loop' was added to dict
+2025-06-13 20:23:07,551 - INFO - Element 'Endurance' was added to dict
+2025-06-13 20:23:09,338 - INFO - Element 'Swan' was added to dict
+2025-06-13 20:23:09,434 - INFO - Element 'DuckChain' was added to dict
+2025-06-13 20:23:09,532 - INFO - Element 'Godwoken' was added to dict
+2025-06-13 20:23:09,627 - INFO - Element 'Zora' was added to dict
+2025-06-13 20:23:09,727 - INFO - Element 'Parex' was added to dict
+2025-06-13 20:23:09,823 - INFO - Element 'EthereumPoW' was added to dict
+2025-06-13 20:23:09,927 - INFO - Element 'Cyber' was added to dict
+2025-06-13 20:23:10,023 - INFO - Element 'Stratis' was added to dict
+2025-06-13 20:23:10,133 - INFO - Element 'Sanko' was added to dict
+2025-06-13 20:23:10,255 - INFO - Element 'Crescent' was added to dict
+2025-06-13 20:23:12,020 - INFO - Element 'Bitrock' was added to dict
+2025-06-13 20:23:12,118 - INFO - Element 'LaChain Network' was added to dict
+2025-06-13 20:23:12,222 - INFO - Element 'Sora' was added to dict
+2025-06-13 20:23:12,323 - INFO - Element 'Aura Network' was added to dict
+2025-06-13 20:23:12,419 - INFO - Element 'Rari' was added to dict
+2025-06-13 20:23:12,518 - INFO - Element 'Findora' was added to dict
+2025-06-13 20:23:12,617 - INFO - Element 'Bostrom' was added to dict
+2025-06-13 20:23:12,711 - INFO - Element 'Lachain' was added to dict
+2025-06-13 20:23:12,809 - INFO - Element 'LUKSO' was added to dict
+2025-06-13 20:23:12,929 - INFO - Element 'Neo X Mainnet' was added to dict
+2025-06-13 20:23:14,753 - INFO - Element 'Shiden' was added to dict
+2025-06-13 20:23:14,854 - INFO - Element 'Form Network' was added to dict
+2025-06-13 20:23:14,950 - INFO - Element 're.al' was added to dict
+2025-06-13 20:23:15,051 - INFO - Element 'Redstone' was added to dict
+2025-06-13 20:23:15,146 - INFO - Element 'Planq' was added to dict
+2025-06-13 20:23:15,247 - INFO - Element 'Silicon zkEVM' was added to dict
+2025-06-13 20:23:15,349 - INFO - Element 'Moonchain' was added to dict
+2025-06-13 20:23:15,448 - INFO - Element 'Migaloo' was added to dict
+2025-06-13 20:23:15,578 - INFO - Element 'Horizen EON' was added to dict
+2025-06-13 20:23:15,700 - INFO - Element 'Areon Network' was added to dict
+2025-06-13 20:23:17,488 - INFO - Element 'Astar zkEVM' was added to dict
+2025-06-13 20:23:17,591 - INFO - Element 'inEVM' was added to dict
+2025-06-13 20:23:17,693 - INFO - Element 'Penumbra' was added to dict
+2025-06-13 20:23:17,789 - INFO - Element 'JBC' was added to dict
+2025-06-13 20:23:17,893 - INFO - Element 'MultiVAC' was added to dict
+2025-06-13 20:23:17,988 - INFO - Element 'Callisto' was added to dict
+2025-06-13 20:23:18,089 - INFO - Element 'Grove' was added to dict
+2025-06-13 20:23:18,192 - INFO - Element 'ENULS' was added to dict
+2025-06-13 20:23:18,302 - INFO - Element 'Asset Chain' was added to dict
+2025-06-13 20:23:18,424 - INFO - Element 'ETHF' was added to dict
+2025-06-13 20:23:20,306 - INFO - Element 'Cube' was added to dict
+2025-06-13 20:23:20,406 - INFO - Element 'Ham' was added to dict
+2025-06-13 20:23:20,511 - INFO - Element 'VinuChain' was added to dict
+2025-06-13 20:23:20,613 - INFO - Element 'GoChain' was added to dict
+2025-06-13 20:23:20,709 - INFO - Element 'REI' was added to dict
+2025-06-13 20:23:20,812 - INFO - Element 'Joltify' was added to dict
+2025-06-13 20:23:20,910 - INFO - Element 'Darwinia' was added to dict
+2025-06-13 20:23:21,023 - INFO - Element 'Artela' was added to dict
+2025-06-13 20:23:21,148 - INFO - Element 'Manta Atlantic' was added to dict
+2025-06-13 20:23:21,270 - INFO - Element 'Bitgert' was added to dict
+2025-06-13 20:23:23,206 - INFO - Element 'OntologyEVM' was added to dict
+2025-06-13 20:23:23,304 - INFO - Element 'REIchain' was added to dict
+2025-06-13 20:23:23,400 - INFO - Element 'Sifchain' was added to dict
+2025-06-13 20:23:23,495 - INFO - Element 'XCHAIN' was added to dict
+2025-06-13 20:23:23,592 - INFO - Element 'Plume (Deprecated)' was added to dict
+2025-06-13 20:23:23,687 - INFO - Element 'SX Network' was added to dict
+2025-06-13 20:23:23,786 - INFO - Element 'Milkomeda A1' was added to dict
+2025-06-13 20:23:23,881 - INFO - Element 'Palm' was added to dict
+2025-06-13 20:23:23,995 - INFO - Element 'Tenet' was added to dict
+2025-06-13 20:23:24,119 - INFO - Element 'Concordium' was added to dict
+2025-06-13 20:23:25,859 - INFO - Element 'Aeternity' was added to dict
+2025-06-13 20:23:25,958 - INFO - Element 'Bitnet' was added to dict
+2025-06-13 20:23:26,053 - INFO - Element 'Waterfall' was added to dict
+2025-06-13 20:23:26,147 - INFO - Element 'Pego' was added to dict
+2025-06-13 20:23:26,241 - INFO - Element 'Xphere' was added to dict
+2025-06-13 20:23:26,338 - INFO - Element 'Celestia' was added to dict
+2025-06-13 20:23:26,442 - INFO - Element 'BandChain' was added to dict
+2025-06-13 20:23:26,549 - INFO - Element 'Sommelier' was added to dict
+2025-06-13 20:23:26,660 - INFO - Element 'IOTA' was added to dict
+2025-06-13 20:23:26,800 - INFO - Element 'Polkadot' was added to dict
+2025-06-13 20:23:28,563 - INFO - Element 'Syscoin' was added to dict
+2025-06-13 20:23:28,663 - INFO - Element 'Kusama' was added to dict
+2025-06-13 20:23:28,759 - INFO - Element 'exSat' was added to dict
+2025-06-13 20:23:28,858 - INFO - Element 'Milkyway' was added to dict
+2025-06-13 20:23:28,953 - INFO - Element 'MilkyWay Rollup' was added to dict
+2025-06-13 20:23:29,052 - INFO - Element 'Quicksilver' was added to dict
+2025-06-13 20:23:29,149 - INFO - Element 'Pryzm' was added to dict
+2025-06-13 20:23:29,244 - INFO - Element 'Pokt' was added to dict
+2025-06-13 20:23:29,340 - INFO - Element 'Heco' was added to dict
+2025-06-13 20:23:29,466 - INFO - Element 'Kopi' was added to dict
+2025-06-13 20:23:31,155 - INFO - Element 'Flame' was added to dict
+2025-06-13 20:23:31,263 - INFO - Element 'Goerli' was added to dict
+2025-06-13 20:23:31,369 - INFO - Element 'Dexit' was added to dict
+2025-06-13 20:23:31,483 - INFO - Element 'Stride' was added to dict
+2025-06-13 20:23:31,593 - INFO - Element 'Fusion' was added to dict
+2025-06-13 20:23:31,689 - INFO - Element 'Boba_Avax' was added to dict
+2025-06-13 20:23:31,787 - INFO - Element 'Stafi' was added to dict
+2025-06-13 20:23:31,881 - INFO - Element 'Empire' was added to dict
+2025-06-13 20:23:31,976 - INFO - Element 'OXFUN' was added to dict
+2025-06-13 20:23:32,084 - INFO - Element 'Echelon' was added to dict
+2025-06-13 20:23:33,800 - INFO - Element 'Hoo' was added to dict
+2025-06-13 20:23:33,899 - INFO - Element 'Mind Network' was added to dict
+2025-06-13 20:23:33,991 - INFO - Element 'Perennial' was added to dict
+2025-06-13 20:23:34,085 - INFO - Element 'CLV' was added to dict
+2025-06-13 20:23:34,183 - INFO - Element 'DSC' was added to dict
+2025-06-13 20:23:34,284 - INFO - Element 'ZKsync Lite' was added to dict
+2025-06-13 20:23:34,379 - INFO - Element 'Nova Network' was added to dict
+2025-06-13 20:23:34,473 - INFO - Element 'CMP' was added to dict
+2025-06-13 20:23:34,567 - INFO - Element 'Genshiro' was added to dict
+2025-06-13 20:23:34,681 - INFO - Element 'Lamden' was added to dict
+2025-06-13 20:23:35,483 - WARNING - Execution of job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:23:35 EEST)" skipped: maximum number of running instances reached (1)
+2025-06-13 20:23:36,387 - INFO - Element 'HPB' was added to dict
+2025-06-13 20:23:36,483 - INFO - Element 'Polis' was added to dict
+2025-06-13 20:23:36,578 - INFO - Element 'ZYX' was added to dict
+2025-06-13 20:23:36,682 - INFO - Element 'Ubiq' was added to dict
+2025-06-13 20:23:36,778 - INFO - Element 'Heiko' was added to dict
+2025-06-13 20:23:36,870 - INFO - Element 'Parallel' was added to dict
+2025-06-13 20:23:36,970 - INFO - Element 'Coti' was added to dict
+2025-06-13 20:23:37,064 - INFO - Element 'Kekchain' was added to dict
+2025-06-13 20:23:37,164 - INFO - Element 'MUUCHAIN' was added to dict
+2025-06-13 20:23:37,270 - INFO - Element 'Tlchain' was added to dict
+2025-06-13 20:23:39,048 - INFO - Element 'Zeniq' was added to dict
+2025-06-13 20:23:39,146 - INFO - Element 'Bitindi' was added to dict
+2025-06-13 20:23:39,243 - INFO - Element 'Lung' was added to dict
+2025-06-13 20:23:39,341 - INFO - Element 'Bone' was added to dict
+2025-06-13 20:23:39,439 - INFO - Element 'MEER' was added to dict
+2025-06-13 20:23:41,512 - INFO - Scrolling reached the end of page.
+2025-06-13 20:23:43,900 - INFO - Scrolling reached the end of page.
+2025-06-13 20:23:46,291 - INFO - Scrolling reached the end of page.
+2025-06-13 20:23:48,750 - INFO - Scrolling reached the end of page.
+2025-06-13 20:23:48,750 - INFO - Parsing was finished. Collected 395 elements.
+2025-06-13 20:23:49,225 - INFO - New data appended and saved to output/result.json
+2025-06-13 20:23:49,225 - INFO - Job "main (trigger: interval[0:02:00], next run at: 2025-06-13 20:25:35 EEST)" executed successfully

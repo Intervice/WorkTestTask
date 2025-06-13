@@ -1,7 +1,7 @@
 {
     "interval_minutes": 2,
     "proxy_settings": {
-        "enabled": true,
+        "enabled": false,
         "server": "http://51.81.245.31:7981",
         "username": "",
         "password": ""

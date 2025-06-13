@@ -28,7 +28,7 @@ async def extract_data_from_row(row_locator):
 
 async def scrape_data():
     async with (async_playwright() as apw):
-        browser = await apw.firefox.launch(headless=False)
+        browser = await apw.firefox.launch(headless=False, slow_mo=20)
         page = await browser.new_page()
         await page.goto("https://defillama.com/chains")
 
@@ -40,7 +40,7 @@ async def scrape_data():
         window_height = await page.evaluate("window.innerHeight")
 
         await first_div.scroll_into_view_if_needed()
-        await page.mouse.wheel(delta_x=0, delta_y=50 * 12)
+        await page.mouse.wheel(delta_x=0, delta_y=50 * 6)
         date = "Scraping at" + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         scraped_data = {date: {"data_list": []}}
         unique_names = set()
@@ -77,15 +77,48 @@ async def scrape_data():
         return scraped_data
 
 
+# async def main():
+#     full_scraped_result = await scrape_data()
+#
+#     try:
+#         with open(r"/output/result.json", "a", encoding='utf-8') as file:
+#             json.dump(full_scraped_result, file, ensure_ascii=False, indent=4)
+#         logging.info("Data was saved in file.")
+#     except Exception as e:
+#         logging.error(f"Error on stage of dumping data to json file: {e}")
 async def main():
-    full_scraped_result = await scrape_data()
-
     try:
-        with open(r"/output/result.json", "a", encoding='utf-8') as file:
-            json.dump(full_scraped_result, file, ensure_ascii=False, indent=4)
-        logging.info("Data was saved in file.")
+        scraped_result = await scrape_data()
+
+        output_path = "output/result.json"
+
+        all_results = []
+        if os.path.exists(output_path):
+            try:
+                with open(output_path, "r", encoding='utf-8') as file:
+                    existing_data = json.load(file)
+
+                    if isinstance(existing_data, list):
+                        all_results = existing_data
+                    else:
+                        all_results = [existing_data]
+            except json.JSONDecodeError:
+                logging.warning(f"Existing {output_path} is empty or corrupted JSON. Starting with a new list.")
+                all_results = []
+            except Exception as e:
+                logging.error(f"Error reading existing data from {output_path}: {e}", exc_info=True)
+                all_results = []
+
+        all_results.append(scraped_result)
+
+        try:
+            with open(output_path, "w", encoding='utf-8') as file:
+                json.dump(all_results, file, ensure_ascii=False, indent=4)
+            logging.info(f"New data appended and saved to {output_path}")
+        except Exception as e:
+            logging.error(f"Error on stage of dumping data to json file {output_path}: {e}", exc_info=True)
     except Exception as e:
-        logging.error(f"Error on stage of dumping data to json file: {e}")
+        logging.critical(f"Error in main() function: {e}", exc_info=True)
 
 
 def load_config():
